@@ -177,4 +177,4 @@ This work builds on previous research by Barthel, Fischer, Guy, Pozdniakov, Knor
 **High-Confidence Decipherments**: 15  
 **Medium-Confidence Identifications**: 25  
 
-*For more information about ancient language preservation efforts, visit [Tales of the Past](https://talesofthepast.com/)*
+*For more information about ancient language preservation efforts, visit [Translate the Ancients](https://translatetheancients.com/)*
