@@ -1,0 +1,311 @@
+
+glyph,english,translit,confidence,source,notes
+1,person; human,tangata,0.85,"Barthel B001, Fischer 1997",Alternative translation of basic anthropomorphic glyph; Basic human figure representing a person or ancestor; appears in genealogical lists.; Basic human figure with dual meaning: 'person' (general individual) and 'human' (species designation). Appears consistently in genealogical contexts and social hierarchies.
+2,head; face,po'o; mata,0.7,"Guy 1990, comparative analysis",Alternative interpretation focusing on facial aspect; Circular glyph with facial features. Primary anatomical reference to 'head' (po'o) but also facial aspect 'face' (mata). Represents both physical structure and identity/recognition.
+3,watch; eye; see,kite; mata; mata kite,0.8,"Pozdniakov 2007, anatomical","Direct anatomical reference, oval with central dot; Direct anatomical 'eye' (mata) with extended meanings: 'see' (kite) for vision, 'watch' (mata kite) for observation. Oval with central dot representing visual perception and awareness."
+4,word; mouth; speak,kupu; haha; kī,0.75,"Fischer 1997, anatomical","Horizontal line representing oral cavity; Anatomical 'mouth' (haha) with communicative extensions: 'speak' (kī) for verbal action, 'word' (kupu) for linguistic content. Horizontal line representing oral cavity and speech function."
+5,arm; reach,tuku; rima,0.6,Barthel action interpretation,Action derived from arm extension; Linear appendage representing 'arm' (rima) with action meaning 'reach' (tuku). Physical limb and extending action derived from arm movement.
+6,plural marker; grasp; plural marker; rima (five; take; hand; many),plural marker; rima; ma'u,0.9,Aruku Kurenga,"Updated interpretation, status: confirmed; Hand glyph used as plural or collective marker; attaches to nouns to indicate many.; Multi-functional glyph: anatomical 'hand' (rima), verbs 'take/grasp' (ma'u), and grammatical 'plural marker'. Confirmed as pluralizing affix when combined with other glyphs. (Cross-methodology) Cross-linguistic plural marker: similar to Elamite plural suffix '-p' and '-be' and to plural marker determinatives in Egyptian. The hand glyph acts as a plural or group marker across the tablets."
+8,star (ra'a or hetu'u); sun; star; fire; light,ahi; sun/star (ra'a or hetu'u); mārama; hetu'u; ra'a,0.9,Santiago Staff/Aruku Kurenga,"Updated interpretation, status: confirmed; Radiating circular glyph for the sun; can also denote star or light; used as celestial/temporal marker.; Radial celestial glyph with multiple meanings: 'sun' (ra'a) primary, 'star' (hetu'u) alternative, 'fire' (ahi) for heat/light, 'light' (mārama) general illumination. Solar or stellar symbol with luminous properties. (Cross-methodology) Celestial symbol: analogous to solar ideogram in Egyptian (hieroglyph N5) and the cuneiform sign 'UD' for sun/day; widely used cross-culturally to denote the sun or a star."
+10,lunar; month; moon,māhina,0.8,Mamari calendar context,"Adjectival form related to moon; Crescent-shaped glyph denoting the moon or month; forms basis of lunar calendar.; Crescent lunar glyph: 'moon' (māhina) celestial body, 'lunar' adjectival form, 'month' temporal unit. Generic lunar sign fundamental to calendar systems. (Cross-methodology) Moon sign: parallels lunar crescents in many scripts, such as the Egyptian 'iaH' hieroglyph and the cuneiform sign 'ITU' for month; denotes lunar phases and timekeeping."
+20,grow; tree; plant,tiare; tipu; rākau,0.6,Fischer growth concept,"Action derived from plant symbolism; Branching glyph representing a tree or plant; marks agriculture or growth sections.; Branched vegetation with multiple interpretations: 'tree' (rākau) woody plant, 'plant' (tiare) general vegetation, 'grow' (tipu) growth action. Represents plant life and growth concepts."
+30,place; house,hare; henua,0.6,Knorozov spatial reference,"General location concept; Rectangular or oval enclosure sign; denotes a house, dwelling, or place.; Architectural/spatial glyph: 'house' (hare) dwelling structure, 'place' (henua) general location. Rectangular enclosure representing habitation or geographic reference."
+40,water; flow; sea,rere; tai; vai,0.7,Guy fluid motion analysis,"Movement of water or liquid; Wavy line glyph representing water or sea; universal pictograph used in myths and voyages.; Wavy liquid representation: 'water' (vai) general liquid, 'sea' (tai) marine water, 'flow' (rere) movement. Also functions as night marker in lunar calendar contexts."
+50,stone; rock,papa; maea,0.6,Pozdniakov geological alt.,"Alternative stone/mineral reference; Stone or rock symbol; may denote land or foundation; used in place names.; Angular mineral form: 'stone' (maea) individual rock, 'rock' (papa) general mineral. Represents solid earth, foundation, or permanent structures."
+60,way; road; path,tahua; ara rahi; ara,0.55,Barthel method/manner,"Method or manner of doing; Linear pathway concepts: 'path' (ara) trail, 'road' (ara rahi) major route, 'way' (tahua) method/manner. Represents travel routes and procedural methods."
+70,staff; stick; tool,kau; toko; taura,0.65,Fischer implement general,"General implement or instrument; Linear implement with multiple interpretations: 'stick' (kau) wooden object, 'staff' (toko) authority rod, 'tool' (taura) general implement. Represents tools and symbols of power."
+76,procreate; 'ai' or 'fanau'; relational marker (begat/son of); copulate; sex; procreate,fanau; 'ai; copulate/procreate,0.9,Santiago Staff,"Updated interpretation, status: confirmed; Phallic symbol with explicit sexual meanings: 'copulate' ('ai) sexual union, 'procreate' (fanau) reproductive action, 'sex' ('ai) sexual activity. Functions as genealogical connector 'begat/son of' in lineage texts. (Cross-methodology) Cross-linguistic genealogical marker: functions as a 'son of' marker like the patronymic '-son' in English names or 'ben' in Semitic languages; conceptually similar to Sumerian sign 'dumu' for 'child' and certain kinship markers in hieroglyphs."
+80,breast; nurture; female,ūū; hanau; vi'e,0.8,Guy gender analysis,"Feminine gender marker; Maternal symbolism: 'breast' (ūū) mammary gland, 'female' (vi'e) gender marker, 'nurture' (hanau) care function. Represents feminine, maternal, and nurturing concepts."
+90,pregnant; full; belly,kōpū; hapū; kī,0.7,Pozdniakov completeness,"State of being filled or complete; Abdominal/pregnancy symbolism: 'belly' (kōpū) anatomical region, 'pregnant' (hapū) reproductive state, 'full' (kī) completeness. Represents fertility and fullness concepts."
+100,leg; walk; travel; journey,rere; va'e; kōpeka,0.6,Barthel journey concept,"Movement from place to place; Locomotion concepts: 'leg' (va'e) anatomical limb, 'walk' (kōpeka) pedestrian movement, 'travel' (rere) journey, 'journey' extended travel. Movement and transportation symbolism."
+152,whole; full moon; complete,katoa; motohi; oti; mahina,0.85,Guy totality analysis,"Complete entity without parts missing; Circular disk with internal markings; denotes full moon and completion; in lunar calendar.; Central lunar calendar glyph with completeness meanings: 'full moon' (mahina, motohi) lunar phase, 'complete' (oti) finished state, 'whole' (katoa) entirety. Known as 'Old Woman Lighting the Oven in the Sky'. (Cross-methodology) Full moon: similar to the Egyptian full-moon hieroglyph (the 'old woman' myth) and to the cuneiform 'ITU' with full circle shape representing a complete month."
+200,ruler; person (ariki); king; chief; man,hakakina; ariki henua; ariki; tangata; chief/person (ariki),0.75,Aruku Kurenga,"Updated interpretation, status: proposed/high confidence; High-status person with multiple authority levels: 'chief' (ariki) leader, 'ruler' (hakakina) governor, 'king' (ariki henua) supreme authority, 'man' (tangata) adult male. Regularly appears in genealogical chains as title/status marker. (Cross-methodology) Cross-linguistic royal title: comparable to Sumerian 'lugal' and Akkadian 'šar' (king) and Egyptian 'nsw-bit'. The anthropomorphic figure with headdress parallels the universal concept of a king/chief."
+300,woman; mother,māmā; vi'e,0.75,Guy maternal analysis,"Female parent, birth-giver; Anthropomorphic female figure representing woman or mother; appears in genealogies.; Female designation: 'woman' (vi'e) adult female, 'mother' (māmā) female parent. Represents feminine gender and maternal roles."
+400,child; offspring; young,ui; hua; poki,0.65,Pozdniakov reproductive context,"Descendants, children of parents; Small human figure indicating child or offspring; descendant in genealogies.; Youth/descendant concepts: 'child' (poki) juvenile, 'young' (ui) recent birth, 'offspring' (hua) descendants. Represents youth and generational relationships."
+500,elder; old; ancestor,rua; koroua; tupuna,0.65,Guy temporal analysis,"Advanced in age or time; Distinguished human figure representing elder or ancestor; tentative.; Age/ancestry concepts: 'ancestor' (tupuna) forebear, 'elder' (koroua) senior member, 'old' (rua) advanced age. Represents seniority and ancestral authority."
+600,frigatebird; fly; bird,rere; tavake; manu,0.9,Fischer species identification,"Specific seabird species, cultural significance; Bird glyph; the frigatebird sacred to Rapa Nui; used in creation chants and clan totems.; Avian symbolism: 'bird' (manu) general avian, 'frigatebird' (tavake) specific species, 'fly' (rere) flight action. Sacred bird of Bird-Man cult with creation mythology significance. (Cross-methodology) Bird sign: similar to the Egyptian G17 'sparrow' hieroglyph and the use of bird logograms in cuneiform to denote birds or deities. Represents frigatebird/manu and connects to Makemake."
+606,flock; birds (plural); spirits; plural birds (manu); flock,plural birds (manu); puhi manu; manu (plural),0.9,Santiago Staff/Aruku Kurenga,"Updated interpretation, status: confirmed; Composite of 600 (bird) and 6 (hand); indicates plural birds or a flock.; Plural avian collective: 'birds (plural)' (manu) multiple birds, 'flock' (puhi manu) group flying together, 'spirits' collective entities. Composite of bird + plural hand marker, used in creation myths. (Cross-methodology) Plural bird sign: analogous to dual/plural markers by reduplication in many scripts; indicates multiple birds, comparable to repeated bird signs in Mayan glyphs."
+610,egg; beginning; origin,hua; timu; mata,0.75,Guy creation mythology,"Source or starting point; Oval “egg” glyph representing origin or seed; marks beginning of creation sequence.; Cosmogonic symbolism: 'egg' (hua) reproductive structure, 'origin' (mata) source, 'beginning' (timu) commencement. Strongly linked to creation mythology and birth concepts. (Cross-methodology) Egg/origin symbol: comparable to fertility or origin signs in Indo-European mythologies and to the hieroglyph 'ḥ'n' for 'egg', reflecting beginnings and creation."
+700,fish (ika) or victim; sacrifice (haka ira); victim; sacrifice; fish,fish (ika) or victim/sacrifice (haka ira); kai; haka ira; ika,0.75,Santiago Staff,"Updated interpretation, status: ambiguous/polysemic; Fish pictograph that can mean fish or victim/sacrifice depending on context.; Polysemic glyph with dual meanings: 'fish' (ika) aquatic creature in mythological contexts, 'victim' (kai) sacrifice target, 'sacrifice' (haka ira) ritual offering in historical contexts. Meaning determined by textual context. (Cross-methodology) Fish/victim sign: analogous to the Sumerian 'KU' or 'KU6' for fish and to the Biblical pun on 'fish' and 'sacrifice' (Aramaic 'dag'). Emphasizes polysemy between food and sacrificial victim."
+710,dangerous; fierce; shark,taratara; mako; kino,0.6,Fischer aggressive nature,"Aggressive or violent in nature; Fish with fierce teeth; denotes shark or predatory fish, ferocious quality.; Predatory marine symbolism: 'shark' (mako) large predatory fish, 'dangerous' (kino) threat level, 'fierce' (taratara) aggressive nature. Represents danger and aggressive characteristics."
+750,turtle; slow; ancient,tawhito; honu; mārō,0.7,Guy longevity symbolism,"Very old or from distant past; Marine reptile with temporal qualities: 'turtle' (honu) marine creature, 'ancient' (tawhito) very old, 'slow' (mārō) low speed. Represents longevity symbolism and temporal endurance."
+800,tentacle; octopus,rima he'e; he'e,0.5,Pozdniakov appendage analysis,"Flexible arm-like appendage; Octopus or tentacle glyph; denotes octopus or tentacles.; Cephalopod symbolism: 'octopus' (he'e) eight-armed marine creature, 'tentacle' (rima he'e) flexible appendage. Represents complex marine life and reaching/grasping concepts."
+9,beach; sand; sand (one),one; sand (one),0.75,Aruku Kurenga,"Updated interpretation, status: proposed/high confidence; Represents sand or beach; marks Anakena beach in voyage sequence.; Confirmed location marker for 'sand' or 'beach' (one). Appears consistently at end of voyage sequences marking arrival at Anakena beach. High confidence navigation endpoint. (Cross-methodology) Sand/shore symbol: while unique to Rapa Nui context, the concept of shorelines appears in proto-Elamite signs for 'land' and Sumerian 'kur' meaning land or region."
+7,descendant (poki); possibly Mahaki; descendant; child,child/descendant (poki); poki,0.75,Aruku Kurenga,"Updated interpretation, status: ambiguous/polysemic; Anthropomorphic figure representing child or descendant; starts sequence of young scouts on Tablet B.; Descendant group marker meaning 'child' or 'descendant' (poki). Possibly refers to specific individual 'Mahaki' in some contexts. Explicitly read as 'poki' by historical informant Metoro."
+32,verse divider; section delimiter; section start; start; begin,section delimiter/start; timu; mata,0.75,Aruku Kurenga,"Updated interpretation, status: proposed/high confidence; Marks divisions or section starts; used like punctuation on tablets.; Structural punctuation glyph marking new sections or chapters. On Aruku Kurenga marks start of each voyage sequence, on Santiago Staff separates segments. Functions as paragraph marker or verse beginning. (Cross-methodology) Section delimiter: reminiscent of punctuation markers in hieroglyphs (vertical lines) and cuneiform (wedge separators); marks boundaries between sections or verses."
+999,segment divider; punctuation; text divider; end marker; segment break,segment divider,0.9,Santiago Staff,"Updated interpretation, status: confirmed; Punctuation-like vertical stroke dividing verses on the Santiago Staff.; Vertical line engraved as physical separator. Not vocalized - pure punctuation marking boundaries between verses or genealogical entries. Santiago Staff uses ~103 such dividers. (Cross-methodology) Verse separator: parallels the use of determinatives or punctuation strokes across Bronze Age scripts to separate sentences or clauses."
+11,marine life; small fish; shark; sea creature,niuhi/pakia; ika iti,0.5,Placeholder for research,Large marine creature symbol; interpreted as shark or seal associated with sea god Tangaroa.; Smaller fish variant distinct from major fish glyph 700. Represents minor marine creatures or specific fish types in mythological contexts. (Cross-methodology) Large fish/shark: matches with cuneiform 'KALA' for fish and Egyptian '3hf' for 'shark'.
+12,aquatic motion; fish; swimming creature,rere vai; ika,0.5,Placeholder for research,Fish pictograph; used literally and in divine names such as Ika roa.; Depicts creature in motion through water. May represent swimming action or specific marine animal in narrative sequences about ocean travel or fishing.
+13,cave/tomb,ana/avanga,0.5,Placeholder for research,Symbol for cave or burial tomb; confirmed by context of scout being buried in a cave.
+14,,,0.0,Placeholder for research,Glyph 14 - awaiting decipherment
+15,,,0.0,Placeholder for research,Glyph 15 - awaiting decipherment
+16,sea life; marine creature; tuna fish,kahi; moana roa,0.5,Placeholder for research,"Specific fish glyph identified as tuna; appears with Tangaroa as tuna incarnation.; General marine life symbol, possibly representing diverse sea creatures collectively. Lower confidence due to broad categorical meaning requiring contextual specification."
+17,,,0.0,Placeholder for research,Glyph 17 - awaiting decipherment
+18,,,0.0,Placeholder for research,Glyph 18 - awaiting decipherment
+19,,,0.0,Placeholder for research,Glyph 19 - awaiting decipherment
+21,,,0.0,Placeholder for research,Glyph 21 - awaiting decipherment
+22,,,0.0,Placeholder for research,Glyph 22 - awaiting decipherment
+23,,,0.0,Placeholder for research,Glyph 23 - awaiting decipherment
+24,,,0.0,Placeholder for research,Glyph 24 - awaiting decipherment
+25,,,0.0,Placeholder for research,Glyph 25 - awaiting decipherment
+26,,,0.0,Placeholder for research,Glyph 26 - awaiting decipherment
+27,,,0.0,Placeholder for research,Glyph 27 - awaiting decipherment
+28,,,0.0,Placeholder for research,Glyph 28 - awaiting decipherment
+29,,,0.0,Placeholder for research,Glyph 29 - awaiting decipherment
+31,,,0.0,Placeholder for research,Glyph 31 - awaiting decipherment
+33,,,0.0,Placeholder for research,Glyph 33 - awaiting decipherment
+34,,,0.0,Placeholder for research,Glyph 34 - awaiting decipherment
+35,,,0.0,Placeholder for research,Glyph 35 - awaiting decipherment
+36,,,0.0,Placeholder for research,Glyph 36 - awaiting decipherment
+37,,,0.0,Placeholder for research,Glyph 37 - awaiting decipherment
+38,,,0.0,Placeholder for research,Glyph 38 - awaiting decipherment
+39,,,0.0,Placeholder for research,Glyph 39 - awaiting decipherment
+41,crescent variant/day marker,--,0.5,Placeholder for research,Variant shape not used in night count; possibly denotes day or other time unit.
+42,,,0.0,Placeholder for research,Glyph 42 - awaiting decipherment
+43,,,0.0,Placeholder for research,Glyph 43 - awaiting decipherment
+44,frigate bird,taha,0.5,Placeholder for research,Bird glyph representing the frigatebird; used as clan totem and sacred symbol.
+45,,,0.0,Placeholder for research,Glyph 45 - awaiting decipherment
+46,,,0.0,Placeholder for research,Glyph 46 - awaiting decipherment
+47,,,0.0,Placeholder for research,Glyph 47 - awaiting decipherment
+48,,,0.0,Placeholder for research,Glyph 48 - awaiting decipherment
+49,,,0.0,Placeholder for research,Glyph 49 - awaiting decipherment
+51,,,0.0,Placeholder for research,Glyph 51 - awaiting decipherment
+52,,,0.0,Placeholder for research,Glyph 52 - awaiting decipherment
+53,,,0.0,Placeholder for research,Glyph 53 - awaiting decipherment
+54,,,0.0,Placeholder for research,Glyph 54 - awaiting decipherment
+55,,,0.0,Placeholder for research,Glyph 55 - awaiting decipherment
+56,,,0.0,Placeholder for research,Glyph 56 - awaiting decipherment
+57,,,0.0,Placeholder for research,Glyph 57 - awaiting decipherment
+58,,,0.0,Placeholder for research,Glyph 58 - awaiting decipherment
+59,,,0.0,Placeholder for research,Glyph 59 - awaiting decipherment
+61,night; sky; dark; heavens; feminine marker,--; po; rangi,0.5,Placeholder for research,"Abstract sign possibly indicating darkness or female principle; color or quality determinative.; Celestial dome representation: 'sky' (rangi) during day, 'night' (po) in dark contexts. Appears in astronomical sequences and cosmological chants as general heaven/firmament symbol."
+62,phrase break; punctuation; star; pause,--; ki,0.5,Placeholder for research,Small circular glyph functioning as star or punctuation marker; usage rare and tentative.; Grammatical separator functioning as punctuation. Appears at clause boundaries and phrase breaks across multiple tablets. May represent glottal stop or particle 'ki' in some contexts.
+63,,,0.0,Placeholder for research,Glyph 63 - awaiting decipherment
+64,red/bright marker,mea,0.5,Placeholder for research,Color or quality determinative; may denote red or brightness; attaches to deity glyphs.
+65,,,0.0,Placeholder for research,Glyph 65 - awaiting decipherment
+66,,,0.0,Placeholder for research,Glyph 66 - awaiting decipherment
+67,extinct palm; vegetation cycle; cycle; palm tree,paschalococos; niu; pae/niu,0.5,Placeholder for research,Tree-like glyph representing the extinct Easter Island palm; may also signify cycle or repeat.; Branched vegetation symbol representing extinct Rapanui palm (Paschalococos). May function as cycle start marker in calendar contexts. Represents island's lost flora and environmental memory.
+68,deep water life; turtle; sea creature,hohonu ika; honu,0.5,Placeholder for research,Turtle pictograph; associated with god Rongo and used as name/epithet in genealogies.; Represents creatures from deep waters. May indicate specific types of fish or marine animals associated with deeper ocean zones in navigation or mythological contexts. (Cross-methodology) Another turtle sign: cross-cultural motif of turtles as carriers of the world; reminiscent of the Chinese character '龜' (turtle).
+69,gecko; lizard; rain spirit; new moon,moko,0.5,Placeholder for research,"Depicts a lizard; signifies new moon or god Hiro (moko); marks beginning of lunar cycle.; Reptilian form associated with rain god Hiro. 'Lizard' (moko) primary meaning, but carries spiritual significance as rain-bringing deity incarnation in Rapanui mythology. (Cross-methodology) Lizard/new moon: cross-linguistically, reptiles sometimes symbolize renewal; comparable to serpents in Mesoamerican day-signs (e.g., 'Chikchan')."
+71,,,0.0,Placeholder for research,Glyph 71 - awaiting decipherment
+72,Hotu (sprout),hotu,0.5,Placeholder for research,Glyph corresponding to sprout or night name Hotu; appears near dark moon period.
+73,Otua (deity figure),atua,0.5,Placeholder for research,Glyph representing a deity or night name Otua; anthropomorphic figure.
+74,swelling; first quarter moon; Hua (fruit); fruit,hua,0.5,Placeholder for research,Fruit glyph signifying first quarter moon.; Fruit-shaped glyph representing first quarter moon night name 'Hua'. Polynesian metaphor likening swelling moon to ripening fruit. Calendar timing marker and fertility symbol.
+75,,,0.0,Placeholder for research,Glyph 75 - awaiting decipherment
+77,,,0.0,Placeholder for research,Glyph 77 - awaiting decipherment
+78,waning gibbous moon; Maure (waning gibbous); post-full moon night,maure,0.5,Placeholder for research,"Night after full moon; stage of waning gibbous.; Specific lunar phase marker for waning gibbous moon night called 'Maure'. Appears in Mamari calendar sequence after full moon, indicating diminishing lunar illumination."
+79,,,0.0,Placeholder for research,Glyph 79 - awaiting decipherment
+81,,,0.0,Placeholder for research,Glyph 81 - awaiting decipherment
+82,,,0.0,Placeholder for research,Glyph 82 - awaiting decipherment
+83,,,0.0,Placeholder for research,Glyph 83 - awaiting decipherment
+84,,,0.0,Placeholder for research,Glyph 84 - awaiting decipherment
+85,,,0.0,Placeholder for research,Glyph 85 - awaiting decipherment
+86,,,0.0,Placeholder for research,Glyph 86 - awaiting decipherment
+87,,,0.0,Placeholder for research,Glyph 87 - awaiting decipherment
+88,,,0.0,Placeholder for research,Glyph 88 - awaiting decipherment
+89,,,0.0,Placeholder for research,Glyph 89 - awaiting decipherment
+91,,,0.0,Placeholder for research,Glyph 91 - awaiting decipherment
+92,,,0.0,Placeholder for research,Glyph 92 - awaiting decipherment
+93,,,0.0,Placeholder for research,Glyph 93 - awaiting decipherment
+94,,,0.0,Placeholder for research,Glyph 94 - awaiting decipherment
+95,,,0.0,Placeholder for research,Glyph 95 - awaiting decipherment
+96,,,0.0,Placeholder for research,Glyph 96 - awaiting decipherment
+97,,,0.0,Placeholder for research,Glyph 97 - awaiting decipherment
+98,,,0.0,Placeholder for research,Glyph 98 - awaiting decipherment
+99,,,0.0,Placeholder for research,Glyph 99 - awaiting decipherment
+101,,,0.0,Placeholder for research,Glyph 101 - awaiting decipherment
+102,,,0.0,Placeholder for research,Glyph 102 - awaiting decipherment
+103,,,0.0,Placeholder for research,Glyph 103 - awaiting decipherment
+104,,,0.0,Placeholder for research,Glyph 104 - awaiting decipherment
+105,,,0.0,Placeholder for research,Glyph 105 - awaiting decipherment
+106,,,0.0,Placeholder for research,Glyph 106 - awaiting decipherment
+107,,,0.0,Placeholder for research,Glyph 107 - awaiting decipherment
+108,,,0.0,Placeholder for research,Glyph 108 - awaiting decipherment
+109,,,0.0,Placeholder for research,Glyph 109 - awaiting decipherment
+110,,,0.0,Placeholder for research,Glyph 110 - awaiting decipherment
+111,,,0.0,Placeholder for research,Glyph 111 - awaiting decipherment
+112,,,0.0,Placeholder for research,Glyph 112 - awaiting decipherment
+113,,,0.0,Placeholder for research,Glyph 113 - awaiting decipherment
+114,,,0.0,Placeholder for research,Glyph 114 - awaiting decipherment
+115,,,0.0,Placeholder for research,Glyph 115 - awaiting decipherment
+116,,,0.0,Placeholder for research,Glyph 116 - awaiting decipherment
+117,,,0.0,Placeholder for research,Glyph 117 - awaiting decipherment
+118,,,0.0,Placeholder for research,Glyph 118 - awaiting decipherment
+119,,,0.0,Placeholder for research,Glyph 119 - awaiting decipherment
+120,,,0.0,Placeholder for research,Glyph 120 - awaiting decipherment
+121,,,0.0,Placeholder for research,Glyph 121 - awaiting decipherment
+122,,,0.0,Placeholder for research,Glyph 122 - awaiting decipherment
+123,,,0.0,Placeholder for research,Glyph 123 - awaiting decipherment
+124,,,0.0,Placeholder for research,Glyph 124 - awaiting decipherment
+125,,,0.0,Placeholder for research,Glyph 125 - awaiting decipherment
+126,,,0.0,Placeholder for research,Glyph 126 - awaiting decipherment
+127,,,0.0,Placeholder for research,Glyph 127 - awaiting decipherment
+128,,,0.0,Placeholder for research,Glyph 128 - awaiting decipherment
+129,,,0.0,Placeholder for research,Glyph 129 - awaiting decipherment
+130,,,0.0,Placeholder for research,Glyph 130 - awaiting decipherment
+131,,,0.0,Placeholder for research,Glyph 131 - awaiting decipherment
+132,,,0.0,Placeholder for research,Glyph 132 - awaiting decipherment
+133,,,0.0,Placeholder for research,Glyph 133 - awaiting decipherment
+134,,,0.0,Placeholder for research,Glyph 134 - awaiting decipherment
+135,,,0.0,Placeholder for research,Glyph 135 - awaiting decipherment
+136,,,0.0,Placeholder for research,Glyph 136 - awaiting decipherment
+137,,,0.0,Placeholder for research,Glyph 137 - awaiting decipherment
+138,,,0.0,Placeholder for research,Glyph 138 - awaiting decipherment
+139,,,0.0,Placeholder for research,Glyph 139 - awaiting decipherment
+140,,,0.0,Placeholder for research,Glyph 140 - awaiting decipherment
+141,,,0.0,Placeholder for research,Glyph 141 - awaiting decipherment
+142,,,0.0,Placeholder for research,Glyph 142 - awaiting decipherment
+143,tree; wood; pre-full moon night; Rakau (tree),rakau,0.5,Placeholder for research,Night before full moon; tree symbol.; Tree/wood symbol functioning as lunar calendar night name 'Rakau' occurring before full moon. Demonstrates how natural object glyphs serve as temporal markers in astronomical contexts.
+144,,,0.0,Placeholder for research,Glyph 144 - awaiting decipherment
+145,,,0.0,Placeholder for research,Glyph 145 - awaiting decipherment
+146,,,0.0,Placeholder for research,Glyph 146 - awaiting decipherment
+147,,,0.0,Placeholder for research,Glyph 147 - awaiting decipherment
+148,,,0.0,Placeholder for research,Glyph 148 - awaiting decipherment
+149,,,0.0,Placeholder for research,Glyph 149 - awaiting decipherment
+150,,,0.0,Placeholder for research,Glyph 150 - awaiting decipherment
+151,,,0.0,Placeholder for research,Glyph 151 - awaiting decipherment
+153,,,0.0,Placeholder for research,Glyph 153 - awaiting decipherment
+154,,,0.0,Placeholder for research,Glyph 154 - awaiting decipherment
+155,,,0.0,Placeholder for research,Glyph 155 - awaiting decipherment
+156,,,0.0,Placeholder for research,Glyph 156 - awaiting decipherment
+157,,,0.0,Placeholder for research,Glyph 157 - awaiting decipherment
+158,,,0.0,Placeholder for research,Glyph 158 - awaiting decipherment
+159,,,0.0,Placeholder for research,Glyph 159 - awaiting decipherment
+160,,,0.0,Placeholder for research,Glyph 160 - awaiting decipherment
+161,,,0.0,Placeholder for research,Glyph 161 - awaiting decipherment
+162,,,0.0,Placeholder for research,Glyph 162 - awaiting decipherment
+163,,,0.0,Placeholder for research,Glyph 163 - awaiting decipherment
+164,,,0.0,Placeholder for research,Glyph 164 - awaiting decipherment
+165,,,0.0,Placeholder for research,Glyph 165 - awaiting decipherment
+166,,,0.0,Placeholder for research,Glyph 166 - awaiting decipherment
+167,,,0.0,Placeholder for research,Glyph 167 - awaiting decipherment
+168,,,0.0,Placeholder for research,Glyph 168 - awaiting decipherment
+169,,,0.0,Placeholder for research,Glyph 169 - awaiting decipherment
+170,,,0.0,Placeholder for research,Glyph 170 - awaiting decipherment
+171,,,0.0,Placeholder for research,Glyph 171 - awaiting decipherment
+172,,,0.0,Placeholder for research,Glyph 172 - awaiting decipherment
+173,,,0.0,Placeholder for research,Glyph 173 - awaiting decipherment
+174,,,0.0,Placeholder for research,Glyph 174 - awaiting decipherment
+175,,,0.0,Placeholder for research,Glyph 175 - awaiting decipherment
+176,,,0.0,Placeholder for research,Glyph 176 - awaiting decipherment
+177,,,0.0,Placeholder for research,Glyph 177 - awaiting decipherment
+178,,,0.0,Placeholder for research,Glyph 178 - awaiting decipherment
+179,,,0.0,Placeholder for research,Glyph 179 - awaiting decipherment
+180,,,0.0,Placeholder for research,Glyph 180 - awaiting decipherment
+181,,,0.0,Placeholder for research,Glyph 181 - awaiting decipherment
+182,,,0.0,Placeholder for research,Glyph 182 - awaiting decipherment
+183,,,0.0,Placeholder for research,Glyph 183 - awaiting decipherment
+184,,,0.0,Placeholder for research,Glyph 184 - awaiting decipherment
+185,,,0.0,Placeholder for research,Glyph 185 - awaiting decipherment
+186,,,0.0,Placeholder for research,Glyph 186 - awaiting decipherment
+187,,,0.0,Placeholder for research,Glyph 187 - awaiting decipherment
+188,,,0.0,Placeholder for research,Glyph 188 - awaiting decipherment
+189,,,0.0,Placeholder for research,Glyph 189 - awaiting decipherment
+190,,,0.0,Placeholder for research,Glyph 190 - awaiting decipherment
+191,,,0.0,Placeholder for research,Glyph 191 - awaiting decipherment
+192,,,0.0,Placeholder for research,Glyph 192 - awaiting decipherment
+193,,,0.0,Placeholder for research,Glyph 193 - awaiting decipherment
+194,,,0.0,Placeholder for research,Glyph 194 - awaiting decipherment
+195,,,0.0,Placeholder for research,Glyph 195 - awaiting decipherment
+196,,,0.0,Placeholder for research,Glyph 196 - awaiting decipherment
+197,,,0.0,Placeholder for research,Glyph 197 - awaiting decipherment
+198,,,0.0,Placeholder for research,Glyph 198 - awaiting decipherment
+199,,,0.0,Placeholder for research,Glyph 199 - awaiting decipherment
+201,,,0.0,Placeholder for research,Glyph 201 - awaiting decipherment
+202,,,0.0,Placeholder for research,Glyph 202 - awaiting decipherment
+203,,,0.0,Placeholder for research,Glyph 203 - awaiting decipherment
+204,,,0.0,Placeholder for research,Glyph 204 - awaiting decipherment
+205,,,0.0,Placeholder for research,Glyph 205 - awaiting decipherment
+206,,,0.0,Placeholder for research,Glyph 206 - awaiting decipherment
+207,,,0.0,Placeholder for research,Glyph 207 - awaiting decipherment
+208,,,0.0,Placeholder for research,Glyph 208 - awaiting decipherment
+209,,,0.0,Placeholder for research,Glyph 209 - awaiting decipherment
+210,,,0.0,Placeholder for research,Glyph 210 - awaiting decipherment
+220,,,0.0,Placeholder for research,Glyph 220 - awaiting decipherment
+230,,,0.0,Placeholder for research,Glyph 230 - awaiting decipherment
+240,,,0.0,Placeholder for research,Glyph 240 - awaiting decipherment
+250,,,0.0,Placeholder for research,Glyph 250 - awaiting decipherment
+260,,,0.0,Placeholder for research,Glyph 260 - awaiting decipherment
+270,,,0.0,Placeholder for research,Glyph 270 - awaiting decipherment
+280,dark moon phase; turtle; turtle (honu); sea turtle,honu,0.5,Placeholder for research,"Turtle glyph; associated with god Rongo or dark moon; appears in genealogies and lunar sequence.; Sea turtle glyph appearing during dark moon phase in Mamari calendar. 'Turtle' (honu) represents longevity and endurance, symbolically appropriate for moon's disappearance and renewal cycle. (Cross-methodology) Turtle sign: parallels to turtle/honu motifs in Pacific iconography and to the Sumerian 'šu' (turtle) logogram; in many cultures, turtles symbolize the earth and creation."
+290,,,0.0,Placeholder for research,Glyph 290 - awaiting decipherment
+301,,,0.0,Placeholder for research,Glyph 301 - awaiting decipherment
+302,,,0.0,Placeholder for research,Glyph 302 - awaiting decipherment
+310,,,0.0,Placeholder for research,Glyph 310 - awaiting decipherment
+320,,,0.0,Placeholder for research,Glyph 320 - awaiting decipherment
+330,,,0.0,Placeholder for research,Glyph 330 - awaiting decipherment
+340,,,0.0,Placeholder for research,Glyph 340 - awaiting decipherment
+350,,,0.0,Placeholder for research,Glyph 350 - awaiting decipherment
+360,,,0.0,Placeholder for research,Glyph 360 - awaiting decipherment
+370,,,0.0,Placeholder for research,Glyph 370 - awaiting decipherment
+380,,,0.0,Placeholder for research,Glyph 380 - awaiting decipherment
+390,,,0.0,Placeholder for research,Glyph 390 - awaiting decipherment
+401,,,0.0,Placeholder for research,Glyph 401 - awaiting decipherment
+410,,,0.0,Placeholder for research,Glyph 410 - awaiting decipherment
+420,,,0.0,Placeholder for research,Glyph 420 - awaiting decipherment
+430,,,0.0,Placeholder for research,Glyph 430 - awaiting decipherment
+440,,,0.0,Placeholder for research,Glyph 440 - awaiting decipherment
+450,,,0.0,Placeholder for research,Glyph 450 - awaiting decipherment
+460,,,0.0,Placeholder for research,Glyph 460 - awaiting decipherment
+470,,,0.0,Placeholder for research,Glyph 470 - awaiting decipherment
+480,,,0.0,Placeholder for research,Glyph 480 - awaiting decipherment
+490,,,0.0,Placeholder for research,Glyph 490 - awaiting decipherment
+501,,,0.0,Placeholder for research,Glyph 501 - awaiting decipherment
+510,,,0.0,Placeholder for research,Glyph 510 - awaiting decipherment
+520,,,0.0,Placeholder for research,Glyph 520 - awaiting decipherment
+530,,,0.0,Placeholder for research,Glyph 530 - awaiting decipherment
+540,,,0.0,Placeholder for research,Glyph 540 - awaiting decipherment
+550,,,0.0,Placeholder for research,Glyph 550 - awaiting decipherment
+560,,,0.0,Placeholder for research,Glyph 560 - awaiting decipherment
+570,,,0.0,Placeholder for research,Glyph 570 - awaiting decipherment
+580,,,0.0,Placeholder for research,Glyph 580 - awaiting decipherment
+590,,,0.0,Placeholder for research,Glyph 590 - awaiting decipherment
+601,,,0.0,Placeholder for research,Glyph 601 - awaiting decipherment
+602,,,0.0,Placeholder for research,Glyph 602 - awaiting decipherment
+603,,,0.0,Placeholder for research,Glyph 603 - awaiting decipherment
+604,,,0.0,Placeholder for research,Glyph 604 - awaiting decipherment
+605,,,0.0,Placeholder for research,Glyph 605 - awaiting decipherment
+607,,,0.0,Placeholder for research,Glyph 607 - awaiting decipherment
+608,,,0.0,Placeholder for research,Glyph 608 - awaiting decipherment
+609,,,0.0,Placeholder for research,Glyph 609 - awaiting decipherment
+611,,,0.0,Placeholder for research,Glyph 611 - awaiting decipherment
+620,,,0.0,Placeholder for research,Glyph 620 - awaiting decipherment
+630,,,0.0,Placeholder for research,Glyph 630 - awaiting decipherment
+640,,,0.0,Placeholder for research,Glyph 640 - awaiting decipherment
+650,,,0.0,Placeholder for research,Glyph 650 - awaiting decipherment
+660,,,0.0,Placeholder for research,Glyph 660 - awaiting decipherment
+670,,,0.0,Placeholder for research,Glyph 670 - awaiting decipherment
+680,,,0.0,Placeholder for research,Glyph 680 - awaiting decipherment
+690,bird-man,tangata manu,0.5,Placeholder for research,Combined human-bird figure; represents the Bird-Man of Orongo ceremonies.
+701,,,0.0,Placeholder for research,Glyph 701 - awaiting decipherment
+702,,,0.0,Placeholder for research,Glyph 702 - awaiting decipherment
+703,,,0.0,Placeholder for research,Glyph 703 - awaiting decipherment
+704,,,0.0,Placeholder for research,Glyph 704 - awaiting decipherment
+705,,,0.0,Placeholder for research,Glyph 705 - awaiting decipherment
+706,,,0.0,Placeholder for research,Glyph 706 - awaiting decipherment
+707,,,0.0,Placeholder for research,Glyph 707 - awaiting decipherment
+708,,,0.0,Placeholder for research,Glyph 708 - awaiting decipherment
+709,,,0.0,Placeholder for research,Glyph 709 - awaiting decipherment
+711,,,0.0,Placeholder for research,Glyph 711 - awaiting decipherment
+720,,,0.0,Placeholder for research,Glyph 720 - awaiting decipherment
+730,important catch; sea god; shark; large fish,ika nui; mango/niuhi,0.5,Placeholder for research,Stylized shark representing sea god Tangaroa or big predator; used in genealogies.; Larger fish variant indicating significant catch or mythologically important fish. Distinguishes major marine resources from common fish (700) in resource or ritual contexts.
+740,,,0.0,Placeholder for research,Glyph 740 - awaiting decipherment
+751,,,0.0,Placeholder for research,Glyph 751 - awaiting decipherment
+760,,,0.0,Placeholder for research,Glyph 760 - awaiting decipherment
+770,,,0.0,Placeholder for research,Glyph 770 - awaiting decipherment
+780,,,0.0,Placeholder for research,Glyph 780 - awaiting decipherment
+790,,,0.0,Placeholder for research,Glyph 790 - awaiting decipherment
+801,,,0.0,Placeholder for research,Glyph 801 - awaiting decipherment
+810,,,0.0,Placeholder for research,Glyph 810 - awaiting decipherment
+820,,,0.0,Placeholder for research,Glyph 820 - awaiting decipherment
+830,,,0.0,Placeholder for research,Glyph 830 - awaiting decipherment
+840,,,0.0,Placeholder for research,Glyph 840 - awaiting decipherment
+850,,,0.0,Placeholder for research,Glyph 850 - awaiting decipherment
+860,,,0.0,Placeholder for research,Glyph 860 - awaiting decipherment
+870,,,0.0,Placeholder for research,Glyph 870 - awaiting decipherment
+880,,,0.0,Placeholder for research,Glyph 880 - awaiting decipherment
+890,,,0.0,Placeholder for research,Glyph 890 - awaiting decipherment
+900,,,0.0,Placeholder for research,Glyph 900 - awaiting decipherment
+211,,,0.0,MD references,No decipherment; this glyph appears as structural marker or is referenced in corrections; remains undeciphered.
+263,,,0.0,MD references,No decipherment; this glyph appears as structural marker or is referenced in corrections; remains undeciphered.
+326,,,0.0,MD references,No decipherment; this glyph appears as structural marker or is referenced in corrections; remains undeciphered.

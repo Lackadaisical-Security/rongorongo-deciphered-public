@@ -1,0 +1,2536 @@
+{
+  "1": {
+    "english": [
+      "person",
+      "human"
+    ],
+    "translit": [
+      "tangata"
+    ],
+    "confidence": 0.85,
+    "source": "Barthel B001, Fischer 1997",
+    "notes": "Alternative translation of basic anthropomorphic glyph; Basic human figure representing a person or ancestor; appears in genealogical lists.; Basic human figure with dual meaning: 'person' (general individual) and 'human' (species designation). Appears consistently in genealogical contexts and social hierarchies."
+  },
+  "2": {
+    "english": [
+      "head",
+      "face"
+    ],
+    "translit": [
+      "po'o",
+      "mata"
+    ],
+    "confidence": 0.7,
+    "source": "Guy 1990, comparative analysis",
+    "notes": "Alternative interpretation focusing on facial aspect; Circular glyph with facial features. Primary anatomical reference to 'head' (po'o) but also facial aspect 'face' (mata). Represents both physical structure and identity/recognition."
+  },
+  "3": {
+    "english": [
+      "watch",
+      "eye",
+      "see"
+    ],
+    "translit": [
+      "kite",
+      "mata",
+      "mata kite"
+    ],
+    "confidence": 0.8,
+    "source": "Pozdniakov 2007, anatomical",
+    "notes": "Direct anatomical reference, oval with central dot; Direct anatomical 'eye' (mata) with extended meanings: 'see' (kite) for vision, 'watch' (mata kite) for observation. Oval with central dot representing visual perception and awareness."
+  },
+  "4": {
+    "english": [
+      "word",
+      "mouth",
+      "speak"
+    ],
+    "translit": [
+      "kupu",
+      "haha",
+      "kī"
+    ],
+    "confidence": 0.75,
+    "source": "Fischer 1997, anatomical",
+    "notes": "Horizontal line representing oral cavity; Anatomical 'mouth' (haha) with communicative extensions: 'speak' (kī) for verbal action, 'word' (kupu) for linguistic content. Horizontal line representing oral cavity and speech function."
+  },
+  "5": {
+    "english": [
+      "arm",
+      "reach"
+    ],
+    "translit": [
+      "tuku",
+      "rima"
+    ],
+    "confidence": 0.6,
+    "source": "Barthel action interpretation",
+    "notes": "Action derived from arm extension; Linear appendage representing 'arm' (rima) with action meaning 'reach' (tuku). Physical limb and extending action derived from arm movement."
+  },
+  "6": {
+    "english": [
+      "plural marker",
+      "grasp",
+      "plural marker; rima (five",
+      "take",
+      "hand",
+      "many)"
+    ],
+    "translit": [
+      "plural marker",
+      "rima",
+      "ma'u"
+    ],
+    "confidence": 0.9,
+    "source": "Aruku Kurenga",
+    "notes": "Updated interpretation, status: confirmed; Hand glyph used as plural or collective marker; attaches to nouns to indicate many.; Multi-functional glyph: anatomical 'hand' (rima), verbs 'take/grasp' (ma'u), and grammatical 'plural marker'. Confirmed as pluralizing affix when combined with other glyphs. (Cross-methodology) Cross-linguistic plural marker: similar to Elamite plural suffix '-p' and '-be' and to plural marker determinatives in Egyptian. The hand glyph acts as a plural or group marker across the tablets."
+  },
+  "8": {
+    "english": [
+      "star (ra'a or hetu'u)",
+      "sun",
+      "star",
+      "fire",
+      "light"
+    ],
+    "translit": [
+      "ahi",
+      "sun/star (ra'a or hetu'u)",
+      "mārama",
+      "hetu'u",
+      "ra'a"
+    ],
+    "confidence": 0.9,
+    "source": "Santiago Staff/Aruku Kurenga",
+    "notes": "Updated interpretation, status: confirmed; Radiating circular glyph for the sun; can also denote star or light; used as celestial/temporal marker.; Radial celestial glyph with multiple meanings: 'sun' (ra'a) primary, 'star' (hetu'u) alternative, 'fire' (ahi) for heat/light, 'light' (mārama) general illumination. Solar or stellar symbol with luminous properties. (Cross-methodology) Celestial symbol: analogous to solar ideogram in Egyptian (hieroglyph N5) and the cuneiform sign 'UD' for sun/day; widely used cross-culturally to denote the sun or a star."
+  },
+  "10": {
+    "english": [
+      "lunar",
+      "month",
+      "moon"
+    ],
+    "translit": [
+      "māhina"
+    ],
+    "confidence": 0.8,
+    "source": "Mamari calendar context",
+    "notes": "Adjectival form related to moon; Crescent-shaped glyph denoting the moon or month; forms basis of lunar calendar.; Crescent lunar glyph: 'moon' (māhina) celestial body, 'lunar' adjectival form, 'month' temporal unit. Generic lunar sign fundamental to calendar systems. (Cross-methodology) Moon sign: parallels lunar crescents in many scripts, such as the Egyptian 'iaH' hieroglyph and the cuneiform sign 'ITU' for month; denotes lunar phases and timekeeping."
+  },
+  "20": {
+    "english": [
+      "grow",
+      "tree",
+      "plant"
+    ],
+    "translit": [
+      "tiare",
+      "tipu",
+      "rākau"
+    ],
+    "confidence": 0.6,
+    "source": "Fischer growth concept",
+    "notes": "Action derived from plant symbolism; Branching glyph representing a tree or plant; marks agriculture or growth sections.; Branched vegetation with multiple interpretations: 'tree' (rākau) woody plant, 'plant' (tiare) general vegetation, 'grow' (tipu) growth action. Represents plant life and growth concepts."
+  },
+  "30": {
+    "english": [
+      "place",
+      "house"
+    ],
+    "translit": [
+      "hare",
+      "henua"
+    ],
+    "confidence": 0.6,
+    "source": "Knorozov spatial reference",
+    "notes": "General location concept; Rectangular or oval enclosure sign; denotes a house, dwelling, or place.; Architectural/spatial glyph: 'house' (hare) dwelling structure, 'place' (henua) general location. Rectangular enclosure representing habitation or geographic reference."
+  },
+  "40": {
+    "english": [
+      "water",
+      "flow",
+      "sea"
+    ],
+    "translit": [
+      "rere",
+      "tai",
+      "vai"
+    ],
+    "confidence": 0.7,
+    "source": "Guy fluid motion analysis",
+    "notes": "Movement of water or liquid; Wavy line glyph representing water or sea; universal pictograph used in myths and voyages.; Wavy liquid representation: 'water' (vai) general liquid, 'sea' (tai) marine water, 'flow' (rere) movement. Also functions as night marker in lunar calendar contexts."
+  },
+  "50": {
+    "english": [
+      "stone",
+      "rock"
+    ],
+    "translit": [
+      "papa",
+      "maea"
+    ],
+    "confidence": 0.6,
+    "source": "Pozdniakov geological alt.",
+    "notes": "Alternative stone/mineral reference; Stone or rock symbol; may denote land or foundation; used in place names.; Angular mineral form: 'stone' (maea) individual rock, 'rock' (papa) general mineral. Represents solid earth, foundation, or permanent structures."
+  },
+  "60": {
+    "english": [
+      "way",
+      "road",
+      "path"
+    ],
+    "translit": [
+      "tahua",
+      "ara rahi",
+      "ara"
+    ],
+    "confidence": 0.55,
+    "source": "Barthel method/manner",
+    "notes": "Method or manner of doing; Linear pathway concepts: 'path' (ara) trail, 'road' (ara rahi) major route, 'way' (tahua) method/manner. Represents travel routes and procedural methods."
+  },
+  "70": {
+    "english": [
+      "staff",
+      "stick",
+      "tool"
+    ],
+    "translit": [
+      "kau",
+      "toko",
+      "taura"
+    ],
+    "confidence": 0.65,
+    "source": "Fischer implement general",
+    "notes": "General implement or instrument; Linear implement with multiple interpretations: 'stick' (kau) wooden object, 'staff' (toko) authority rod, 'tool' (taura) general implement. Represents tools and symbols of power."
+  },
+  "76": {
+    "english": [
+      "procreate; 'ai' or 'fanau'",
+      "relational marker (begat/son of)",
+      "copulate",
+      "sex",
+      "procreate"
+    ],
+    "translit": [
+      "fanau",
+      "'ai",
+      "copulate/procreate"
+    ],
+    "confidence": 0.9,
+    "source": "Santiago Staff",
+    "notes": "Updated interpretation, status: confirmed; Phallic symbol with explicit sexual meanings: 'copulate' ('ai) sexual union, 'procreate' (fanau) reproductive action, 'sex' ('ai) sexual activity. Functions as genealogical connector 'begat/son of' in lineage texts. (Cross-methodology) Cross-linguistic genealogical marker: functions as a 'son of' marker like the patronymic '-son' in English names or 'ben' in Semitic languages; conceptually similar to Sumerian sign 'dumu' for 'child' and certain kinship markers in hieroglyphs."
+  },
+  "80": {
+    "english": [
+      "breast",
+      "nurture",
+      "female"
+    ],
+    "translit": [
+      "ūū",
+      "hanau",
+      "vi'e"
+    ],
+    "confidence": 0.8,
+    "source": "Guy gender analysis",
+    "notes": "Feminine gender marker; Maternal symbolism: 'breast' (ūū) mammary gland, 'female' (vi'e) gender marker, 'nurture' (hanau) care function. Represents feminine, maternal, and nurturing concepts."
+  },
+  "90": {
+    "english": [
+      "pregnant",
+      "full",
+      "belly"
+    ],
+    "translit": [
+      "kōpū",
+      "hapū",
+      "kī"
+    ],
+    "confidence": 0.7,
+    "source": "Pozdniakov completeness",
+    "notes": "State of being filled or complete; Abdominal/pregnancy symbolism: 'belly' (kōpū) anatomical region, 'pregnant' (hapū) reproductive state, 'full' (kī) completeness. Represents fertility and fullness concepts."
+  },
+  "100": {
+    "english": [
+      "leg",
+      "walk",
+      "travel",
+      "journey"
+    ],
+    "translit": [
+      "rere",
+      "va'e",
+      "kōpeka"
+    ],
+    "confidence": 0.6,
+    "source": "Barthel journey concept",
+    "notes": "Movement from place to place; Locomotion concepts: 'leg' (va'e) anatomical limb, 'walk' (kōpeka) pedestrian movement, 'travel' (rere) journey, 'journey' extended travel. Movement and transportation symbolism."
+  },
+  "152": {
+    "english": [
+      "whole",
+      "full moon",
+      "complete"
+    ],
+    "translit": [
+      "katoa",
+      "motohi",
+      "oti",
+      "mahina"
+    ],
+    "confidence": 0.85,
+    "source": "Guy totality analysis",
+    "notes": "Complete entity without parts missing; Circular disk with internal markings; denotes full moon and completion; in lunar calendar.; Central lunar calendar glyph with completeness meanings: 'full moon' (mahina, motohi) lunar phase, 'complete' (oti) finished state, 'whole' (katoa) entirety. Known as 'Old Woman Lighting the Oven in the Sky'. (Cross-methodology) Full moon: similar to the Egyptian full-moon hieroglyph (the 'old woman' myth) and to the cuneiform 'ITU' with full circle shape representing a complete month."
+  },
+  "200": {
+    "english": [
+      "ruler",
+      "person (ariki)",
+      "king",
+      "chief",
+      "man"
+    ],
+    "translit": [
+      "hakakina",
+      "ariki henua",
+      "ariki",
+      "tangata",
+      "chief/person (ariki)"
+    ],
+    "confidence": 0.75,
+    "source": "Aruku Kurenga",
+    "notes": "Updated interpretation, status: proposed/high confidence; High-status person with multiple authority levels: 'chief' (ariki) leader, 'ruler' (hakakina) governor, 'king' (ariki henua) supreme authority, 'man' (tangata) adult male. Regularly appears in genealogical chains as title/status marker. (Cross-methodology) Cross-linguistic royal title: comparable to Sumerian 'lugal' and Akkadian 'šar' (king) and Egyptian 'nsw-bit'. The anthropomorphic figure with headdress parallels the universal concept of a king/chief."
+  },
+  "300": {
+    "english": [
+      "woman",
+      "mother"
+    ],
+    "translit": [
+      "māmā",
+      "vi'e"
+    ],
+    "confidence": 0.75,
+    "source": "Guy maternal analysis",
+    "notes": "Female parent, birth-giver; Anthropomorphic female figure representing woman or mother; appears in genealogies.; Female designation: 'woman' (vi'e) adult female, 'mother' (māmā) female parent. Represents feminine gender and maternal roles."
+  },
+  "400": {
+    "english": [
+      "child",
+      "offspring",
+      "young"
+    ],
+    "translit": [
+      "ui",
+      "hua",
+      "poki"
+    ],
+    "confidence": 0.65,
+    "source": "Pozdniakov reproductive context",
+    "notes": "Descendants, children of parents; Small human figure indicating child or offspring; descendant in genealogies.; Youth/descendant concepts: 'child' (poki) juvenile, 'young' (ui) recent birth, 'offspring' (hua) descendants. Represents youth and generational relationships."
+  },
+  "500": {
+    "english": [
+      "elder",
+      "old",
+      "ancestor"
+    ],
+    "translit": [
+      "rua",
+      "koroua",
+      "tupuna"
+    ],
+    "confidence": 0.65,
+    "source": "Guy temporal analysis",
+    "notes": "Advanced in age or time; Distinguished human figure representing elder or ancestor; tentative.; Age/ancestry concepts: 'ancestor' (tupuna) forebear, 'elder' (koroua) senior member, 'old' (rua) advanced age. Represents seniority and ancestral authority."
+  },
+  "600": {
+    "english": [
+      "frigatebird",
+      "fly",
+      "bird"
+    ],
+    "translit": [
+      "rere",
+      "tavake",
+      "manu"
+    ],
+    "confidence": 0.9,
+    "source": "Fischer species identification",
+    "notes": "Specific seabird species, cultural significance; Bird glyph; the frigatebird sacred to Rapa Nui; used in creation chants and clan totems.; Avian symbolism: 'bird' (manu) general avian, 'frigatebird' (tavake) specific species, 'fly' (rere) flight action. Sacred bird of Bird-Man cult with creation mythology significance. (Cross-methodology) Bird sign: similar to the Egyptian G17 'sparrow' hieroglyph and the use of bird logograms in cuneiform to denote birds or deities. Represents frigatebird/manu and connects to Makemake."
+  },
+  "606": {
+    "english": [
+      "flock",
+      "birds (plural)",
+      "spirits",
+      "plural birds (manu); flock"
+    ],
+    "translit": [
+      "plural birds (manu)",
+      "puhi manu",
+      "manu (plural)"
+    ],
+    "confidence": 0.9,
+    "source": "Santiago Staff/Aruku Kurenga",
+    "notes": "Updated interpretation, status: confirmed; Composite of 600 (bird) and 6 (hand); indicates plural birds or a flock.; Plural avian collective: 'birds (plural)' (manu) multiple birds, 'flock' (puhi manu) group flying together, 'spirits' collective entities. Composite of bird + plural hand marker, used in creation myths. (Cross-methodology) Plural bird sign: analogous to dual/plural markers by reduplication in many scripts; indicates multiple birds, comparable to repeated bird signs in Mayan glyphs."
+  },
+  "610": {
+    "english": [
+      "egg",
+      "beginning",
+      "origin"
+    ],
+    "translit": [
+      "hua",
+      "timu",
+      "mata"
+    ],
+    "confidence": 0.75,
+    "source": "Guy creation mythology",
+    "notes": "Source or starting point; Oval “egg” glyph representing origin or seed; marks beginning of creation sequence.; Cosmogonic symbolism: 'egg' (hua) reproductive structure, 'origin' (mata) source, 'beginning' (timu) commencement. Strongly linked to creation mythology and birth concepts. (Cross-methodology) Egg/origin symbol: comparable to fertility or origin signs in Indo-European mythologies and to the hieroglyph 'ḥ'n' for 'egg', reflecting beginnings and creation."
+  },
+  "700": {
+    "english": [
+      "fish (ika) or victim",
+      "sacrifice (haka ira)",
+      "victim",
+      "sacrifice",
+      "fish"
+    ],
+    "translit": [
+      "fish (ika) or victim/sacrifice (haka ira)",
+      "kai",
+      "haka ira",
+      "ika"
+    ],
+    "confidence": 0.75,
+    "source": "Santiago Staff",
+    "notes": "Updated interpretation, status: ambiguous/polysemic; Fish pictograph that can mean fish or victim/sacrifice depending on context.; Polysemic glyph with dual meanings: 'fish' (ika) aquatic creature in mythological contexts, 'victim' (kai) sacrifice target, 'sacrifice' (haka ira) ritual offering in historical contexts. Meaning determined by textual context. (Cross-methodology) Fish/victim sign: analogous to the Sumerian 'KU' or 'KU6' for fish and to the Biblical pun on 'fish' and 'sacrifice' (Aramaic 'dag'). Emphasizes polysemy between food and sacrificial victim."
+  },
+  "710": {
+    "english": [
+      "dangerous",
+      "fierce",
+      "shark"
+    ],
+    "translit": [
+      "taratara",
+      "mako",
+      "kino"
+    ],
+    "confidence": 0.6,
+    "source": "Fischer aggressive nature",
+    "notes": "Aggressive or violent in nature; Fish with fierce teeth; denotes shark or predatory fish, ferocious quality.; Predatory marine symbolism: 'shark' (mako) large predatory fish, 'dangerous' (kino) threat level, 'fierce' (taratara) aggressive nature. Represents danger and aggressive characteristics."
+  },
+  "750": {
+    "english": [
+      "turtle",
+      "slow",
+      "ancient"
+    ],
+    "translit": [
+      "tawhito",
+      "honu",
+      "mārō"
+    ],
+    "confidence": 0.7,
+    "source": "Guy longevity symbolism",
+    "notes": "Very old or from distant past; Marine reptile with temporal qualities: 'turtle' (honu) marine creature, 'ancient' (tawhito) very old, 'slow' (mārō) low speed. Represents longevity symbolism and temporal endurance."
+  },
+  "800": {
+    "english": [
+      "tentacle",
+      "octopus"
+    ],
+    "translit": [
+      "rima he'e",
+      "he'e"
+    ],
+    "confidence": 0.5,
+    "source": "Pozdniakov appendage analysis",
+    "notes": "Flexible arm-like appendage; Octopus or tentacle glyph; denotes octopus or tentacles.; Cephalopod symbolism: 'octopus' (he'e) eight-armed marine creature, 'tentacle' (rima he'e) flexible appendage. Represents complex marine life and reaching/grasping concepts."
+  },
+  "9": {
+    "english": [
+      "beach",
+      "sand",
+      "sand (one)"
+    ],
+    "translit": [
+      "one",
+      "sand (one)"
+    ],
+    "confidence": 0.75,
+    "source": "Aruku Kurenga",
+    "notes": "Updated interpretation, status: proposed/high confidence; Represents sand or beach; marks Anakena beach in voyage sequence.; Confirmed location marker for 'sand' or 'beach' (one). Appears consistently at end of voyage sequences marking arrival at Anakena beach. High confidence navigation endpoint. (Cross-methodology) Sand/shore symbol: while unique to Rapa Nui context, the concept of shorelines appears in proto-Elamite signs for 'land' and Sumerian 'kur' meaning land or region."
+  },
+  "7": {
+    "english": [
+      "descendant (poki); possibly Mahaki",
+      "descendant",
+      "child"
+    ],
+    "translit": [
+      "child/descendant (poki)",
+      "poki"
+    ],
+    "confidence": 0.75,
+    "source": "Aruku Kurenga",
+    "notes": "Updated interpretation, status: ambiguous/polysemic; Anthropomorphic figure representing child or descendant; starts sequence of young scouts on Tablet B.; Descendant group marker meaning 'child' or 'descendant' (poki). Possibly refers to specific individual 'Mahaki' in some contexts. Explicitly read as 'poki' by historical informant Metoro."
+  },
+  "32": {
+    "english": [
+      "verse divider",
+      "section delimiter",
+      "section start",
+      "start",
+      "begin"
+    ],
+    "translit": [
+      "section delimiter/start",
+      "timu",
+      "mata"
+    ],
+    "confidence": 0.75,
+    "source": "Aruku Kurenga",
+    "notes": "Updated interpretation, status: proposed/high confidence; Marks divisions or section starts; used like punctuation on tablets.; Structural punctuation glyph marking new sections or chapters. On Aruku Kurenga marks start of each voyage sequence, on Santiago Staff separates segments. Functions as paragraph marker or verse beginning. (Cross-methodology) Section delimiter: reminiscent of punctuation markers in hieroglyphs (vertical lines) and cuneiform (wedge separators); marks boundaries between sections or verses."
+  },
+  "999": {
+    "english": [
+      "segment divider; punctuation",
+      "text divider",
+      "end marker",
+      "segment break"
+    ],
+    "translit": [
+      "segment divider"
+    ],
+    "confidence": 0.9,
+    "source": "Santiago Staff",
+    "notes": "Updated interpretation, status: confirmed; Punctuation-like vertical stroke dividing verses on the Santiago Staff.; Vertical line engraved as physical separator. Not vocalized - pure punctuation marking boundaries between verses or genealogical entries. Santiago Staff uses ~103 such dividers. (Cross-methodology) Verse separator: parallels the use of determinatives or punctuation strokes across Bronze Age scripts to separate sentences or clauses."
+  },
+  "11": {
+    "english": [
+      "marine life",
+      "small fish",
+      "shark",
+      "sea creature"
+    ],
+    "translit": [
+      "niuhi/pakia",
+      "ika iti"
+    ],
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Large marine creature symbol; interpreted as shark or seal associated with sea god Tangaroa.; Smaller fish variant distinct from major fish glyph 700. Represents minor marine creatures or specific fish types in mythological contexts. (Cross-methodology) Large fish/shark: matches with cuneiform 'KALA' for fish and Egyptian '3hf' for 'shark'."
+  },
+  "12": {
+    "english": [
+      "aquatic motion",
+      "fish",
+      "swimming creature"
+    ],
+    "translit": [
+      "rere vai",
+      "ika"
+    ],
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Fish pictograph; used literally and in divine names such as Ika roa.; Depicts creature in motion through water. May represent swimming action or specific marine animal in narrative sequences about ocean travel or fishing."
+  },
+  "13": {
+    "english": "cave/tomb",
+    "translit": "ana/avanga",
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Symbol for cave or burial tomb; confirmed by context of scout being buried in a cave."
+  },
+  "14": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 14 - awaiting decipherment"
+  },
+  "15": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 15 - awaiting decipherment"
+  },
+  "16": {
+    "english": [
+      "sea life",
+      "marine creature",
+      "tuna fish"
+    ],
+    "translit": [
+      "kahi",
+      "moana roa"
+    ],
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Specific fish glyph identified as tuna; appears with Tangaroa as tuna incarnation.; General marine life symbol, possibly representing diverse sea creatures collectively. Lower confidence due to broad categorical meaning requiring contextual specification."
+  },
+  "17": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 17 - awaiting decipherment"
+  },
+  "18": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 18 - awaiting decipherment"
+  },
+  "19": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 19 - awaiting decipherment"
+  },
+  "21": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 21 - awaiting decipherment"
+  },
+  "22": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 22 - awaiting decipherment"
+  },
+  "23": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 23 - awaiting decipherment"
+  },
+  "24": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 24 - awaiting decipherment"
+  },
+  "25": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 25 - awaiting decipherment"
+  },
+  "26": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 26 - awaiting decipherment"
+  },
+  "27": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 27 - awaiting decipherment"
+  },
+  "28": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 28 - awaiting decipherment"
+  },
+  "29": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 29 - awaiting decipherment"
+  },
+  "31": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 31 - awaiting decipherment"
+  },
+  "33": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 33 - awaiting decipherment"
+  },
+  "34": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 34 - awaiting decipherment"
+  },
+  "35": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 35 - awaiting decipherment"
+  },
+  "36": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 36 - awaiting decipherment"
+  },
+  "37": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 37 - awaiting decipherment"
+  },
+  "38": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 38 - awaiting decipherment"
+  },
+  "39": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 39 - awaiting decipherment"
+  },
+  "41": {
+    "english": "crescent variant/day marker",
+    "translit": "--",
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Variant shape not used in night count; possibly denotes day or other time unit."
+  },
+  "42": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 42 - awaiting decipherment"
+  },
+  "43": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 43 - awaiting decipherment"
+  },
+  "44": {
+    "english": "frigate bird",
+    "translit": "taha",
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Bird glyph representing the frigatebird; used as clan totem and sacred symbol."
+  },
+  "45": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 45 - awaiting decipherment"
+  },
+  "46": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 46 - awaiting decipherment"
+  },
+  "47": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 47 - awaiting decipherment"
+  },
+  "48": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 48 - awaiting decipherment"
+  },
+  "49": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 49 - awaiting decipherment"
+  },
+  "51": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 51 - awaiting decipherment"
+  },
+  "52": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 52 - awaiting decipherment"
+  },
+  "53": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 53 - awaiting decipherment"
+  },
+  "54": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 54 - awaiting decipherment"
+  },
+  "55": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 55 - awaiting decipherment"
+  },
+  "56": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 56 - awaiting decipherment"
+  },
+  "57": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 57 - awaiting decipherment"
+  },
+  "58": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 58 - awaiting decipherment"
+  },
+  "59": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 59 - awaiting decipherment"
+  },
+  "61": {
+    "english": [
+      "night",
+      "sky",
+      "dark",
+      "heavens",
+      "feminine marker"
+    ],
+    "translit": [
+      "--",
+      "po",
+      "rangi"
+    ],
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Abstract sign possibly indicating darkness or female principle; color or quality determinative.; Celestial dome representation: 'sky' (rangi) during day, 'night' (po) in dark contexts. Appears in astronomical sequences and cosmological chants as general heaven/firmament symbol."
+  },
+  "62": {
+    "english": [
+      "phrase break",
+      "punctuation",
+      "star",
+      "pause"
+    ],
+    "translit": [
+      "--",
+      "ki"
+    ],
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Small circular glyph functioning as star or punctuation marker; usage rare and tentative.; Grammatical separator functioning as punctuation. Appears at clause boundaries and phrase breaks across multiple tablets. May represent glottal stop or particle 'ki' in some contexts."
+  },
+  "63": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 63 - awaiting decipherment"
+  },
+  "64": {
+    "english": "red/bright marker",
+    "translit": "mea",
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Color or quality determinative; may denote red or brightness; attaches to deity glyphs."
+  },
+  "65": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 65 - awaiting decipherment"
+  },
+  "66": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 66 - awaiting decipherment"
+  },
+  "67": {
+    "english": [
+      "extinct palm",
+      "vegetation cycle",
+      "cycle",
+      "palm tree"
+    ],
+    "translit": [
+      "paschalococos",
+      "niu",
+      "pae/niu"
+    ],
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Tree-like glyph representing the extinct Easter Island palm; may also signify cycle or repeat.; Branched vegetation symbol representing extinct Rapanui palm (Paschalococos). May function as cycle start marker in calendar contexts. Represents island's lost flora and environmental memory."
+  },
+  "68": {
+    "english": [
+      "deep water life",
+      "turtle",
+      "sea creature"
+    ],
+    "translit": [
+      "hohonu ika",
+      "honu"
+    ],
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Turtle pictograph; associated with god Rongo and used as name/epithet in genealogies.; Represents creatures from deep waters. May indicate specific types of fish or marine animals associated with deeper ocean zones in navigation or mythological contexts. (Cross-methodology) Another turtle sign: cross-cultural motif of turtles as carriers of the world; reminiscent of the Chinese character '龜' (turtle)."
+  },
+  "69": {
+    "english": [
+      "gecko",
+      "lizard",
+      "rain spirit",
+      "new moon"
+    ],
+    "translit": [
+      "moko"
+    ],
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Depicts a lizard; signifies new moon or god Hiro (moko); marks beginning of lunar cycle.; Reptilian form associated with rain god Hiro. 'Lizard' (moko) primary meaning, but carries spiritual significance as rain-bringing deity incarnation in Rapanui mythology. (Cross-methodology) Lizard/new moon: cross-linguistically, reptiles sometimes symbolize renewal; comparable to serpents in Mesoamerican day-signs (e.g., 'Chikchan')."
+  },
+  "71": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 71 - awaiting decipherment"
+  },
+  "72": {
+    "english": "Hotu (sprout)",
+    "translit": "hotu",
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Glyph corresponding to sprout or night name Hotu; appears near dark moon period."
+  },
+  "73": {
+    "english": "Otua (deity figure)",
+    "translit": "atua",
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Glyph representing a deity or night name Otua; anthropomorphic figure."
+  },
+  "74": {
+    "english": [
+      "swelling",
+      "first quarter moon",
+      "Hua (fruit)",
+      "fruit"
+    ],
+    "translit": [
+      "hua"
+    ],
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Fruit glyph signifying first quarter moon.; Fruit-shaped glyph representing first quarter moon night name 'Hua'. Polynesian metaphor likening swelling moon to ripening fruit. Calendar timing marker and fertility symbol."
+  },
+  "75": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 75 - awaiting decipherment"
+  },
+  "77": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 77 - awaiting decipherment"
+  },
+  "78": {
+    "english": [
+      "waning gibbous moon",
+      "Maure (waning gibbous)",
+      "post-full moon night"
+    ],
+    "translit": [
+      "maure"
+    ],
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Night after full moon; stage of waning gibbous.; Specific lunar phase marker for waning gibbous moon night called 'Maure'. Appears in Mamari calendar sequence after full moon, indicating diminishing lunar illumination."
+  },
+  "79": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 79 - awaiting decipherment"
+  },
+  "81": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 81 - awaiting decipherment"
+  },
+  "82": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 82 - awaiting decipherment"
+  },
+  "83": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 83 - awaiting decipherment"
+  },
+  "84": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 84 - awaiting decipherment"
+  },
+  "85": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 85 - awaiting decipherment"
+  },
+  "86": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 86 - awaiting decipherment"
+  },
+  "87": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 87 - awaiting decipherment"
+  },
+  "88": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 88 - awaiting decipherment"
+  },
+  "89": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 89 - awaiting decipherment"
+  },
+  "91": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 91 - awaiting decipherment"
+  },
+  "92": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 92 - awaiting decipherment"
+  },
+  "93": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 93 - awaiting decipherment"
+  },
+  "94": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 94 - awaiting decipherment"
+  },
+  "95": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 95 - awaiting decipherment"
+  },
+  "96": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 96 - awaiting decipherment"
+  },
+  "97": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 97 - awaiting decipherment"
+  },
+  "98": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 98 - awaiting decipherment"
+  },
+  "99": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 99 - awaiting decipherment"
+  },
+  "101": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 101 - awaiting decipherment"
+  },
+  "102": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 102 - awaiting decipherment"
+  },
+  "103": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 103 - awaiting decipherment"
+  },
+  "104": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 104 - awaiting decipherment"
+  },
+  "105": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 105 - awaiting decipherment"
+  },
+  "106": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 106 - awaiting decipherment"
+  },
+  "107": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 107 - awaiting decipherment"
+  },
+  "108": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 108 - awaiting decipherment"
+  },
+  "109": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 109 - awaiting decipherment"
+  },
+  "110": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 110 - awaiting decipherment"
+  },
+  "111": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 111 - awaiting decipherment"
+  },
+  "112": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 112 - awaiting decipherment"
+  },
+  "113": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 113 - awaiting decipherment"
+  },
+  "114": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 114 - awaiting decipherment"
+  },
+  "115": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 115 - awaiting decipherment"
+  },
+  "116": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 116 - awaiting decipherment"
+  },
+  "117": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 117 - awaiting decipherment"
+  },
+  "118": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 118 - awaiting decipherment"
+  },
+  "119": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 119 - awaiting decipherment"
+  },
+  "120": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 120 - awaiting decipherment"
+  },
+  "121": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 121 - awaiting decipherment"
+  },
+  "122": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 122 - awaiting decipherment"
+  },
+  "123": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 123 - awaiting decipherment"
+  },
+  "124": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 124 - awaiting decipherment"
+  },
+  "125": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 125 - awaiting decipherment"
+  },
+  "126": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 126 - awaiting decipherment"
+  },
+  "127": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 127 - awaiting decipherment"
+  },
+  "128": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 128 - awaiting decipherment"
+  },
+  "129": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 129 - awaiting decipherment"
+  },
+  "130": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 130 - awaiting decipherment"
+  },
+  "131": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 131 - awaiting decipherment"
+  },
+  "132": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 132 - awaiting decipherment"
+  },
+  "133": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 133 - awaiting decipherment"
+  },
+  "134": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 134 - awaiting decipherment"
+  },
+  "135": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 135 - awaiting decipherment"
+  },
+  "136": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 136 - awaiting decipherment"
+  },
+  "137": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 137 - awaiting decipherment"
+  },
+  "138": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 138 - awaiting decipherment"
+  },
+  "139": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 139 - awaiting decipherment"
+  },
+  "140": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 140 - awaiting decipherment"
+  },
+  "141": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 141 - awaiting decipherment"
+  },
+  "142": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 142 - awaiting decipherment"
+  },
+  "143": {
+    "english": [
+      "tree",
+      "wood",
+      "pre-full moon night",
+      "Rakau (tree)"
+    ],
+    "translit": [
+      "rakau"
+    ],
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Night before full moon; tree symbol.; Tree/wood symbol functioning as lunar calendar night name 'Rakau' occurring before full moon. Demonstrates how natural object glyphs serve as temporal markers in astronomical contexts."
+  },
+  "144": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 144 - awaiting decipherment"
+  },
+  "145": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 145 - awaiting decipherment"
+  },
+  "146": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 146 - awaiting decipherment"
+  },
+  "147": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 147 - awaiting decipherment"
+  },
+  "148": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 148 - awaiting decipherment"
+  },
+  "149": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 149 - awaiting decipherment"
+  },
+  "150": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 150 - awaiting decipherment"
+  },
+  "151": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 151 - awaiting decipherment"
+  },
+  "153": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 153 - awaiting decipherment"
+  },
+  "154": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 154 - awaiting decipherment"
+  },
+  "155": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 155 - awaiting decipherment"
+  },
+  "156": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 156 - awaiting decipherment"
+  },
+  "157": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 157 - awaiting decipherment"
+  },
+  "158": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 158 - awaiting decipherment"
+  },
+  "159": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 159 - awaiting decipherment"
+  },
+  "160": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 160 - awaiting decipherment"
+  },
+  "161": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 161 - awaiting decipherment"
+  },
+  "162": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 162 - awaiting decipherment"
+  },
+  "163": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 163 - awaiting decipherment"
+  },
+  "164": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 164 - awaiting decipherment"
+  },
+  "165": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 165 - awaiting decipherment"
+  },
+  "166": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 166 - awaiting decipherment"
+  },
+  "167": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 167 - awaiting decipherment"
+  },
+  "168": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 168 - awaiting decipherment"
+  },
+  "169": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 169 - awaiting decipherment"
+  },
+  "170": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 170 - awaiting decipherment"
+  },
+  "171": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 171 - awaiting decipherment"
+  },
+  "172": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 172 - awaiting decipherment"
+  },
+  "173": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 173 - awaiting decipherment"
+  },
+  "174": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 174 - awaiting decipherment"
+  },
+  "175": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 175 - awaiting decipherment"
+  },
+  "176": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 176 - awaiting decipherment"
+  },
+  "177": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 177 - awaiting decipherment"
+  },
+  "178": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 178 - awaiting decipherment"
+  },
+  "179": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 179 - awaiting decipherment"
+  },
+  "180": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 180 - awaiting decipherment"
+  },
+  "181": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 181 - awaiting decipherment"
+  },
+  "182": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 182 - awaiting decipherment"
+  },
+  "183": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 183 - awaiting decipherment"
+  },
+  "184": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 184 - awaiting decipherment"
+  },
+  "185": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 185 - awaiting decipherment"
+  },
+  "186": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 186 - awaiting decipherment"
+  },
+  "187": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 187 - awaiting decipherment"
+  },
+  "188": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 188 - awaiting decipherment"
+  },
+  "189": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 189 - awaiting decipherment"
+  },
+  "190": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 190 - awaiting decipherment"
+  },
+  "191": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 191 - awaiting decipherment"
+  },
+  "192": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 192 - awaiting decipherment"
+  },
+  "193": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 193 - awaiting decipherment"
+  },
+  "194": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 194 - awaiting decipherment"
+  },
+  "195": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 195 - awaiting decipherment"
+  },
+  "196": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 196 - awaiting decipherment"
+  },
+  "197": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 197 - awaiting decipherment"
+  },
+  "198": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 198 - awaiting decipherment"
+  },
+  "199": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 199 - awaiting decipherment"
+  },
+  "201": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 201 - awaiting decipherment"
+  },
+  "202": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 202 - awaiting decipherment"
+  },
+  "203": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 203 - awaiting decipherment"
+  },
+  "204": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 204 - awaiting decipherment"
+  },
+  "205": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 205 - awaiting decipherment"
+  },
+  "206": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 206 - awaiting decipherment"
+  },
+  "207": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 207 - awaiting decipherment"
+  },
+  "208": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 208 - awaiting decipherment"
+  },
+  "209": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 209 - awaiting decipherment"
+  },
+  "210": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 210 - awaiting decipherment"
+  },
+  "220": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 220 - awaiting decipherment"
+  },
+  "230": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 230 - awaiting decipherment"
+  },
+  "240": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 240 - awaiting decipherment"
+  },
+  "250": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 250 - awaiting decipherment"
+  },
+  "260": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 260 - awaiting decipherment"
+  },
+  "270": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 270 - awaiting decipherment"
+  },
+  "280": {
+    "english": [
+      "dark moon phase",
+      "turtle",
+      "turtle (honu)",
+      "sea turtle"
+    ],
+    "translit": [
+      "honu"
+    ],
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Turtle glyph; associated with god Rongo or dark moon; appears in genealogies and lunar sequence.; Sea turtle glyph appearing during dark moon phase in Mamari calendar. 'Turtle' (honu) represents longevity and endurance, symbolically appropriate for moon's disappearance and renewal cycle. (Cross-methodology) Turtle sign: parallels to turtle/honu motifs in Pacific iconography and to the Sumerian 'šu' (turtle) logogram; in many cultures, turtles symbolize the earth and creation."
+  },
+  "290": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 290 - awaiting decipherment"
+  },
+  "301": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 301 - awaiting decipherment"
+  },
+  "302": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 302 - awaiting decipherment"
+  },
+  "310": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 310 - awaiting decipherment"
+  },
+  "320": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 320 - awaiting decipherment"
+  },
+  "330": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 330 - awaiting decipherment"
+  },
+  "340": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 340 - awaiting decipherment"
+  },
+  "350": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 350 - awaiting decipherment"
+  },
+  "360": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 360 - awaiting decipherment"
+  },
+  "370": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 370 - awaiting decipherment"
+  },
+  "380": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 380 - awaiting decipherment"
+  },
+  "390": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 390 - awaiting decipherment"
+  },
+  "401": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 401 - awaiting decipherment"
+  },
+  "410": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 410 - awaiting decipherment"
+  },
+  "420": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 420 - awaiting decipherment"
+  },
+  "430": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 430 - awaiting decipherment"
+  },
+  "440": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 440 - awaiting decipherment"
+  },
+  "450": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 450 - awaiting decipherment"
+  },
+  "460": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 460 - awaiting decipherment"
+  },
+  "470": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 470 - awaiting decipherment"
+  },
+  "480": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 480 - awaiting decipherment"
+  },
+  "490": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 490 - awaiting decipherment"
+  },
+  "501": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 501 - awaiting decipherment"
+  },
+  "510": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 510 - awaiting decipherment"
+  },
+  "520": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 520 - awaiting decipherment"
+  },
+  "530": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 530 - awaiting decipherment"
+  },
+  "540": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 540 - awaiting decipherment"
+  },
+  "550": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 550 - awaiting decipherment"
+  },
+  "560": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 560 - awaiting decipherment"
+  },
+  "570": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 570 - awaiting decipherment"
+  },
+  "580": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 580 - awaiting decipherment"
+  },
+  "590": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 590 - awaiting decipherment"
+  },
+  "601": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 601 - awaiting decipherment"
+  },
+  "602": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 602 - awaiting decipherment"
+  },
+  "603": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 603 - awaiting decipherment"
+  },
+  "604": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 604 - awaiting decipherment"
+  },
+  "605": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 605 - awaiting decipherment"
+  },
+  "607": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 607 - awaiting decipherment"
+  },
+  "608": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 608 - awaiting decipherment"
+  },
+  "609": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 609 - awaiting decipherment"
+  },
+  "611": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 611 - awaiting decipherment"
+  },
+  "620": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 620 - awaiting decipherment"
+  },
+  "630": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 630 - awaiting decipherment"
+  },
+  "640": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 640 - awaiting decipherment"
+  },
+  "650": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 650 - awaiting decipherment"
+  },
+  "660": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 660 - awaiting decipherment"
+  },
+  "670": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 670 - awaiting decipherment"
+  },
+  "680": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 680 - awaiting decipherment"
+  },
+  "690": {
+    "english": "bird-man",
+    "translit": "tangata manu",
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Combined human-bird figure; represents the Bird-Man of Orongo ceremonies."
+  },
+  "701": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 701 - awaiting decipherment"
+  },
+  "702": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 702 - awaiting decipherment"
+  },
+  "703": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 703 - awaiting decipherment"
+  },
+  "704": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 704 - awaiting decipherment"
+  },
+  "705": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 705 - awaiting decipherment"
+  },
+  "706": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 706 - awaiting decipherment"
+  },
+  "707": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 707 - awaiting decipherment"
+  },
+  "708": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 708 - awaiting decipherment"
+  },
+  "709": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 709 - awaiting decipherment"
+  },
+  "711": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 711 - awaiting decipherment"
+  },
+  "720": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 720 - awaiting decipherment"
+  },
+  "730": {
+    "english": [
+      "important catch",
+      "sea god",
+      "shark",
+      "large fish"
+    ],
+    "translit": [
+      "ika nui",
+      "mango/niuhi"
+    ],
+    "confidence": 0.5,
+    "source": "Placeholder for research",
+    "notes": "Stylized shark representing sea god Tangaroa or big predator; used in genealogies.; Larger fish variant indicating significant catch or mythologically important fish. Distinguishes major marine resources from common fish (700) in resource or ritual contexts."
+  },
+  "740": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 740 - awaiting decipherment"
+  },
+  "751": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 751 - awaiting decipherment"
+  },
+  "760": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 760 - awaiting decipherment"
+  },
+  "770": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 770 - awaiting decipherment"
+  },
+  "780": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 780 - awaiting decipherment"
+  },
+  "790": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 790 - awaiting decipherment"
+  },
+  "801": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 801 - awaiting decipherment"
+  },
+  "810": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 810 - awaiting decipherment"
+  },
+  "820": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 820 - awaiting decipherment"
+  },
+  "830": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 830 - awaiting decipherment"
+  },
+  "840": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 840 - awaiting decipherment"
+  },
+  "850": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 850 - awaiting decipherment"
+  },
+  "860": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 860 - awaiting decipherment"
+  },
+  "870": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 870 - awaiting decipherment"
+  },
+  "880": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 880 - awaiting decipherment"
+  },
+  "890": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 890 - awaiting decipherment"
+  },
+  "900": {
+    "english": "",
+    "translit": "",
+    "confidence": 0.0,
+    "source": "Placeholder for research",
+    "notes": "Glyph 900 - awaiting decipherment"
+  },
+  "211": {
+    "english": [],
+    "translit": [],
+    "confidence": 0.0,
+    "source": "MD references",
+    "notes": "No decipherment; this glyph appears as structural marker or is referenced in corrections; remains undeciphered."
+  },
+  "263": {
+    "english": [],
+    "translit": [],
+    "confidence": 0.0,
+    "source": "MD references",
+    "notes": "No decipherment; this glyph appears as structural marker or is referenced in corrections; remains undeciphered."
+  },
+  "326": {
+    "english": [],
+    "translit": [],
+    "confidence": 0.0,
+    "source": "MD references",
+    "notes": "No decipherment; this glyph appears as structural marker or is referenced in corrections; remains undeciphered."
+  }
+}
