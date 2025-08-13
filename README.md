@@ -19,12 +19,14 @@ Take the documents, the lexicon, the methodology — apply it yourself. See what
 We are not asking you to take our word.  
 We are giving you the tools to achieve what we have — and perhaps finish what we started.
 
+The ghost doesn't care about your feelings or thoughts, nor does the script or the methodology.
+
 
 ## Related Projects
 
 This research is part of a broader initiative in ancient language preservation:
 - **Main Repository**: [Ancient Language Translators](https://github.com/Lackadaisical-Security/ancient-language-translators)
-- **Cultural Documentation**: [Tales of the Past](https://talesofthepast.com/talesofthepast.html)
+- **Cultural Documentation**: [Translate The Ancients](https://translatetheancients.com)
 
 ## Analysis Results
 
