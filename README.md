@@ -136,8 +136,8 @@ The script functions as a mnemonic writing system encoding:
 - **RONGORONGO_COMPREHENSIVE_ANALYSIS.md**: Complete analysis summary
 
 ### Source Data
-- **final_decrypted_lexicon_v2.json/.csv/.jsv**: Primary decipherment database
-- **Complete_Comprehensive_Rongorongo_Lexicon.json/.csv**: Comprehensive glyph catalog
+- **[Latest complete_decrypted_lexicon](https://github.com/Lackadaisical-Security/rongorongo-deciphered-public/blob/main/rongorongo_lexicon_MASTER_MERGE_2025-09-25_cleaned_notes.json)**: Primary decipherment database
+- [**Rongorngo Lexicon Glyphs.json/.csv**:](https://lackadaisical-security.com/rongorongo-research/lexicon-index.html) Comprehensive glyph catalog with details for each glyph in html format updated constantly.
 
 ### Cross-Reference Materials
 - **Datasets/rongorongo-cross-correlation.json**: Pattern validation data
@@ -173,7 +173,7 @@ This work builds on previous research by Barthel, Fischer, Guy, Pozdniakov, Knor
 
 **Research Period**: August 1-13, 2025  
 **Total Analysis Documents**: 53  
-**Identified Glyphs**: 300+  
+**Identified Glyphs**: 600+  
 **High-Confidence Decipherments**: 15  
 **Medium-Confidence Identifications**: 25  
 
