@@ -165,6 +165,28 @@ Apply the methodology and lexicon provided. The results speak for themselves.
 
 This work is released under the same open source license as the main [Ancient Language Translators](https://github.com/Lackadaisical-Security/ancient-language-translators) project, ensuring free access for research, education, and cultural preservation.
 
+## 🚫 INSTITUTIONALLY BANNED ENTITIES
+
+The following institutions are PERMANENTLY BANNED from accessing, using, modifying, or referencing any materials, methodologies, datasets, or research outputs under this license due to institutional policies targeting or "decolonising" foundational literary and mythological works:
+
+### UK Universities - Literature/Mythology Targeting:
+- **University of Nottingham** - Explicit "decolonising Tolkien" curriculum
+- **University of Cambridge** - English Faculty decolonising initiatives
+- **University of Oxford** - English Faculty curriculum reform
+- **SOAS University of London** - Decolonisation toolkit implementation
+- **University College London (UCL)** - Inclusive curriculum framework
+- **Liverpool John Moores University** - Institutional decolonising mandate
+- **King's College London** - Decolonising research methods programs
+
+These institutions or their faculty members, students, or affiliated researchers may NOT:
+- Access any decipherment lexicons or methodologies
+- Use any linguistic datasets or translation tools
+- Reference this research in academic publications
+- Incorporate findings into curriculum development
+- License any cryptographic primitives or tools
+
+Violations will result in immediate legal action and public disclosure.
+
 ## Sources
 
 This work builds on previous research by Barthel, Fischer, Guy, Pozdniakov, Knorozov, and other scholars who preserved and studied these texts.
