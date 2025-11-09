@@ -1,0 +1,22 @@
+{
+  "run_id": "20251028_220952",
+  "timestamp": "2025-10-28T22:09:52.137190Z",
+  "phase": "1-20_initial_population",
+  "script_version": "1.0",
+  "data_sources": {
+    "master_lexicon": "rongorongo_lexicon_MASTER_MERGE_2025-09-25_cleaned_notes.json",
+    "enhanced_lexicon": "Enhanced_Multi_Meaning_Rongorongo_Lexicon.json",
+    "research_archive": "rongorongo-research.zip"
+  },
+  "outputs": {
+    "sensebank": "banks/sensebank.json",
+    "namebank": "banks/namebank.json",
+    "calendarbank": "banks/calendarbank.json",
+    "numeralbank": "banks/numeralbank.json",
+    "motifbank": "banks/motifbank.json",
+    "constraints": "analysis/constraints.json",
+    "clusters": "analysis/clusters.json"
+  },
+  "methodology_version": "methodology_rongorongo_next_pass.md (18-phase framework)",
+  "notes": "Initial population of all bank files from public rongorongo-deciphered-public repository data"
+}
