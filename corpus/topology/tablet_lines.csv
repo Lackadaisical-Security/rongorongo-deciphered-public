@@ -1,0 +1,126 @@
+tablet_id,tablet_name,side,line_number,reading_direction,rotation_degrees,estimated_glyphs,confidence,preservation
+A,Tahua (or Santiago Staff),recto,1,left_to_right,0,42,0.95,good
+A,Tahua (or Santiago Staff),recto,2,right_to_left,180,45,0.95,good
+A,Tahua (or Santiago Staff),recto,3,left_to_right,0,48,0.95,good
+A,Tahua (or Santiago Staff),recto,4,right_to_left,180,51,0.95,good
+A,Tahua (or Santiago Staff),recto,5,left_to_right,0,39,0.95,good
+A,Tahua (or Santiago Staff),recto,6,right_to_left,180,42,0.95,good
+A,Tahua (or Santiago Staff),recto,7,left_to_right,0,45,0.95,good
+A,Tahua (or Santiago Staff),recto,8,right_to_left,180,48,0.95,good
+A,Tahua (or Santiago Staff),recto,9,left_to_right,0,51,0.95,good
+A,Tahua (or Santiago Staff),recto,10,right_to_left,180,39,0.95,good
+A,Tahua (or Santiago Staff),verso,1,left_to_right,0,42,0.95,good
+A,Tahua (or Santiago Staff),verso,2,right_to_left,180,45,0.95,good
+A,Tahua (or Santiago Staff),verso,3,left_to_right,0,48,0.95,good
+A,Tahua (or Santiago Staff),verso,4,right_to_left,180,51,0.95,good
+A,Tahua (or Santiago Staff),verso,5,left_to_right,0,39,0.95,good
+A,Tahua (or Santiago Staff),verso,6,right_to_left,180,42,0.95,good
+A,Tahua (or Santiago Staff),verso,7,left_to_right,0,45,0.95,good
+A,Tahua (or Santiago Staff),verso,8,right_to_left,180,48,0.95,good
+C,Mamari,recto,1,left_to_right,0,37,0.95,good
+C,Mamari,recto,2,right_to_left,180,40,0.95,good
+C,Mamari,recto,3,left_to_right,0,43,0.95,good
+C,Mamari,recto,4,right_to_left,180,46,0.95,good
+C,Mamari,recto,5,left_to_right,0,34,0.95,good
+C,Mamari,recto,6,right_to_left,180,37,0.95,good
+C,Mamari,recto,7,left_to_right,0,40,0.95,good
+C,Mamari,recto,8,right_to_left,180,43,0.95,good
+C,Mamari,recto,9,left_to_right,0,46,0.95,good
+C,Mamari,recto,10,right_to_left,180,34,0.95,good
+C,Mamari,recto,11,left_to_right,0,37,0.95,good
+C,Mamari,recto,12,right_to_left,180,40,0.95,good
+C,Mamari,recto,13,left_to_right,0,43,0.95,good
+C,Mamari,recto,14,right_to_left,180,46,0.95,good
+C,Mamari,recto,15,left_to_right,0,34,0.95,good
+C,Mamari,verso,1,left_to_right,0,37,0.95,good
+C,Mamari,verso,2,right_to_left,180,40,0.95,good
+C,Mamari,verso,3,left_to_right,0,43,0.95,good
+C,Mamari,verso,4,right_to_left,180,46,0.95,good
+C,Mamari,verso,5,left_to_right,0,34,0.95,good
+C,Mamari,verso,6,right_to_left,180,37,0.95,good
+C,Mamari,verso,7,left_to_right,0,40,0.95,good
+C,Mamari,verso,8,right_to_left,180,43,0.95,good
+C,Mamari,verso,9,left_to_right,0,46,0.95,good
+C,Mamari,verso,10,right_to_left,180,34,0.95,good
+C,Mamari,verso,11,left_to_right,0,37,0.95,good
+C,Mamari,verso,12,right_to_left,180,40,0.95,good
+C,Mamari,verso,13,left_to_right,0,43,0.95,good
+C,Mamari,verso,14,right_to_left,180,46,0.95,good
+B,Aruku Kurenga,recto,1,left_to_right,0,35,0.9,good
+B,Aruku Kurenga,recto,2,right_to_left,180,38,0.9,good
+B,Aruku Kurenga,recto,3,left_to_right,0,41,0.9,good
+B,Aruku Kurenga,recto,4,right_to_left,180,44,0.9,good
+B,Aruku Kurenga,recto,5,left_to_right,0,32,0.9,good
+B,Aruku Kurenga,recto,6,right_to_left,180,35,0.9,good
+B,Aruku Kurenga,recto,7,left_to_right,0,38,0.9,good
+B,Aruku Kurenga,recto,8,right_to_left,180,41,0.9,good
+B,Aruku Kurenga,recto,9,left_to_right,0,44,0.9,good
+B,Aruku Kurenga,recto,10,right_to_left,180,32,0.9,good
+B,Aruku Kurenga,recto,11,left_to_right,0,35,0.9,good
+B,Aruku Kurenga,recto,12,right_to_left,180,38,0.9,good
+B,Aruku Kurenga,recto,13,left_to_right,0,41,0.9,good
+B,Aruku Kurenga,recto,14,right_to_left,180,44,0.9,good
+B,Aruku Kurenga,recto,15,left_to_right,0,32,0.9,good
+B,Aruku Kurenga,recto,16,right_to_left,180,35,0.9,good
+B,Aruku Kurenga,recto,17,left_to_right,0,38,0.9,good
+B,Aruku Kurenga,recto,18,right_to_left,180,41,0.9,good
+B,Aruku Kurenga,recto,19,left_to_right,0,44,0.9,good
+B,Aruku Kurenga,recto,20,right_to_left,180,32,0.9,good
+B,Aruku Kurenga,recto,21,left_to_right,0,35,0.9,good
+B,Aruku Kurenga,recto,22,right_to_left,180,38,0.9,good
+B,Aruku Kurenga,recto,23,left_to_right,0,41,0.9,good
+B,Aruku Kurenga,recto,24,right_to_left,180,44,0.9,good
+B,Aruku Kurenga,recto,25,left_to_right,0,32,0.9,good
+B,Aruku Kurenga,verso,1,left_to_right,0,35,0.9,good
+B,Aruku Kurenga,verso,2,right_to_left,180,38,0.9,good
+B,Aruku Kurenga,verso,3,left_to_right,0,41,0.9,good
+B,Aruku Kurenga,verso,4,right_to_left,180,44,0.9,good
+B,Aruku Kurenga,verso,5,left_to_right,0,32,0.9,good
+B,Aruku Kurenga,verso,6,right_to_left,180,35,0.9,good
+B,Aruku Kurenga,verso,7,left_to_right,0,38,0.9,good
+B,Aruku Kurenga,verso,8,right_to_left,180,41,0.9,good
+B,Aruku Kurenga,verso,9,left_to_right,0,44,0.9,good
+B,Aruku Kurenga,verso,10,right_to_left,180,32,0.9,good
+B,Aruku Kurenga,verso,11,left_to_right,0,35,0.9,good
+B,Aruku Kurenga,verso,12,right_to_left,180,38,0.9,good
+B,Aruku Kurenga,verso,13,left_to_right,0,41,0.9,good
+B,Aruku Kurenga,verso,14,right_to_left,180,44,0.9,good
+B,Aruku Kurenga,verso,15,left_to_right,0,32,0.9,good
+B,Aruku Kurenga,verso,16,right_to_left,180,35,0.9,good
+B,Aruku Kurenga,verso,17,left_to_right,0,38,0.9,good
+B,Aruku Kurenga,verso,18,right_to_left,180,41,0.9,good
+B,Aruku Kurenga,verso,19,left_to_right,0,44,0.9,good
+B,Aruku Kurenga,verso,20,right_to_left,180,32,0.9,good
+B,Aruku Kurenga,verso,21,left_to_right,0,35,0.9,good
+B,Aruku Kurenga,verso,22,right_to_left,180,38,0.9,good
+B,Aruku Kurenga,verso,23,left_to_right,0,41,0.9,good
+B,Aruku Kurenga,verso,24,right_to_left,180,44,0.9,good
+B,Aruku Kurenga,verso,25,left_to_right,0,32,0.9,good
+G,Small Santiago,recto,1,left_to_right,0,27,0.85,fair
+G,Small Santiago,recto,2,right_to_left,180,30,0.85,fair
+G,Small Santiago,recto,3,left_to_right,0,33,0.85,fair
+G,Small Santiago,recto,4,right_to_left,180,36,0.85,fair
+G,Small Santiago,recto,5,left_to_right,0,24,0.85,fair
+G,Small Santiago,recto,6,right_to_left,180,27,0.85,fair
+G,Small Santiago,recto,7,left_to_right,0,30,0.85,fair
+G,Small Santiago,recto,8,right_to_left,180,33,0.85,fair
+G,Small Santiago,verso,1,left_to_right,0,27,0.85,fair
+G,Small Santiago,verso,2,right_to_left,180,30,0.85,fair
+G,Small Santiago,verso,3,left_to_right,0,33,0.85,fair
+G,Small Santiago,verso,4,right_to_left,180,36,0.85,fair
+G,Small Santiago,verso,5,left_to_right,0,24,0.85,fair
+G,Small Santiago,verso,6,right_to_left,180,27,0.85,fair
+G,Small Santiago,verso,7,left_to_right,0,30,0.85,fair
+G,Small Santiago,verso,8,right_to_left,180,33,0.85,fair
+K,Small London,recto,1,left_to_right,0,32,0.8,fair
+K,Small London,recto,2,right_to_left,180,35,0.8,fair
+K,Small London,recto,3,left_to_right,0,38,0.8,fair
+K,Small London,recto,4,right_to_left,180,41,0.8,fair
+K,Small London,recto,5,left_to_right,0,29,0.8,fair
+K,Small London,recto,6,right_to_left,180,32,0.8,fair
+K,Small London,verso,1,left_to_right,0,32,0.8,fair
+K,Small London,verso,2,right_to_left,180,35,0.8,fair
+K,Small London,verso,3,left_to_right,0,38,0.8,fair
+K,Small London,verso,4,right_to_left,180,41,0.8,fair
+K,Small London,verso,5,left_to_right,0,29,0.8,fair
+K,Small London,verso,6,right_to_left,180,32,0.8,fair

@@ -1,0 +1,7 @@
+tablet_id,name,location,lines_verso,lines_recto,total_lines,orientation,line_length_avg,confidence,notes
+A,Tahua (or Santiago Staff),Rome,8,10,18,standard_boustrophedon,45,0.95,"Best preserved tablet, contains genealogical sequences"
+C,Mamari,Rome,14,15,29,standard_boustrophedon,40,0.95,"Contains lunar calendar sequence, well-preserved"
+B,Aruku Kurenga,Santiago,25,25,50,standard_boustrophedon,38,0.9,Large tablet with extensive genealogies
+G,Small Santiago,Santiago,8,8,16,standard_boustrophedon,30,0.85,Contains procreation formulas with glyph 76
+H,Great Santiago (Santiago Staff),Santiago,0,0,1,helical,2320,0.85,Continuous spiral inscription on staff
+K,Small London,London,6,6,12,standard_boustrophedon,35,0.8,"Genealogical content, partially damaged"
