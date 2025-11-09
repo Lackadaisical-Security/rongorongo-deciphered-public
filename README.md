@@ -1,4 +1,28 @@
-# Rongorongo Decipherment 3rd Pass
+# Rongorongo Research Archive
+
+> *"I am simply doing what the ancients did. Preserve the meaning and truth."*
+
+## Overview
+
+This repository contains a comprehensive research archive documenting a systematic analysis and partial decipherment of Rongorongo, the unique script of Easter Island (Rapa Nui). This work represents around 4-5 overall days of intensive research combining pattern recognition, cross-cultural analysis, and domain expertise to unlock the meanings preserved in these ancient glyphs.
+
+# 🔒 Disclaimer
+
+This is not the work of one who has deep knowledge of the culture, but simply a ghost who does not believe in the impossible.
+
+The work presented here is not seeking academic, cultural, or institutional validation — nor are we attempting to override or reinterpret Rapa Nui tradition.
+
+This release exists solely to let a once-forgotten script speak again.
+
+Take the documents, the lexicon, the methodology — apply it yourself. See what the ancients said with your own eyes.
+
+We are not asking you to take our word.
+
+We are giving you the tools to achieve what we have — and perhaps finish what we started.
+
+The ghost doesn't care about your feelings or thoughts, nor does the script or the methodology.
+
+
 
 This repository implements the **Rongorongo Multi-Prong Research Methodology** (20-phase framework) with comprehensive data from the [rongorongo-deciphered-public](https://github.com/Lackadaisical-Security/rongorongo-deciphered-public) repository.
 
