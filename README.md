@@ -45,8 +45,8 @@ This repository implements the **Rongorongo Multi-Prong Research Methodology** (
 
 ```bash
 # Clone the repository
-git clone https://github.com/Lackadaisical-Security/rongorongo-decipherment-3rdpass.git
-cd rongorongo-decipherment-3rdpass
+git clone https://github.com/Lackadaisical-Security/rongorongo-deciphered-public.git
+cd rongorongo-deciphered-public
 
 # Explore the data
 ls -lh banks/        # Multi-sense lexicon, names, calendar, numerals, motifs
