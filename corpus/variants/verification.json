@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "created": "2025-10-30T06:06:46.786073",
+    "phase": 2,
+    "title": "Variant & Ligature Verification"
+  },
+  "verification_tests": [
+    {
+      "test_name": "variant_bidirectionality",
+      "description": "Verify all variants map correctly to canonical forms",
+      "status": "defined",
+      "criteria": "Each variant must map to exactly one canonical form"
+    },
+    {
+      "test_name": "ligature_completeness",
+      "description": "Verify all ligature components exist in corpus",
+      "status": "defined",
+      "criteria": "Each component must be a valid glyph or semantic concept"
+    },
+    {
+      "test_name": "consistency_check",
+      "description": "Verify no conflicts in variant/canonical assignments",
+      "status": "defined",
+      "criteria": "No glyph should be both canonical and variant simultaneously"
+    }
+  ],
+  "quality_metrics": {
+    "variant_coverage": "To be calculated from corpus",
+    "ligature_confidence_avg": 0.6,
+    "manual_review_required": true
+  }
+}
