@@ -1,0 +1,7 @@
+sequence_id,pattern,num_tablets,occurrences,alignment_score,confidence,variability,glyph_sequence,notes
+P001,genealogical_formula,4,15,0.92,0.9,low,B001-B076-B001,Standard genealogical succession formula
+P002,lunar_cycle,1,1,0.98,0.95,none,B152-series,"Unique to Mamari, 29-30 day cycle documented"
+P003,procreation_formula,2,8,0.88,0.85,low,NAME-B076-NAME,Glyph B076 consistently signals procreation/succession
+P004,title_sequence,3,12,0.85,0.8,moderate,B200-NAME,B200 (king/ariki) precedes personal names in royal contexts
+P005,bird_enumeration,1,1,0.9,0.85,low,B600-series,"Systematic bird catalog, possibly ritual or ecological"
+P006,astronomical_marker,2,5,0.82,0.75,moderate,astronomical-cluster,Possible calendar coordination markers

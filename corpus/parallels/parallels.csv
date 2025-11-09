@@ -1,0 +1,14 @@
+sequence_id,pattern,tablet,glyph_sequence,alignment_score,confidence,variability,description
+P001,genealogical_formula,Santiago Staff,B001-B076-B001,0.92,0.9,low,NAME_A [marker] NAME_B succession pattern
+P001,genealogical_formula,Tablet G,B001-B076-B001,0.92,0.9,low,NAME_A [marker] NAME_B succession pattern
+P001,genealogical_formula,Tablet K,B001-B076-B001,0.92,0.9,low,NAME_A [marker] NAME_B succession pattern
+P001,genealogical_formula,Tablet A,B001-B076-B001,0.92,0.9,low,NAME_A [marker] NAME_B succession pattern
+P002,lunar_cycle,Mamari,B152-series,0.98,0.95,none,Complete lunar calendar (confirmed)
+P003,procreation_formula,Santiago Staff,NAME-B076-NAME,0.88,0.85,low,X [glyph76] Y produces Z mating formula
+P003,procreation_formula,Tablet G,NAME-B076-NAME,0.88,0.85,low,X [glyph76] Y produces Z mating formula
+P004,title_sequence,Santiago Staff,B200-NAME,0.85,0.8,moderate,Royal title + name pattern
+P004,title_sequence,Tablet A,B200-NAME,0.85,0.8,moderate,Royal title + name pattern
+P004,title_sequence,Tablet B,B200-NAME,0.85,0.8,moderate,Royal title + name pattern
+P005,bird_enumeration,Santiago Staff,B600-series,0.9,0.85,low,Bird catalog sequence
+P006,astronomical_marker,Mamari,astronomical-cluster,0.82,0.75,moderate,Star/celestial observation markers
+P006,astronomical_marker,Tablet A,astronomical-cluster,0.82,0.75,moderate,Star/celestial observation markers
