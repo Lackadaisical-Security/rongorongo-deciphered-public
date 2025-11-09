@@ -1,0 +1,18 @@
+{
+  "run_id": "20251028_222914",
+  "timestamp": "2025-10-28T22:29:14.583540Z",
+  "phase": "master_lexicon_update_2025-09-26",
+  "script_version": "2.0",
+  "data_source": "rongorongo_lexicon_MASTER_2025-09-26.updated.json",
+  "outputs": {
+    "sensebank": "734 glyphs",
+    "namebank": "33 candidates",
+    "calendarbank": "32 entries",
+    "numeralbank": "8 numerals"
+  },
+  "improvements": {
+    "previous_glyphs": 306,
+    "new_glyphs": 734,
+    "increase": 428
+  }
+}
