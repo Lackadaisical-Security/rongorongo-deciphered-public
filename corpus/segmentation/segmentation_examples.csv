@@ -1,0 +1,5 @@
+example_id,tablet,line,sequence,segmentation,boundary_type,confidence,translation_hint,notes
+SEG001,Santiago Staff,recto-1,B001 B076 B001 | B001 B076 B001,[[B001 B076 B001]] [[B001 B076 B001]],explicit_formula,0.85,[NAME1 begat NAME2] [NAME3 begat NAME4],Clear genealogical formula with B076 markers
+SEG002,Mamari,verso-5,B152 B152 B152 ... (29 units),[[B152]] [[B152]] [[B152]] ...,calendar_unit,0.9,[day1] [day2] [day3] ... [day29],Lunar calendar with clear day boundaries
+SEG003,Tablet A,recto-3,B200 B001 | B001 B002,[[B200 B001]] [[B001 B002]],title_marker,0.8,[King NAME1] [ancestors/followers],Title marker signals entity boundary
+SEG004,Santiago Staff,recto-12,B600 B601 B602 | B606,[[B600]] [[B601]] [[B602]] [[B606]],list_item,0.75,[bird1] [bird2] [bird3] [bird-group],Bird enumeration with item boundaries

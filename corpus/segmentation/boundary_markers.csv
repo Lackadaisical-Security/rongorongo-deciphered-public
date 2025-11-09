@@ -1,0 +1,7 @@
+boundary_id,type,function,glyph_marker,confidence,frequency,context,examples,notes
+BM001,section_divider,Separates generations/sections in genealogies,visual-divider,0.95,high,genealogical,3,"Clear visual separator, no ambiguity"
+BM002,explicit_formula,NAME + MARKER + NAME creates natural boundary,B076,0.85,moderate,genealogical,8,Glyph B076 (procreation) signals phrase boundary
+BM003,semantic_shift,Context change implies boundary,context-dependent,0.6,context_dependent,mixed,12,"Inferred from semantic analysis, less certain"
+BM004,title_marker,Royal title signals start of new entity,B200,0.8,moderate,social_hierarchy,6,B200 (king/ariki) marks entity boundary
+BM005,calendar_unit,Lunar phase markers segment calendar,B152-series,0.9,calendar_specific,astronomical,29,Clear segmentation in Mamari calendar
+BM006,list_item,Bird catalog item separators,B600-series,0.75,low,enumeration,1,Systematic enumeration pattern
