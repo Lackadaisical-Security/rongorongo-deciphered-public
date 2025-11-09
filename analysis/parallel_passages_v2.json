@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "phase": 6,
+    "title": "Parallels & Alignment Atlas",
+    "created": "2025-11-09T17:33:25.517662",
+    "methodology": "Cross-tablet visual comparison using photographs",
+    "tablets_available": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "J",
+      "K",
+      "L",
+      "P",
+      "R"
+    ],
+    "total_images": 19
+  },
+  "parallel_passages": [
+    {
+      "sequence_id": "P001",
+      "pattern": "genealogical_formula",
+      "tablets": [
+        "H",
+        "G",
+        "K",
+        "B"
+      ],
+      "tablets_with_images": [
+        "H",
+        "G",
+        "K",
+        "B"
+      ],
+      "description": "NAME_A [marker] NAME_B succession pattern",
+      "confidence": 0.9,
+      "variability": "low",
+      "visual_verification": "Check Santiago Staff (H), Small Santiago (G), Small London (K), Aruku Kurenga (B) images"
+    },
+    {
+      "sequence_id": "P002",
+      "pattern": "lunar_cycle",
+      "tablets": [
+        "C"
+      ],
+      "tablets_with_images": [
+        "C"
+      ],
+      "description": "Complete lunar calendar (confirmed)",
+      "confidence": 0.98,
+      "variability": "none",
+      "visual_verification": "Mamari tablet (C) - both recto and verso available",
+      "images_available": [
+        "tablet_C_recto.jpg",
+        "tablet_C_verso.jpg"
+      ]
+    },
+    {
+      "sequence_id": "P003",
+      "pattern": "procreation_formula",
+      "tablets": [
+        "H",
+        "G"
+      ],
+      "tablets_with_images": [
+        "H",
+        "G"
+      ],
+      "description": "X [glyph76] Y to Z mating formula",
+      "confidence": 0.88,
+      "variability": "low",
+      "visual_verification": "Compare Santiago Staff (H) and Small Santiago (G)"
+    },
+    {
+      "sequence_id": "P004",
+      "pattern": "title_sequence",
+      "tablets": [
+        "B",
+        "H",
+        "G"
+      ],
+      "tablets_with_images": [
+        "B",
+        "H",
+        "G"
+      ],
+      "description": "B200 (king) + NAME pattern",
+      "confidence": 0.85,
+      "variability": "moderate",
+      "visual_verification": "Social hierarchy markers visible across multiple tablets"
+    }
+  ],
+  "alignment_statistics": {
+    "total_parallel_sequences": 4,
+    "cross_tablet_confirmations": 10,
+    "unique_to_single_tablet": "Mamari lunar calendar (P002)",
+    "tablets_ready_for_comparison": 12
+  },
+  "visual_comparison_workflow": {
+    "step_1": "Identify candidate sequences in each tablet photograph",
+    "step_2": "Align sequences visually across tablets",
+    "step_3": "Measure variability and create alignment scores",
+    "step_4": "Document parallel passages with image references",
+    "tools_needed": "Image annotation software, sequence alignment tools"
+  },
+  "methodology_notes": "Enhanced with actual tablet photographs for visual cross-referencing"
+}

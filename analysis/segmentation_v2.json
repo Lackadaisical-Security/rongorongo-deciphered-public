@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "phase": 7,
+    "title": "Segmentation",
+    "created": "2025-11-09T17:33:25.519474",
+    "methodology": "Visual boundary detection from tablet photographs",
+    "tablets_available": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "J",
+      "K",
+      "L",
+      "P",
+      "R"
+    ],
+    "total_images": 19
+  },
+  "segmentation_principles": [
+    "Section dividers clearly visible in photographs",
+    "Genealogical formulas form discrete visual units",
+    "Glyph 76 (procreation marker) signals phrase boundaries",
+    "Spacing and visual grouping indicate segmentation",
+    "Visual dividers more apparent in photographs than transcriptions"
+  ],
+  "boundary_markers": [
+    {
+      "type": "section_divider",
+      "function": "Separates generations/sections",
+      "confidence": 0.95,
+      "frequency": "High in genealogical texts",
+      "visual_characteristics": "Physical line breaks, spacing, orientation changes",
+      "best_examples": "Tablet B (Aruku Kurenga) - genealogical divisions clearly visible"
+    },
+    {
+      "type": "explicit_formula",
+      "function": "NAME + MARKER + NAME creates natural boundary",
+      "confidence": 0.85,
+      "frequency": "Moderate",
+      "visual_characteristics": "Recognizable glyph patterns, repeated structures",
+      "best_examples": "Tablets H, G - procreation formulas with B076"
+    },
+    {
+      "type": "semantic_shift",
+      "function": "Context change implies boundary",
+      "confidence": 0.6,
+      "frequency": "Context-dependent",
+      "visual_characteristics": "Glyph type changes, semantic domain shifts",
+      "best_examples": "Tablet C (Mamari) - calendar vs. other content"
+    },
+    {
+      "type": "spatial_boundary",
+      "function": "Physical spacing between glyph groups",
+      "confidence": 0.75,
+      "frequency": "Variable by tablet",
+      "visual_characteristics": "Gaps, indentations, whitespace",
+      "best_examples": "Visible in high-resolution images (tablets B, C, D, E, P, R)"
+    }
+  ],
+  "image_based_analysis": {
+    "visual_features": [
+      "Inter-glyph spacing (tight vs. loose grouping)",
+      "Line breaks and continuations",
+      "Orientation changes (boustrophedon turns)",
+      "Section dividers (physical marks)",
+      "Density variations (crowded vs. sparse areas)"
+    ],
+    "tablets_for_analysis": [
+      {
+        "tablet": "B",
+        "images": 1,
+        "quality": "high",
+        "recommended_for": "segmentation analysis"
+      },
+      {
+        "tablet": "C",
+        "images": 2,
+        "quality": "high",
+        "recommended_for": "segmentation analysis"
+      },
+      {
+        "tablet": "D",
+        "images": 2,
+        "quality": "high",
+        "recommended_for": "segmentation analysis"
+      },
+      {
+        "tablet": "E",
+        "images": 2,
+        "quality": "high",
+        "recommended_for": "segmentation analysis"
+      },
+      {
+        "tablet": "F",
+        "images": 2,
+        "quality": "medium",
+        "recommended_for": "segmentation analysis"
+      },
+      {
+        "tablet": "G",
+        "images": 1,
+        "quality": "high",
+        "recommended_for": "segmentation analysis"
+      },
+      {
+        "tablet": "H",
+        "images": 2,
+        "quality": "medium",
+        "recommended_for": "basic verification"
+      },
+      {
+        "tablet": "J",
+        "images": 1,
+        "quality": "low",
+        "recommended_for": "basic verification"
+      },
+      {
+        "tablet": "K",
+        "images": 2,
+        "quality": "medium",
+        "recommended_for": "basic verification"
+      },
+      {
+        "tablet": "L",
+        "images": 1,
+        "quality": "medium",
+        "recommended_for": "segmentation analysis"
+      },
+      {
+        "tablet": "P",
+        "images": 1,
+        "quality": "high",
+        "recommended_for": "segmentation analysis"
+      },
+      {
+        "tablet": "R",
+        "images": 2,
+        "quality": "medium",
+        "recommended_for": "segmentation analysis"
+      }
+    ]
+  },
+  "segmentation_challenges": [
+    "Proto-writing nature: not fully phonetic",
+    "Elliptical encoding: boundaries often implied not marked",
+    "Script evolution: early texts more explicit than later",
+    "Reader knowledge required: oral tradition fills gaps",
+    "Photograph quality varies by tablet"
+  ],
+  "word_equivalent_units": {
+    "description": "Concept-word units rather than phonetic words",
+    "average_length": "1-3 glyphs per unit",
+    "formula_units": "Genealogical formulas = 3-5 glyph units",
+    "confidence": 0.7,
+    "visual_confirmation": "Measure from photographs for actual spacing data"
+  }
+}

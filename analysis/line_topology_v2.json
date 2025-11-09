@@ -1,0 +1,243 @@
+{
+  "metadata": {
+    "phase": 3,
+    "title": "Orientation & Line Topology",
+    "created": "2025-11-09T17:33:25.504379",
+    "methodology": "Visual verification from tablet photographs",
+    "image_sources": 19,
+    "tablets_documented": 12
+  },
+  "reading_order": {
+    "primary_direction": "left_to_right",
+    "line_alternation": "boustrophedon",
+    "description": "Reverse boustrophedon: lines alternate direction, rotated 180 degrees",
+    "verification": "Visual inspection of tablet images recommended"
+  },
+  "tablet_topologies": [
+    {
+      "tablet": "Aruku Kurenga",
+      "code": "B",
+      "images_available": 1,
+      "sides_photographed": [
+        "recto/A"
+      ],
+      "orientation": "standard_boustrophedon",
+      "confidence": 0.75,
+      "image_files": [
+        "tablet_B_recto.jpg"
+      ],
+      "visual_analysis_notes": "Line count extraction recommended from photographs",
+      "next_steps": "Manual line counting and glyph sequence extraction"
+    },
+    {
+      "tablet": "Mamari",
+      "code": "C",
+      "images_available": 2,
+      "sides_photographed": [
+        "recto/A",
+        "verso/B"
+      ],
+      "orientation": "standard_boustrophedon",
+      "confidence": 0.9,
+      "image_files": [
+        "tablet_C_recto.jpg",
+        "tablet_C_verso.jpg"
+      ],
+      "visual_analysis_notes": "Line count extraction recommended from photographs",
+      "next_steps": "Manual line counting and glyph sequence extraction"
+    },
+    {
+      "tablet": "Échancrée",
+      "code": "D",
+      "images_available": 2,
+      "sides_photographed": [
+        "recto/A",
+        "verso/B"
+      ],
+      "orientation": "standard_boustrophedon",
+      "confidence": 0.9,
+      "image_files": [
+        "tablet_D_sideA.jpg",
+        "tablet_D_sideB.jpg"
+      ],
+      "visual_analysis_notes": "Line count extraction recommended from photographs",
+      "next_steps": "Manual line counting and glyph sequence extraction"
+    },
+    {
+      "tablet": "Keiti",
+      "code": "E",
+      "images_available": 2,
+      "sides_photographed": [
+        "recto/A",
+        "verso/B"
+      ],
+      "orientation": "standard_boustrophedon",
+      "confidence": 0.9,
+      "image_files": [
+        "tablet_E_recto.jpg",
+        "tablet_E_verso.jpg"
+      ],
+      "visual_analysis_notes": "Line count extraction recommended from photographs",
+      "next_steps": "Manual line counting and glyph sequence extraction"
+    },
+    {
+      "tablet": "Chauvet",
+      "code": "F",
+      "images_available": 2,
+      "sides_photographed": [
+        "recto/A",
+        "verso/B"
+      ],
+      "orientation": "standard_boustrophedon",
+      "confidence": 0.9,
+      "image_files": [
+        "tablet_F_sideA.jpg",
+        "tablet_F_sideB.jpg"
+      ],
+      "visual_analysis_notes": "Line count extraction recommended from photographs",
+      "next_steps": "Manual line counting and glyph sequence extraction"
+    },
+    {
+      "tablet": "Small Santiago",
+      "code": "G",
+      "images_available": 1,
+      "sides_photographed": [
+        "recto/A"
+      ],
+      "orientation": "standard_boustrophedon",
+      "confidence": 0.75,
+      "image_files": [
+        "tablet_G_recto.jpg"
+      ],
+      "visual_analysis_notes": "Line count extraction recommended from photographs",
+      "next_steps": "Manual line counting and glyph sequence extraction"
+    },
+    {
+      "tablet": "Santiago Staff",
+      "code": "H",
+      "images_available": 2,
+      "sides_photographed": [
+        "recto/A",
+        "verso/B"
+      ],
+      "orientation": "helical",
+      "confidence": 0.9,
+      "image_files": [
+        "tablet_H_recto.jpg",
+        "tablet_H_verso.jpg"
+      ],
+      "visual_analysis_notes": "Line count extraction recommended from photographs",
+      "next_steps": "Manual line counting and glyph sequence extraction"
+    },
+    {
+      "tablet": "Fragment J",
+      "code": "J",
+      "images_available": 1,
+      "sides_photographed": [
+        "unknown"
+      ],
+      "orientation": "standard_boustrophedon",
+      "confidence": 0.75,
+      "image_files": [
+        "tablet_J.jpg"
+      ],
+      "visual_analysis_notes": "Line count extraction recommended from photographs",
+      "next_steps": "Manual line counting and glyph sequence extraction"
+    },
+    {
+      "tablet": "Small London",
+      "code": "K",
+      "images_available": 2,
+      "sides_photographed": [
+        "recto/A",
+        "verso/B"
+      ],
+      "orientation": "standard_boustrophedon",
+      "confidence": 0.9,
+      "image_files": [
+        "tablet_K_recto.jpg",
+        "tablet_K_verso.jpg"
+      ],
+      "visual_analysis_notes": "Line count extraction recommended from photographs",
+      "next_steps": "Manual line counting and glyph sequence extraction"
+    },
+    {
+      "tablet": "Fragment L",
+      "code": "L",
+      "images_available": 1,
+      "sides_photographed": [
+        "unknown"
+      ],
+      "orientation": "standard_boustrophedon",
+      "confidence": 0.75,
+      "image_files": [
+        "tablet_L.jpg"
+      ],
+      "visual_analysis_notes": "Line count extraction recommended from photographs",
+      "next_steps": "Manual line counting and glyph sequence extraction"
+    },
+    {
+      "tablet": "Large St. Petersburg",
+      "code": "P",
+      "images_available": 1,
+      "sides_photographed": [
+        "recto/A"
+      ],
+      "orientation": "standard_boustrophedon",
+      "confidence": 0.75,
+      "image_files": [
+        "tablet_P_recto.jpg"
+      ],
+      "visual_analysis_notes": "Line count extraction recommended from photographs",
+      "next_steps": "Manual line counting and glyph sequence extraction"
+    },
+    {
+      "tablet": "Small Washington",
+      "code": "R",
+      "images_available": 2,
+      "sides_photographed": [
+        "recto/A",
+        "verso/B"
+      ],
+      "orientation": "standard_boustrophedon",
+      "confidence": 0.9,
+      "image_files": [
+        "tablet_R_recto.jpg",
+        "tablet_R_verso.jpg"
+      ],
+      "visual_analysis_notes": "Line count extraction recommended from photographs",
+      "next_steps": "Manual line counting and glyph sequence extraction"
+    }
+  ],
+  "image_metadata": {
+    "photographs_available": 19,
+    "tablets_with_images": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "J",
+      "K",
+      "L",
+      "P",
+      "R"
+    ],
+    "both_sides_available": [
+      "C",
+      "D",
+      "E",
+      "F",
+      "H",
+      "K",
+      "R"
+    ]
+  },
+  "conventions": {
+    "line_start_markers": "Context-dependent - verify from images",
+    "section_dividers": "Present in genealogical texts - visible in photographs",
+    "rotation_pattern": "180_degrees_per_line"
+  }
+}
