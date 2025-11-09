@@ -1,0 +1,514 @@
+{
+  "lunar_cycles": [
+    {
+      "glyph": "B010",
+      "meanings": [
+        "'lunar' adjectival form",
+        "Adjectival form related to moon",
+        "Crescent lunar glyph: 'moon' (māhina) celestial body",
+        "Crescent-shaped glyph denoting the moon",
+        "Crescent-shaped glyph denoting the moon or month"
+      ],
+      "transliteration": "mahina marama māhina",
+      "confidence": 0.9,
+      "occurrence_count": 78,
+      "tablets": [
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "evidence": "High confidence (0.9) with 78 occurrences across multiple sources; found in: Mamari, Santiago Staff"
+    },
+    {
+      "glyph": "B045",
+      "meanings": [
+        "dark moon",
+        "moon (new)"
+      ],
+      "transliteration": "mahana poiri mutu",
+      "confidence": 0.75,
+      "occurrence_count": 1,
+      "tablets": [],
+      "evidence": "Moderate confidence (0.75) based on lexicon analysis"
+    },
+    {
+      "glyph": "B046",
+      "meanings": [
+        "bright",
+        "full moon (face)"
+      ],
+      "transliteration": "matara",
+      "confidence": 0.75,
+      "occurrence_count": 1,
+      "tablets": [],
+      "evidence": "Moderate confidence (0.75) based on lexicon analysis"
+    },
+    {
+      "glyph": "B072",
+      "meanings": [
+        "Glyph corresponding to sprout",
+        "Glyph corresponding to sprout or night name Hotu",
+        "Hotu (sprout)",
+        "appears near dark moon period.",
+        "night name Hotu"
+      ],
+      "transliteration": "hotu",
+      "confidence": 0.5,
+      "occurrence_count": 2,
+      "tablets": [],
+      "evidence": "Preliminary interpretation (confidence: 0.5)"
+    },
+    {
+      "glyph": "B074",
+      "meanings": [
+        "Fruit glyph signifying first quarter moon.",
+        "Hua",
+        "Hua (fruit)",
+        "first quarter moon",
+        "fruit"
+      ],
+      "transliteration": "Hua hua",
+      "confidence": 0.9,
+      "occurrence_count": 15,
+      "tablets": [
+        "Mamari"
+      ],
+      "evidence": "Moderate-high confidence (0.9) with 15 documented occurrences; found in: Mamari"
+    },
+    {
+      "glyph": "B078",
+      "meanings": [
+        "Maure",
+        "Maure (waning gibbous)",
+        "Night after full moon",
+        "indicating diminishing lunar illumination.",
+        "maure"
+      ],
+      "transliteration": "maure",
+      "confidence": 0.8,
+      "occurrence_count": 8,
+      "tablets": [
+        "Mamari"
+      ],
+      "evidence": "Moderate confidence (0.8) based on lexicon analysis; found in: Mamari"
+    },
+    {
+      "glyph": "B143",
+      "meanings": [
+        "Night before full moon",
+        "Rakau",
+        "Rakau (tree)",
+        "night before full moon",
+        "pre-full moon night"
+      ],
+      "transliteration": "Rakau rakau",
+      "confidence": 0.9,
+      "occurrence_count": 11,
+      "tablets": [
+        "Mamari"
+      ],
+      "evidence": "Moderate-high confidence (0.9) with 11 documented occurrences; found in: Mamari"
+    },
+    {
+      "glyph": "B152",
+      "meanings": [
+        "'Old Woman Lighting the Oven in the Sky'",
+        "'complete' (oti) finished state",
+        "Circular disk with internal markings",
+        "Complete entity without parts missing",
+        "Full moon"
+      ],
+      "transliteration": "Omotohi katoa mahina motohi oti",
+      "confidence": 0.95,
+      "occurrence_count": 16,
+      "tablets": [
+        "Mamari"
+      ],
+      "evidence": "Moderate-high confidence (0.95) with 16 documented occurrences; found in: Mamari"
+    },
+    {
+      "glyph": "B280",
+      "meanings": [
+        "Turtle glyph",
+        "appears in genealogies",
+        "appears in genealogies and lunar sequence.",
+        "associated with god Rongo",
+        "associated with god Rongo or dark moon"
+      ],
+      "transliteration": "Mutu honu",
+      "confidence": 0.95,
+      "occurrence_count": 10,
+      "tablets": [
+        "Mamari"
+      ],
+      "evidence": "Moderate confidence (0.95) based on lexicon analysis; found in: Mamari"
+    }
+  ],
+  "month_names": [
+    {
+      "glyph": "B047",
+      "meanings": [
+        "cycle (month)",
+        "month"
+      ],
+      "transliteration": "marama",
+      "confidence": 0.75,
+      "occurrence_count": 1,
+      "tablets": [],
+      "evidence": "Moderate confidence (0.75) based on lexicon analysis"
+    }
+  ],
+  "day_names": [
+    {
+      "glyph": "B041",
+      "meanings": [
+        "Variant shape not used in night count",
+        "crescent variant",
+        "crescent variant/day marker",
+        "day marker",
+        "other time unit."
+      ],
+      "transliteration": "-- honu (variant)",
+      "confidence": 0.5,
+      "occurrence_count": 2,
+      "tablets": [],
+      "evidence": "Preliminary interpretation (confidence: 0.5)"
+    },
+    {
+      "glyph": "B061",
+      "meanings": [
+        "--",
+        "Celestial dome representation: 'sky' (rangi) during day",
+        "celestial dome",
+        "color",
+        "color or quality determinative."
+      ],
+      "transliteration": "-- hetu'u po rangi",
+      "confidence": 0.7,
+      "occurrence_count": 56,
+      "tablets": [
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "evidence": "Moderate confidence (0.7) based on lexicon analysis; found in: Mamari, Santiago Staff"
+    },
+    {
+      "glyph": "B069",
+      "meanings": [
+        "'Chikchan').",
+        "Chikchan').",
+        "Depicts a lizard",
+        "comparable to serpents in Mesoamerican day-signs (e.g.",
+        "gecko"
+      ],
+      "transliteration": "moko",
+      "confidence": 0.85,
+      "occurrence_count": 33,
+      "tablets": [
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "evidence": "Moderate-high confidence (0.85) with 33 documented occurrences; found in: Mamari, Santiago Staff"
+    },
+    {
+      "glyph": "B073",
+      "meanings": [
+        "Glyph representing a deity",
+        "Glyph representing a deity or night name Otua",
+        "Otua (deity figure)",
+        "anthropomorphic figure.",
+        "night name Otua"
+      ],
+      "transliteration": "atua",
+      "confidence": 0.5,
+      "occurrence_count": 2,
+      "tablets": [],
+      "evidence": "Preliminary interpretation (confidence: 0.5)"
+    }
+  ],
+  "temporal_markers": [
+    {
+      "glyph": "B007",
+      "meanings": [
+        "Anthropomorphic figure representing child",
+        "Anthropomorphic figure representing child or descendant",
+        "Updated interpretation",
+        "child",
+        "child, descendant"
+      ],
+      "transliteration": "child descendant (poki) poki",
+      "confidence": 0.8,
+      "occurrence_count": 67,
+      "tablets": [
+        "Aruku Kurenga",
+        "Santiago Staff"
+      ],
+      "evidence": "Moderate-high confidence (0.8) with 67 documented occurrences; found in: Aruku Kurenga, Santiago Staff"
+    },
+    {
+      "glyph": "B008",
+      "meanings": [
+        "'fire' (ahi) for heat/light",
+        "'star' (hetu'u) alternative",
+        "Radiating circular glyph for the sun",
+        "Updated interpretation",
+        "a star."
+      ],
+      "transliteration": "ahi hetu'u hetu'u) hetuʻu mārama ra'a star (ra'a star (ra'a or hetu'u) sun",
+      "confidence": 0.9,
+      "occurrence_count": 134,
+      "tablets": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "evidence": "High confidence (0.9) with 134 occurrences across multiple sources; found in: Aruku Kurenga, Mamari, Santiago Staff"
+    },
+    {
+      "glyph": "B012",
+      "meanings": [
+        "Fish pictograph",
+        "aquatic motion",
+        "fish",
+        "fish (verb)",
+        "ika"
+      ],
+      "transliteration": "ika ika (as verb) rere vai",
+      "confidence": 0.8,
+      "occurrence_count": 45,
+      "tablets": [
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "evidence": "Moderate-high confidence (0.8) with 45 documented occurrences; found in: Mamari, Santiago Staff"
+    },
+    {
+      "glyph": "B017",
+      "meanings": [
+        "constellation",
+        "star cluster"
+      ],
+      "transliteration": "ana-aniva hetu pu",
+      "confidence": 0.75,
+      "occurrence_count": 1,
+      "tablets": [],
+      "evidence": "Moderate confidence (0.75) based on lexicon analysis"
+    },
+    {
+      "glyph": "B018",
+      "meanings": [
+        "fruit",
+        "yield"
+      ],
+      "transliteration": "hua",
+      "confidence": 0.75,
+      "occurrence_count": 1,
+      "tablets": [],
+      "evidence": "Moderate confidence (0.75) based on lexicon analysis"
+    },
+    {
+      "glyph": "B020",
+      "meanings": [
+        "'plant' (tiare) general vegetation",
+        "Action derived from plant symbolism",
+        "Branching glyph representing a tree",
+        "Branching glyph representing a tree or plant",
+        "grow"
+      ],
+      "transliteration": "rākau tiare tipu",
+      "confidence": 0.7,
+      "occurrence_count": 92,
+      "tablets": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "evidence": "Moderate confidence (0.7) based on lexicon analysis; found in: Mamari, Santiago Staff, Small Santiago"
+    },
+    {
+      "glyph": "B032",
+      "meanings": [
+        "Marks divisions",
+        "Marks divisions or section starts",
+        "Updated interpretation",
+        "begin",
+        "beginning"
+      ],
+      "transliteration": "mata section delimiter start timu",
+      "confidence": 0.8,
+      "occurrence_count": 89,
+      "tablets": [
+        "Aruku Kurenga",
+        "Santiago Staff"
+      ],
+      "evidence": "Moderate-high confidence (0.8) with 89 documented occurrences; found in: Aruku Kurenga, Santiago Staff"
+    },
+    {
+      "glyph": "B033",
+      "meanings": [
+        "cook",
+        "fire (flame)"
+      ],
+      "transliteration": "ahi",
+      "confidence": 0.75,
+      "occurrence_count": 1,
+      "tablets": [],
+      "evidence": "Moderate confidence (0.75) based on lexicon analysis"
+    },
+    {
+      "glyph": "B035",
+      "meanings": [
+        "Venus",
+        "star (morning)"
+      ],
+      "transliteration": "Hine (as goddess) hetu pu",
+      "confidence": 0.75,
+      "occurrence_count": 1,
+      "tablets": [],
+      "evidence": "Moderate confidence (0.75) based on lexicon analysis"
+    },
+    {
+      "glyph": "B036",
+      "meanings": [
+        "Venus",
+        "star (evening)"
+      ],
+      "transliteration": "hetu ahiahi",
+      "confidence": 0.75,
+      "occurrence_count": 1,
+      "tablets": [],
+      "evidence": "Moderate confidence (0.75) based on lexicon analysis"
+    },
+    {
+      "glyph": "B040",
+      "meanings": [
+        "'sea' (tai) marine water",
+        "Movement of water",
+        "Movement of water or liquid",
+        "Wavy line glyph representing water",
+        "Wavy line glyph representing water or sea"
+      ],
+      "transliteration": "rere tai vai",
+      "confidence": 0.8,
+      "occurrence_count": 67,
+      "tablets": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "evidence": "Moderate-high confidence (0.8) with 67 documented occurrences; found in: Aruku Kurenga, Mamari, Santiago Staff"
+    },
+    {
+      "glyph": "B048",
+      "meanings": [
+        "omen",
+        "star (falling)"
+      ],
+      "transliteration": "hetu kapalanga",
+      "confidence": 0.75,
+      "occurrence_count": 1,
+      "tablets": [],
+      "evidence": "Moderate confidence (0.75) based on lexicon analysis"
+    },
+    {
+      "glyph": "B049",
+      "meanings": [
+        "dusk",
+        "sun (setting)"
+      ],
+      "transliteration": "ahiahi ra'a roto",
+      "confidence": 0.75,
+      "occurrence_count": 1,
+      "tablets": [],
+      "evidence": "Moderate confidence (0.75) based on lexicon analysis"
+    },
+    {
+      "glyph": "B062",
+      "meanings": [
+        "--",
+        "clause break",
+        "clause break, punctuation",
+        "clause separator",
+        "ki"
+      ],
+      "transliteration": "-- ki",
+      "confidence": 0.8,
+      "occurrence_count": 67,
+      "tablets": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "evidence": "Moderate-high confidence (0.8) with 67 documented occurrences; found in: Aruku Kurenga, Mamari, Santiago Staff"
+    },
+    {
+      "glyph": "B064",
+      "meanings": [
+        "Color",
+        "Color or quality determinative",
+        "attaches to deity glyphs.",
+        "bright marker",
+        "brightness"
+      ],
+      "transliteration": "mea",
+      "confidence": 0.5,
+      "occurrence_count": 3,
+      "tablets": [],
+      "evidence": "Preliminary interpretation (confidence: 0.5)"
+    },
+    {
+      "glyph": "B067",
+      "meanings": [
+        "Tree-like glyph representing the extinct Easter Island palm",
+        "cycle",
+        "cycle (repeat)",
+        "extinct palm",
+        "may also signify cycle"
+      ],
+      "transliteration": "Paschalococos Rongo niu pae palm paschalococos",
+      "confidence": 0.8,
+      "occurrence_count": 29,
+      "tablets": [
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "evidence": "Moderate-high confidence (0.8) with 29 documented occurrences; found in: Mamari, Santiago Staff"
+    },
+    {
+      "glyph": "B500",
+      "meanings": [
+        "'elder' (koroua) senior member",
+        "Advanced in age",
+        "Advanced in age or time",
+        "Age",
+        "Age/ancestry concepts: 'ancestor' (tupuna) forebear"
+      ],
+      "transliteration": "koroua rua tupuna",
+      "confidence": 0.7,
+      "occurrence_count": 28,
+      "tablets": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "evidence": "Moderate confidence (0.7) based on lexicon analysis; found in: Santiago Staff, Small Santiago"
+    },
+    {
+      "glyph": "B610",
+      "meanings": [
+        "'origin' (mata) source",
+        "Cosmogonic symbolism: 'egg' (hua) reproductive structure",
+        "Egg",
+        "Oval “egg” glyph representing origin",
+        "Oval “egg” glyph representing origin or seed"
+      ],
+      "transliteration": "hua mata mata (source) timu",
+      "confidence": 0.95,
+      "occurrence_count": 22,
+      "tablets": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "evidence": "Moderate-high confidence (0.95) with 22 documented occurrences; found in: Santiago Staff, Small Santiago"
+    }
+  ]
+}

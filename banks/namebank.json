@@ -1,0 +1,725 @@
+[
+  {
+    "glyph_sequence": [
+      "B001"
+    ],
+    "transliteration": "tangata",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "social_hierarchy",
+      "anatomical",
+      "human_classification",
+      "genealogical"
+    ],
+    "confidence": 0.85,
+    "occurrence_count": 127,
+    "tablets": [
+      "Aruku Kurenga",
+      "Mamari",
+      "Santiago Staff",
+      "Small Santiago"
+    ],
+    "notes": "Appears in genealogical contexts: [\"Basic human figure with dual meaning: 'person' (general individual) and 'human' (species designati..."
+  },
+  {
+    "glyph_sequence": [
+      "B006"
+    ],
+    "transliteration": "ma'u plural marker rima",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "action",
+      "social_hierarchy",
+      "grammatical_plural",
+      "quantifier",
+      "anatomical",
+      "human_classification",
+      "numerical"
+    ],
+    "confidence": 0.9,
+    "occurrence_count": 156,
+    "tablets": [
+      "Aruku Kurenga",
+      "Mamari",
+      "Santiago Staff",
+      "Small Santiago"
+    ],
+    "notes": "Appears in genealogical contexts: [\"Multi-functional glyph: anatomical 'hand' (rima), verbs 'take/grasp' (ma'u), and grammatical 'plur..."
+  },
+  {
+    "glyph_sequence": [
+      "B007"
+    ],
+    "transliteration": "child descendant (poki) poki",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "family_structure",
+      "genealogical",
+      "social_hierarchy",
+      "age_designation",
+      "astronomical",
+      "anatomical",
+      "human_classification"
+    ],
+    "confidence": 0.8,
+    "occurrence_count": 67,
+    "tablets": [
+      "Aruku Kurenga",
+      "Santiago Staff"
+    ],
+    "notes": "Appears in genealogical contexts: [\"Descendant group marker meaning 'child' or 'descendant' (poki). Possibly refers to specific indivi..."
+  },
+  {
+    "glyph_sequence": [
+      "B010"
+    ],
+    "transliteration": "mahina marama māhina",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "action",
+      "calendrical",
+      "celestial",
+      "temporal",
+      "astronomical",
+      "anatomical",
+      "lunar_calendar",
+      "human_classification",
+      "numerical"
+    ],
+    "confidence": 0.9,
+    "occurrence_count": 78,
+    "tablets": [
+      "Mamari",
+      "Santiago Staff"
+    ],
+    "notes": "Appears in genealogical contexts: [\"Crescent lunar glyph: 'moon' (māhina) celestial body, 'lunar' adjectival form, 'month' temporal un..."
+  },
+  {
+    "glyph_sequence": [
+      "B011"
+    ],
+    "transliteration": "ika iti niuhi pakia",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "action",
+      "genealogical",
+      "totemic",
+      "marine_life",
+      "ritual",
+      "marine",
+      "anatomical",
+      "mythological"
+    ],
+    "confidence": 0.6,
+    "occurrence_count": 34,
+    "tablets": [
+      "Santiago Staff",
+      "Small Santiago"
+    ],
+    "notes": "Appears in genealogical contexts: ['Smaller fish variant distinct from major fish glyph 700. Represents minor marine creatures or spec..."
+  },
+  {
+    "glyph_sequence": [
+      "B020"
+    ],
+    "transliteration": "rākau tiare tipu",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "natural",
+      "growth",
+      "genealogical",
+      "calendrical",
+      "agricultural",
+      "agriculture",
+      "botanical"
+    ],
+    "confidence": 0.7,
+    "occurrence_count": 92,
+    "tablets": [
+      "Mamari",
+      "Santiago Staff",
+      "Small Santiago"
+    ],
+    "notes": "Appears in genealogical contexts: [\"Branched vegetation with multiple interpretations: 'tree' (rākau) woody plant, 'plant' (tiare) gen..."
+  },
+  {
+    "glyph_sequence": [
+      "B022"
+    ],
+    "transliteration": "tangata manu",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "bird",
+      "action",
+      "ritual",
+      "human_classification"
+    ],
+    "confidence": 0.75,
+    "occurrence_count": 1,
+    "tablets": [],
+    "notes": "Appears in genealogical contexts: ['Composite anthropomorphic glyph with beak-like feature, interpreted as the Birdman (half man, half..."
+  },
+  {
+    "glyph_sequence": [
+      "B026"
+    ],
+    "transliteration": "rei",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "action",
+      "anatomical",
+      "human_classification"
+    ],
+    "confidence": 0.75,
+    "occurrence_count": 1,
+    "tablets": [],
+    "notes": "Appears in genealogical contexts: ['Small curved shape, possibly an ear ornament or pendant (*rei*). Found in sequences that might inv..."
+  },
+  {
+    "glyph_sequence": [
+      "B027"
+    ],
+    "transliteration": "tatū",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "anatomical",
+      "ritual",
+      "human_classification"
+    ],
+    "confidence": 0.75,
+    "occurrence_count": 1,
+    "tablets": [],
+    "notes": "Appears in genealogical contexts: [\"Glyph of a patterned mark, could denote 'tattoo' or marking (*tatū*). Context unclear; might modif..."
+  },
+  {
+    "glyph_sequence": [
+      "B032"
+    ],
+    "transliteration": "mata section delimiter start timu",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "textual_organization",
+      "action",
+      "genealogical",
+      "social_hierarchy",
+      "punctuation",
+      "structural",
+      "astronomical",
+      "anatomical"
+    ],
+    "confidence": 0.8,
+    "occurrence_count": 89,
+    "tablets": [
+      "Aruku Kurenga",
+      "Santiago Staff"
+    ],
+    "notes": "Appears in genealogical contexts: ['Structural punctuation glyph marking new sections or chapters. On Aruku Kurenga marks start of eac..."
+  },
+  {
+    "glyph_sequence": [
+      "B033"
+    ],
+    "transliteration": "ahi",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "astronomical",
+      "anatomical",
+      "human_classification"
+    ],
+    "confidence": 0.75,
+    "occurrence_count": 1,
+    "tablets": [],
+    "notes": "Appears in genealogical contexts: [\"Flame-like flickering glyph meaning 'fire' (*ahi*) or act of cooking. Appears notably in the full ..."
+  },
+  {
+    "glyph_sequence": [
+      "B035"
+    ],
+    "transliteration": "Hine (as goddess) hetu pu",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "astronomical",
+      "human_classification"
+    ],
+    "confidence": 0.75,
+    "occurrence_count": 1,
+    "tablets": [],
+    "notes": "Appears in genealogical contexts: [\"Special star glyph possibly denoting the morning star (Venus). In some Polynesian traditions, Venu..."
+  },
+  {
+    "glyph_sequence": [
+      "B038"
+    ],
+    "transliteration": "hulu",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "action",
+      "social_hierarchy",
+      "bird",
+      "anatomical",
+      "human_classification"
+    ],
+    "confidence": 0.75,
+    "occurrence_count": 1,
+    "tablets": [],
+    "notes": "Appears in genealogical contexts: [\"Slim, plume-like glyph representing a 'feather' (*hulu*). Feathers were used in chiefly adornments..."
+  },
+  {
+    "glyph_sequence": [
+      "B046"
+    ],
+    "transliteration": "matara",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "astronomical",
+      "bird",
+      "anatomical",
+      "human_classification"
+    ],
+    "confidence": 0.75,
+    "occurrence_count": 1,
+    "tablets": [],
+    "notes": "Appears in genealogical contexts: [\"Alternate full moon glyph (distinct from 152), showing a full circular form possibly with facial f..."
+  },
+  {
+    "glyph_sequence": [
+      "B050"
+    ],
+    "transliteration": "ika (stone) ma'ea maea papa",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "permanent_structure",
+      "foundation",
+      "geological",
+      "anatomical",
+      "human_classification"
+    ],
+    "confidence": 0.8,
+    "occurrence_count": 84,
+    "tablets": [
+      "Mamari",
+      "Santiago Staff",
+      "Small Santiago"
+    ],
+    "notes": "Appears in genealogical contexts: [\"Angular mineral form: 'stone' (maea) individual rock, 'rock' (papa) general mineral. Represents so..."
+  },
+  {
+    "glyph_sequence": [
+      "B060"
+    ],
+    "transliteration": "ara ara rahi tahua",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "action",
+      "object",
+      "methodology",
+      "procedural",
+      "travel",
+      "anatomical",
+      "directional",
+      "human_classification"
+    ],
+    "confidence": 0.55,
+    "occurrence_count": 42,
+    "tablets": [
+      "Aruku Kurenga",
+      "Santiago Staff"
+    ],
+    "notes": "Appears in genealogical contexts: [\"Linear pathway concepts: 'path' (ara) trail, 'road' (ara rahi) major route, 'way' (tahua) method/m..."
+  },
+  {
+    "glyph_sequence": [
+      "B061"
+    ],
+    "transliteration": "-- hetu'u po rangi",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "action",
+      "calendrical",
+      "celestial",
+      "temporal",
+      "cosmological",
+      "astronomical",
+      "anatomical",
+      "human_classification"
+    ],
+    "confidence": 0.7,
+    "occurrence_count": 56,
+    "tablets": [
+      "Mamari",
+      "Santiago Staff"
+    ],
+    "notes": "Appears in genealogical contexts: [\"Celestial dome representation: 'sky' (rangi) during day, 'night' (po) in dark contexts. Appears in..."
+  },
+  {
+    "glyph_sequence": [
+      "B064"
+    ],
+    "transliteration": "mea",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "astronomical",
+      "ritual",
+      "human_classification",
+      "numerical"
+    ],
+    "confidence": 0.5,
+    "occurrence_count": 3,
+    "tablets": [],
+    "notes": "Appears in genealogical contexts: ['Color or quality determinative; may denote red or brightness; attaches to deity glyphs.', 'Color o..."
+  },
+  {
+    "glyph_sequence": [
+      "B068"
+    ],
+    "transliteration": "hohonu ika honu ika hohonu",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "action",
+      "genealogical",
+      "divine_association",
+      "marine_life",
+      "ritual",
+      "marine",
+      "anatomical",
+      "mythological"
+    ],
+    "confidence": 0.9,
+    "occurrence_count": 41,
+    "tablets": [
+      "Mamari",
+      "Santiago Staff"
+    ],
+    "notes": "Appears in genealogical contexts: ['Represents creatures from deep waters. May indicate specific types of fish or marine animals assoc..."
+  },
+  {
+    "glyph_sequence": [
+      "B076"
+    ],
+    "transliteration": "'ai ai copulate fanau hanau procreate",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "action",
+      "genealogical",
+      "social_hierarchy",
+      "sexual",
+      "relational",
+      "reproductive",
+      "anatomical",
+      "human_classification"
+    ],
+    "confidence": 0.95,
+    "occurrence_count": 34,
+    "tablets": [
+      "Aruku Kurenga",
+      "Santiago Staff",
+      "Small Santiago"
+    ],
+    "notes": "Appears in genealogical contexts: [\"Phallic symbol with explicit sexual meanings: 'copulate' ('ai) sexual union, 'procreate' (fanau) r..."
+  },
+  {
+    "glyph_sequence": [
+      "B080"
+    ],
+    "transliteration": "hanau vi'e ūū",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "genealogical",
+      "maternal",
+      "gender",
+      "anatomical",
+      "nurturing"
+    ],
+    "confidence": 0.8,
+    "occurrence_count": 52,
+    "tablets": [
+      "Santiago Staff",
+      "Small Santiago"
+    ],
+    "notes": "Appears in genealogical contexts: [\"Maternal symbolism: 'breast' (ūū) mammary gland, 'female' (vi'e) gender marker, 'nurture' (hanau) ..."
+  },
+  {
+    "glyph_sequence": [
+      "B152"
+    ],
+    "transliteration": "Omotohi katoa mahina motohi oti",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "action",
+      "completeness",
+      "calendrical",
+      "astronomical",
+      "lunar_calendar",
+      "human_classification",
+      "mythological"
+    ],
+    "confidence": 0.95,
+    "occurrence_count": 16,
+    "tablets": [
+      "Mamari"
+    ],
+    "notes": "Appears in genealogical contexts: [\"Central lunar calendar glyph with completeness meanings: 'full moon' (mahina, motohi) lunar phase,..."
+  },
+  {
+    "glyph_sequence": [
+      "B200"
+    ],
+    "transliteration": "ariki ariki henua chief hakakina person (ariki) tangata tangata (man of rank)",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "action",
+      "genealogical",
+      "social_hierarchy",
+      "authority",
+      "political",
+      "anatomical",
+      "human_classification"
+    ],
+    "confidence": 0.95,
+    "occurrence_count": 19,
+    "tablets": [
+      "Aruku Kurenga",
+      "Santiago Staff",
+      "Small Santiago"
+    ],
+    "notes": "Appears in genealogical contexts: [\"High-status person with multiple authority levels: 'chief' (ariki) leader, 'ruler' (hakakina) gove..."
+  },
+  {
+    "glyph_sequence": [
+      "B280"
+    ],
+    "transliteration": "Mutu honu",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "action",
+      "longevity",
+      "genealogical",
+      "calendrical",
+      "marine_life",
+      "ritual",
+      "marine",
+      "astronomical",
+      "anatomical",
+      "lunar_calendar",
+      "human_classification",
+      "numerical"
+    ],
+    "confidence": 0.95,
+    "occurrence_count": 10,
+    "tablets": [
+      "Mamari"
+    ],
+    "notes": "Appears in genealogical contexts: [\"Sea turtle glyph appearing during dark moon phase in Mamari calendar. 'Turtle' (honu) represents l..."
+  },
+  {
+    "glyph_sequence": [
+      "B300"
+    ],
+    "transliteration": "māmā vi'e",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "action",
+      "genealogical",
+      "human_classification",
+      "maternal",
+      "gender",
+      "anatomical",
+      "social"
+    ],
+    "confidence": 0.75,
+    "occurrence_count": 43,
+    "tablets": [
+      "Santiago Staff",
+      "Small Santiago"
+    ],
+    "notes": "Appears in genealogical contexts: [\"Female designation: 'woman' (vi'e) adult female, 'mother' (māmā) female parent. Represents feminin..."
+  },
+  {
+    "glyph_sequence": [
+      "B400"
+    ],
+    "transliteration": "hua hua (offspring) poki ui",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "age_designation",
+      "family",
+      "human_classification",
+      "genealogical"
+    ],
+    "confidence": 0.65,
+    "occurrence_count": 37,
+    "tablets": [
+      "Santiago Staff",
+      "Small Santiago"
+    ],
+    "notes": "Appears in genealogical contexts: [\"Youth/descendant concepts: 'child' (poki) juvenile, 'young' (ui) recent birth, 'offspring' (hua) d..."
+  },
+  {
+    "glyph_sequence": [
+      "B500"
+    ],
+    "transliteration": "koroua rua tupuna",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "genealogical",
+      "calendrical",
+      "age_designation",
+      "authority",
+      "ancestral",
+      "anatomical",
+      "human_classification"
+    ],
+    "confidence": 0.7,
+    "occurrence_count": 28,
+    "tablets": [
+      "Santiago Staff",
+      "Small Santiago"
+    ],
+    "notes": "Appears in genealogical contexts: [\"Age/ancestry concepts: 'ancestor' (tupuna) forebear, 'elder' (koroua) senior member, 'old' (rua) a..."
+  },
+  {
+    "glyph_sequence": [
+      "B600"
+    ],
+    "transliteration": "manu rere tavake",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "creation_mythology",
+      "action",
+      "ornithological",
+      "bird_man_cult",
+      "ritual",
+      "marine",
+      "sacred",
+      "bird",
+      "human_classification"
+    ],
+    "confidence": 0.95,
+    "occurrence_count": 45,
+    "tablets": [
+      "Mamari",
+      "Santiago Staff",
+      "Small Santiago"
+    ],
+    "notes": "Appears in genealogical contexts: [\"Avian symbolism: 'bird' (manu) general avian, 'frigatebird' (tavake) specific species, 'fly' (rere..."
+  },
+  {
+    "glyph_sequence": [
+      "B606"
+    ],
+    "transliteration": "manu (pl.) manu (plural) plural birds (manu) puhi manu",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "action",
+      "ornithological",
+      "social_hierarchy",
+      "human_classification",
+      "collective_spirits",
+      "ritual",
+      "plural_construction",
+      "bird",
+      "anatomical",
+      "creation_mythology",
+      "numerical"
+    ],
+    "confidence": 0.95,
+    "occurrence_count": 28,
+    "tablets": [
+      "Mamari",
+      "Santiago Staff"
+    ],
+    "notes": "Appears in genealogical contexts: [\"Plural avian collective: 'birds (plural)' (manu) multiple birds, 'flock' (puhi manu) group flying ..."
+  },
+  {
+    "glyph_sequence": [
+      "B690"
+    ],
+    "transliteration": "tangata manu",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "action",
+      "ceremonial",
+      "bird_man_cult",
+      "ritual",
+      "bird",
+      "human_classification"
+    ],
+    "confidence": 0.58,
+    "occurrence_count": 12,
+    "tablets": [
+      "Santiago Staff"
+    ],
+    "notes": "Appears in genealogical contexts: ['Combined human-bird figure; represents the Bird-Man of Orongo ceremonies.', 'Combined human-bird f..."
+  },
+  {
+    "glyph_sequence": [
+      "B700"
+    ],
+    "transliteration": "fish (ika) fish (ika) or victim haka ira ika kai kai (victim) sacrifice (haka ira) victim",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "action",
+      "social_hierarchy",
+      "agricultural",
+      "historical",
+      "sacrificial",
+      "marine_life",
+      "ritual",
+      "marine",
+      "anatomical",
+      "human_classification",
+      "mythological"
+    ],
+    "confidence": 0.95,
+    "occurrence_count": 31,
+    "tablets": [
+      "Santiago Staff",
+      "Small Santiago"
+    ],
+    "notes": "Appears in genealogical contexts: [\"Polysemic glyph with dual meanings: 'fish' (ika) aquatic creature in mythological contexts, 'victi..."
+  },
+  {
+    "glyph_sequence": [
+      "B730"
+    ],
+    "transliteration": "Tangaroa ika nui mako mango mango nui niuhi",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "action",
+      "genealogical",
+      "ritual",
+      "marine",
+      "size_designation",
+      "anatomical",
+      "human_classification",
+      "marine_resources"
+    ],
+    "confidence": 0.65,
+    "occurrence_count": 16,
+    "tablets": [
+      "Santiago Staff"
+    ],
+    "notes": "Appears in genealogical contexts: ['Larger fish variant indicating significant catch or mythologically important fish. Distinguishes m..."
+  },
+  {
+    "glyph_sequence": [
+      "B999"
+    ],
+    "transliteration": "segment divider – —",
+    "type": "personal_name_candidate",
+    "contexts": [
+      "textual_organization",
+      "action",
+      "genealogical",
+      "social_hierarchy",
+      "punctuation",
+      "structural"
+    ],
+    "confidence": 0.9,
+    "occurrence_count": 103,
+    "tablets": [
+      "Santiago Staff"
+    ],
+    "notes": "Appears in genealogical contexts: ['Vertical line engraved as physical separator. Not vocalized - pure punctuation marking boundaries ..."
+  }
+]

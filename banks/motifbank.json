@@ -1,0 +1,181 @@
+[
+  {
+    "motif_id": "M0001",
+    "parts": [
+      "B001",
+      "B076",
+      "B200",
+      "B400",
+      "B500"
+    ],
+    "context": "genealogical",
+    "support": 6,
+    "tablets": [
+      "C_Mamari",
+      "A_Tahua",
+      "H_Santiago"
+    ],
+    "grade": "B",
+    "exemplars": [],
+    "notes": "Recurring pattern in genealogical context with 6 associated glyphs"
+  },
+  {
+    "motif_id": "M0002",
+    "parts": [
+      "B001",
+      "B007",
+      "B050",
+      "B060",
+      "B152"
+    ],
+    "context": "human_classification",
+    "support": 10,
+    "tablets": [
+      "C_Mamari",
+      "A_Tahua",
+      "H_Santiago"
+    ],
+    "grade": "B",
+    "exemplars": [],
+    "notes": "Recurring pattern in human_classification context with 10 associated glyphs"
+  },
+  {
+    "motif_id": "M0003",
+    "parts": [
+      "B002",
+      "B003",
+      "B005",
+      "B006",
+      "B010"
+    ],
+    "context": "anatomical",
+    "support": 8,
+    "tablets": [
+      "C_Mamari",
+      "A_Tahua",
+      "H_Santiago"
+    ],
+    "grade": "B",
+    "exemplars": [],
+    "notes": "Recurring pattern in anatomical context with 8 associated glyphs"
+  },
+  {
+    "motif_id": "M0004",
+    "parts": [
+      "B004",
+      "B009",
+      "B013",
+      "B030",
+      "B062"
+    ],
+    "context": "general",
+    "support": 10,
+    "tablets": [
+      "C_Mamari",
+      "A_Tahua",
+      "H_Santiago"
+    ],
+    "grade": "B",
+    "exemplars": [],
+    "notes": "Recurring pattern in general context with 10 associated glyphs"
+  },
+  {
+    "motif_id": "M0005",
+    "parts": [
+      "B008",
+      "B010",
+      "B032",
+      "B040",
+      "B041"
+    ],
+    "context": "astronomical",
+    "support": 14,
+    "tablets": [
+      "C_Mamari",
+      "A_Tahua",
+      "H_Santiago"
+    ],
+    "grade": "B",
+    "exemplars": [],
+    "notes": "Recurring pattern in astronomical context with 14 associated glyphs"
+  },
+  {
+    "motif_id": "M0006",
+    "parts": [
+      "B010",
+      "B040",
+      "B041",
+      "B061",
+      "B067"
+    ],
+    "context": "calendrical",
+    "support": 10,
+    "tablets": [
+      "C_Mamari",
+      "A_Tahua",
+      "H_Santiago"
+    ],
+    "grade": "B",
+    "exemplars": [],
+    "notes": "Recurring pattern in calendrical context with 10 associated glyphs"
+  },
+  {
+    "motif_id": "M0007",
+    "parts": [
+      "B011",
+      "B012",
+      "B016",
+      "B040",
+      "B068"
+    ],
+    "context": "marine",
+    "support": 11,
+    "tablets": [
+      "C_Mamari",
+      "A_Tahua",
+      "H_Santiago"
+    ],
+    "grade": "B",
+    "exemplars": [],
+    "notes": "Recurring pattern in marine context with 11 associated glyphs"
+  },
+  {
+    "motif_id": "M0008",
+    "parts": [
+      "B044",
+      "B069",
+      "B600",
+      "B700",
+      "B730"
+    ],
+    "context": "ritual",
+    "support": 5,
+    "tablets": [
+      "C_Mamari",
+      "A_Tahua",
+      "H_Santiago"
+    ],
+    "grade": "B",
+    "exemplars": [],
+    "notes": "Recurring pattern in ritual context with 5 associated glyphs"
+  },
+  {
+    "motif_id": "M0009",
+    "parts": [
+      "B044",
+      "B600",
+      "B606",
+      "B690"
+    ],
+    "context": "bird",
+    "support": 4,
+    "tablets": [
+      "C_Mamari",
+      "A_Tahua",
+      "H_Santiago"
+    ],
+    "grade": "B",
+    "exemplars": [],
+    "notes": "Recurring pattern in bird context with 4 associated glyphs"
+  }
+]

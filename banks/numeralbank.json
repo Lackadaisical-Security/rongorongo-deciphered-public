@@ -1,0 +1,115 @@
+{
+  "numeral_glyphs": [
+    {
+      "glyph": "B006",
+      "meanings": [
+        "Hand glyph used as plural",
+        "Hand glyph used as plural or collective marker",
+        "Multi-functional glyph: anatomical 'hand' (rima)",
+        "Updated interpretation",
+        "attaches to nouns to indicate many."
+      ],
+      "transliteration": "ma'u plural marker rima",
+      "confidence": 0.9,
+      "occurrence_count": 156,
+      "evidence": "High confidence (0.9) with 156 occurrences across corpus"
+    },
+    {
+      "glyph": "B010",
+      "meanings": [
+        "'lunar' adjectival form",
+        "Adjectival form related to moon",
+        "Crescent lunar glyph: 'moon' (māhina) celestial body",
+        "Crescent-shaped glyph denoting the moon",
+        "Crescent-shaped glyph denoting the moon or month"
+      ],
+      "transliteration": "mahina marama māhina",
+      "confidence": 0.9,
+      "occurrence_count": 78,
+      "evidence": "High confidence (0.9) with 78 occurrences across corpus"
+    },
+    {
+      "glyph": "B036",
+      "meanings": [
+        "Venus",
+        "star (evening)"
+      ],
+      "transliteration": "hetu ahiahi",
+      "confidence": 0.75,
+      "occurrence_count": 1,
+      "evidence": "Moderate confidence (0.75) based on lexicon analysis"
+    },
+    {
+      "glyph": "B040",
+      "meanings": [
+        "'sea' (tai) marine water",
+        "Movement of water",
+        "Movement of water or liquid",
+        "Wavy line glyph representing water",
+        "Wavy line glyph representing water or sea"
+      ],
+      "transliteration": "rere tai vai",
+      "confidence": 0.8,
+      "occurrence_count": 67,
+      "evidence": "Moderate-high confidence (0.8) with 67 documented occurrences"
+    },
+    {
+      "glyph": "B041",
+      "meanings": [
+        "Variant shape not used in night count",
+        "crescent variant",
+        "crescent variant/day marker",
+        "day marker",
+        "other time unit."
+      ],
+      "transliteration": "-- honu (variant)",
+      "confidence": 0.5,
+      "occurrence_count": 2,
+      "evidence": "Preliminary interpretation (confidence: 0.5)"
+    },
+    {
+      "glyph": "B064",
+      "meanings": [
+        "Color",
+        "Color or quality determinative",
+        "attaches to deity glyphs.",
+        "bright marker",
+        "brightness"
+      ],
+      "transliteration": "mea",
+      "confidence": 0.5,
+      "occurrence_count": 3,
+      "evidence": "Preliminary interpretation (confidence: 0.5)"
+    },
+    {
+      "glyph": "B280",
+      "meanings": [
+        "Turtle glyph",
+        "appears in genealogies",
+        "appears in genealogies and lunar sequence.",
+        "associated with god Rongo",
+        "associated with god Rongo or dark moon"
+      ],
+      "transliteration": "Mutu honu",
+      "confidence": 0.95,
+      "occurrence_count": 10,
+      "evidence": "Moderate confidence (0.95) based on lexicon analysis"
+    },
+    {
+      "glyph": "B606",
+      "meanings": [
+        "'flock' (puhi manu) group flying together",
+        "(fig.) spirits (plural marker with ‘hand’)",
+        "6 (hand)",
+        "Birds (plural)",
+        "Composite of 600 (bird)"
+      ],
+      "transliteration": "manu (pl.) manu (plural) plural birds (manu) puhi manu",
+      "confidence": 0.95,
+      "occurrence_count": 28,
+      "evidence": "Moderate-high confidence (0.95) with 28 documented occurrences"
+    }
+  ],
+  "counting_patterns": [],
+  "quantifiers": []
+}
