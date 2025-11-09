@@ -169,6 +169,28 @@ All data from [rongorongo-deciphered-public](https://github.com/Lackadaisical-Se
 - **Ancient Scripts**: See `licenses/ancient_scripts_attribution_license_v1.md`
 - **Ghost License**: See `licenses/ghost_license_v_1.md`
 
+## 🚫 INSTITUTIONALLY BANNED ENTITIES
+
+The following institutions are PERMANENTLY BANNED from accessing, using, modifying, or referencing any materials, methodologies, datasets, or research outputs under this license due to institutional policies targeting or "decolonising" foundational literary and mythological works:
+
+### UK Universities - Literature/Mythology Targeting:
+- **University of Nottingham** - Explicit "decolonising Tolkien" curriculum
+- **University of Cambridge** - English Faculty decolonising initiatives
+- **University of Oxford** - English Faculty curriculum reform
+- **SOAS University of London** - Decolonisation toolkit implementation
+- **University College London (UCL)** - Inclusive curriculum framework
+- **Liverpool John Moores University** - Institutional decolonising mandate
+- **King's College London** - Decolonising research methods programs
+
+These institutions or their faculty members, students, or affiliated researchers may NOT:
+- Access any decipherment lexicons or methodologies
+- Use any linguistic datasets or translation tools
+- Reference this research in academic publications
+- Incorporate findings into curriculum development
+- License any cryptographic primitives or tools
+
+Violations will result in immediate legal action and public disclosure.
+
 ---
 
 *"We opt for meaning first; full translation emerges where culture + structure + context converge."*
