@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "phase": "18 - External Claim Harness",
+    "description": "Framework for evaluating external Rongorongo interpretations",
+    "methodology": "Evidence-based, non-adversarial, transparent scoring",
+    "purpose": "Systematic comparison without predetermined conclusions",
+    "date": "2025-10-28"
+  },
+  "evaluation_criteria": {
+    "evidence_quality": {
+      "weight": 0.3,
+      "description": "Quality and verifiability of evidence cited",
+      "scoring": {
+        "3": "Primary sources, reproducible data, clear provenance",
+        "2": "Secondary sources, partial documentation",
+        "1": "Tertiary sources, limited documentation",
+        "0": "No sources cited or unverifiable claims"
+      }
+    },
+    "cross_verification": {
+      "weight": 0.25,
+      "description": "Claims verified across multiple tablets/sources",
+      "scoring": {
+        "3": "Verified across 3+ independent tablets",
+        "2": "Verified across 2 tablets",
+        "1": "Single tablet evidence",
+        "0": "No cross-tablet verification"
+      }
+    },
+    "linguistic_plausibility": {
+      "weight": 0.2,
+      "description": "Consistency with known Polynesian linguistics",
+      "scoring": {
+        "3": "Fully consistent with Rapanui/Polynesian patterns",
+        "2": "Mostly consistent, some exceptions explained",
+        "1": "Partially consistent, significant exceptions",
+        "0": "Inconsistent with established patterns"
+      }
+    },
+    "falsifiability": {
+      "weight": 0.15,
+      "description": "Claim structured to allow testing/refutation",
+      "scoring": {
+        "3": "Specific, testable predictions provided",
+        "2": "Some testable elements",
+        "1": "Limited testability",
+        "0": "Unfalsifiable or circular reasoning"
+      }
+    },
+    "transparency": {
+      "weight": 0.1,
+      "description": "Openness about methods, limitations, uncertainties",
+      "scoring": {
+        "3": "Full methodology disclosed, limitations acknowledged",
+        "2": "Partial methodology, some limitations noted",
+        "1": "Limited methodological disclosure",
+        "0": "Methodology hidden or unclear"
+      }
+    }
+  },
+  "scoring_guidelines": {
+    "range": "0.0 - 3.0 (weighted average)",
+    "interpretation": {
+      "2.5-3.0": "Strong - Well-supported, verifiable claims",
+      "2.0-2.4": "Good - Solid evidence with minor gaps",
+      "1.5-1.9": "Moderate - Some evidence, needs strengthening",
+      "1.0-1.4": "Weak - Limited evidence or methodology issues",
+      "0.0-0.9": "Very Weak - Insufficient evidence or major issues"
+    },
+    "important_note": "Score reflects claim quality, not claim truth. High scores indicate well-constructed arguments deserving serious consideration."
+  },
+  "audit_types": [
+    {
+      "type": "Sign Assignment Audit",
+      "description": "Evaluates proposed meaning assignments for individual glyphs",
+      "key_questions": [
+        "What evidence supports this assignment?",
+        "Does it appear consistently across tablets?",
+        "Is it linguistically plausible?",
+        "Are alternative readings considered?"
+      ]
+    },
+    {
+      "type": "Sequence Interpretation Audit",
+      "description": "Evaluates proposed readings of glyph sequences",
+      "key_questions": [
+        "Is the grammatical structure justified?",
+        "Do parallel passages support this reading?",
+        "Are function words vs content words distinguished?",
+        "Is the translation culturally plausible?"
+      ]
+    },
+    {
+      "type": "System-Level Claim Audit",
+      "description": "Evaluates broader claims about script nature or function",
+      "key_questions": [
+        "Does claim account for all known tablets?",
+        "Is internal consistency maintained?",
+        "Are counter-examples addressed?",
+        "How does it compare to scholarly consensus?"
+      ]
+    }
+  ],
+  "sample_audits": [
+    {
+      "claim_id": "SAMPLE-001",
+      "claim_type": "Sign Assignment Audit",
+      "claim_summary": "[Template for future audits]",
+      "source": {
+        "author": "[To be filled]",
+        "publication": "[To be filled]",
+        "year": null,
+        "accessibility": "public/restricted"
+      },
+      "evaluation": {
+        "evidence_quality": {
+          "score": null,
+          "notes": ""
+        },
+        "cross_verification": {
+          "score": null,
+          "notes": ""
+        },
+        "linguistic_plausibility": {
+          "score": null,
+          "notes": ""
+        },
+        "falsifiability": {
+          "score": null,
+          "notes": ""
+        },
+        "transparency": {
+          "score": null,
+          "notes": ""
+        }
+      },
+      "overall_score": null,
+      "assessment": "To be completed",
+      "reviewer": "TBD",
+      "review_date": null,
+      "notes": "This is a template for conducting future audits"
+    }
+  ],
+  "audit_directory": "reports/claims/",
+  "usage_notes": "Use this framework to evaluate external Rongorongo claims systematically"
+}

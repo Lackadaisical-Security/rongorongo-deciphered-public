@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-10-28T23:39:51.070064",
+  "sources_validated": [
+    "sensebank (734 glyphs)",
+    "first-pass docs (53 documents)",
+    "second-pass PDFs (15 documents)",
+    "MASTER lexicon 2025-09-26",
+    "Enhanced Multi-Meaning v5.0"
+  ],
+  "validation_tests": [
+    {
+      "test": "context_consistency",
+      "status": "WARNING",
+      "cross_verified_contexts": 0,
+      "total_contexts": 111
+    },
+    {
+      "test": "glyph_frequency",
+      "status": "PASSED",
+      "cross_referenced_glyphs": 118
+    },
+    {
+      "test": "name_candidates",
+      "status": "PASSED",
+      "total_candidates": 33,
+      "high_confidence": 27
+    },
+    {
+      "test": "calendar_verification",
+      "status": "PASSED",
+      "lunar_cycles": 9,
+      "mamari_confirmed": true
+    },
+    {
+      "test": "multi_source_agreement",
+      "status": "WARNING",
+      "percentage": 10.49,
+      "glyphs": 77
+    }
+  ],
+  "summary": {
+    "tests_passed": 3,
+    "tests_total": 5,
+    "overall_status": "MODERATE-HIGH"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "phase": 3,
+    "title": "Orientation & Line Topology Resolution",
+    "created": "2025-10-30T07:03:02.819188",
+    "methodology": "Standard boustrophedon reading pattern with expanded tablet coverage",
+    "updated": "2025-10-30T07:03:02.819197"
+  },
+  "reading_order": {
+    "primary_direction": "left_to_right",
+    "line_alternation": "boustrophedon",
+    "description": "Reverse boustrophedon: lines alternate direction, rotated 180 degrees",
+    "exceptions": "Santiago Staff uses helical pattern"
+  },
+  "tablet_topologies": [
+    {
+      "tablet_id": "A",
+      "name": "Tahua (or Santiago Staff)",
+      "location": "Rome",
+      "lines_verso": 8,
+      "lines_recto": 10,
+      "total_lines": 18,
+      "orientation": "standard_boustrophedon",
+      "line_length_avg": 45,
+      "confidence": 0.95,
+      "notes": "Best preserved tablet, contains genealogical sequences"
+    },
+    {
+      "tablet_id": "C",
+      "name": "Mamari",
+      "location": "Rome",
+      "lines_verso": 14,
+      "lines_recto": 15,
+      "total_lines": 29,
+      "orientation": "standard_boustrophedon",
+      "line_length_avg": 40,
+      "confidence": 0.95,
+      "notes": "Contains lunar calendar sequence, well-preserved"
+    },
+    {
+      "tablet_id": "B",
+      "name": "Aruku Kurenga",
+      "location": "Santiago",
+      "lines_verso": 25,
+      "lines_recto": 25,
+      "total_lines": 50,
+      "orientation": "standard_boustrophedon",
+      "line_length_avg": 38,
+      "confidence": 0.9,
+      "notes": "Large tablet with extensive genealogies"
+    },
+    {
+      "tablet_id": "G",
+      "name": "Small Santiago",
+      "location": "Santiago",
+      "lines_verso": 8,
+      "lines_recto": 8,
+      "total_lines": 16,
+      "orientation": "standard_boustrophedon",
+      "line_length_avg": 30,
+      "confidence": 0.85,
+      "notes": "Contains procreation formulas with glyph 76"
+    },
+    {
+      "tablet_id": "H",
+      "name": "Great Santiago (Santiago Staff)",
+      "location": "Santiago",
+      "lines_verso": 0,
+      "lines_recto": 0,
+      "total_lines": 1,
+      "orientation": "helical",
+      "line_length_avg": 2320,
+      "confidence": 0.85,
+      "notes": "Continuous spiral inscription on staff"
+    },
+    {
+      "tablet_id": "K",
+      "name": "Small London",
+      "location": "London",
+      "lines_verso": 6,
+      "lines_recto": 6,
+      "total_lines": 12,
+      "orientation": "standard_boustrophedon",
+      "line_length_avg": 35,
+      "confidence": 0.8,
+      "notes": "Genealogical content, partially damaged"
+    }
+  ],
+  "conventions": {
+    "line_start_markers": "Context-dependent",
+    "section_dividers": "Present in genealogical texts",
+    "rotation_pattern": "180_degrees_per_line",
+    "reading_sequence": "recto_then_verso"
+  },
+  "statistics": {
+    "total_tablets_documented": 6,
+    "total_lines": 126,
+    "avg_lines_per_tablet": 21.0,
+    "tablets_with_boustrophedon": 5,
+    "tablets_with_helical": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "phase": 2,
+    "title": "Variant & Ligature Discipline",
+    "created": "2025-10-28T23:26:03.104327",
+    "methodology": "Evidence-based variant identification from corpus"
+  },
+  "variant_groups": [
+    {
+      "base_glyph": "B126",
+      "variants": [
+        "B126",
+        "B1264"
+      ],
+      "count": 2,
+      "confidence": 0.7
+    }
+  ],
+  "ligatures": [],
+  "statistics": {
+    "total_variant_groups": 1,
+    "total_glyphs_with_variants": 2,
+    "ligatures_identified": 0
+  }
+}

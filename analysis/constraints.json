@@ -1,0 +1,52 @@
+{
+  "phonotactic_rules": {
+    "cv_bias": {
+      "description": "Polynesian languages prefer consonant-vowel syllable structure",
+      "rule": "syllables should follow (C)V pattern",
+      "strength": "strong",
+      "violations_allowed": 0.1
+    },
+    "vowel_endings": {
+      "description": "Most Polynesian words end in vowels",
+      "rule": "word-final positions should be vowels",
+      "strength": "strong",
+      "violations_allowed": 0.15
+    },
+    "no_consonant_clusters": {
+      "description": "Polynesian languages rarely have consonant clusters",
+      "rule": "avoid CC sequences",
+      "strength": "moderate",
+      "violations_allowed": 0.2
+    }
+  },
+  "cultural_constraints": {
+    "rapa_nui_calendar": {
+      "description": "Known Rapa Nui lunar calendar month names",
+      "names": [
+        "Anakena",
+        "Hora Iti",
+        "Hora Nui",
+        "Tagaroa Uri",
+        "Ko Ruti"
+      ],
+      "strength": "weak_filter"
+    },
+    "kinship_terms": {
+      "description": "Polynesian kinship terminology patterns",
+      "terms": [
+        "makupuna",
+        "tupuna",
+        "metua",
+        "tamaiti"
+      ],
+      "strength": "weak_filter"
+    }
+  },
+  "structural_constraints": {
+    "no_split_ligatures": {
+      "description": "Ligature glyphs must not be split during segmentation",
+      "rule": "composite glyphs are atomic units",
+      "strength": "absolute"
+    }
+  }
+}

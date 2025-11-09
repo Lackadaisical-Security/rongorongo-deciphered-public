@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "phase": 4,
+    "title": "Statistical Spine",
+    "created": "2025-10-28T23:26:03.110066",
+    "methodology": "Frequency and distribution analysis"
+  },
+  "frequency_distribution": {
+    "top_20_glyphs": [
+      {
+        "glyph": "B006",
+        "count": 156,
+        "percentage": 5.62
+      },
+      {
+        "glyph": "B008",
+        "count": 134,
+        "percentage": 4.83
+      },
+      {
+        "glyph": "B001",
+        "count": 127,
+        "percentage": 4.58
+      },
+      {
+        "glyph": "B999",
+        "count": 103,
+        "percentage": 3.71
+      },
+      {
+        "glyph": "B020",
+        "count": 92,
+        "percentage": 3.32
+      },
+      {
+        "glyph": "B002",
+        "count": 89,
+        "percentage": 3.21
+      },
+      {
+        "glyph": "B032",
+        "count": 89,
+        "percentage": 3.21
+      },
+      {
+        "glyph": "B050",
+        "count": 84,
+        "percentage": 3.03
+      },
+      {
+        "glyph": "B005",
+        "count": 82,
+        "percentage": 2.95
+      },
+      {
+        "glyph": "B010",
+        "count": 78,
+        "percentage": 2.81
+      },
+      {
+        "glyph": "B003",
+        "count": 76,
+        "percentage": 2.74
+      },
+      {
+        "glyph": "B030",
+        "count": 73,
+        "percentage": 2.63
+      },
+      {
+        "glyph": "B007",
+        "count": 67,
+        "percentage": 2.41
+      },
+      {
+        "glyph": "B040",
+        "count": 67,
+        "percentage": 2.41
+      },
+      {
+        "glyph": "B062",
+        "count": 67,
+        "percentage": 2.41
+      },
+      {
+        "glyph": "B004",
+        "count": 65,
+        "percentage": 2.34
+      },
+      {
+        "glyph": "B100",
+        "count": 63,
+        "percentage": 2.27
+      },
+      {
+        "glyph": "B070",
+        "count": 58,
+        "percentage": 2.09
+      },
+      {
+        "glyph": "B061",
+        "count": 56,
+        "percentage": 2.02
+      },
+      {
+        "glyph": "B080",
+        "count": 52,
+        "percentage": 1.87
+      }
+    ],
+    "total_occurrences": 2775,
+    "unique_glyphs": 309
+  },
+  "distribution_metrics": {
+    "hapax_legomena": 251,
+    "high_frequency_threshold": 50,
+    "high_frequency_glyphs": 20,
+    "zipf_coefficient": "calculated_from_corpus",
+    "diversity_index": 0.1114
+  },
+  "contextual_statistics": {
+    "genealogical_density": "High",
+    "astronomical_density": "Moderate",
+    "marine_density": "Moderate"
+  }
+}

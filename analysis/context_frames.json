@@ -1,0 +1,3094 @@
+{
+  "metadata": {
+    "phase": "16 - Cultural Context Frames",
+    "description": "Cultural and ethnographic context for Rongorongo interpretation",
+    "methodology": "Grounded, cross-verified, conservative - no forced interpretations",
+    "date": "2025-10-28"
+  },
+  "cultural_contexts": {
+    "social_hierarchy": {
+      "context_type": "social_hierarchy",
+      "glyph_count": 15,
+      "total_occurrences": 69,
+      "average_confidence": 0.696,
+      "representative_glyphs": [
+        "B025",
+        "B007",
+        "B044",
+        "B032",
+        "B008",
+        "B606",
+        "B009",
+        "B002",
+        "B700",
+        "B200"
+      ],
+      "common_meanings": [
+        "Multi-functional glyph: anatomical 'hand' (rima)",
+        "child, descendant",
+        "appears in genealogical lists.",
+        "'ai (copulate)",
+        "Alternative translation of basic anthropomorphic glyph",
+        "paragraph break (non-lexical)",
+        "Marks divisions or section starts",
+        "Represents sand or beach",
+        "fish",
+        "section divider",
+        "face",
+        "'victim' (kai) sacrifice target",
+        "scepter",
+        "'ai",
+        "staff (ceremonial)"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "anatomical": {
+      "context_type": "anatomical",
+      "glyph_count": 56,
+      "total_occurrences": 219,
+      "average_confidence": 0.637,
+      "representative_glyphs": [
+        "B031",
+        "B021",
+        "B072",
+        "B090",
+        "B280",
+        "B068",
+        "B019",
+        "B003",
+        "B024",
+        "B013"
+      ],
+      "common_meanings": [
+        "omen",
+        "associated with god Rongo or dark moon",
+        "hohonu ika",
+        "fishhook",
+        "and nurturing concepts.",
+        "State of being filled or complete",
+        "fish",
+        "aquatic motion",
+        "Marks divisions or section starts",
+        "'ai",
+        "kupu",
+        "Anthropomorphic female figure representing woman or mother",
+        "'king' (ariki henua) supreme authority",
+        "Symbol for cave",
+        "Updated interpretation"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "human_classification": {
+      "context_type": "human_classification",
+      "glyph_count": 27,
+      "total_occurrences": 114,
+      "average_confidence": 0.648,
+      "representative_glyphs": [
+        "B690",
+        "B280",
+        "B061",
+        "B064",
+        "B007",
+        "B026",
+        "B700",
+        "B730",
+        "B400",
+        "B033"
+      ],
+      "common_meanings": [
+        "Combined human-bird figure",
+        "associated with god Rongo or dark moon",
+        "bird-man",
+        "fish",
+        "Complete entity without parts missing",
+        "'ai",
+        "Anthropomorphic female figure representing woman or mother",
+        "'king' (ariki henua) supreme authority",
+        "Updated interpretation",
+        "adornment",
+        "Youth",
+        "'ai' or 'fanau'",
+        "(fig.) spirits (plural marker with ‘hand’)",
+        "full moon (face)",
+        "Method"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "genealogical": {
+      "context_type": "genealogical",
+      "glyph_count": 15,
+      "total_occurrences": 75,
+      "average_confidence": 0.637,
+      "representative_glyphs": [
+        "B007",
+        "B011",
+        "B032",
+        "B500",
+        "B300",
+        "B020",
+        "B080",
+        "B068",
+        "B200",
+        "B280"
+      ],
+      "common_meanings": [
+        "child, descendant",
+        "appears in genealogical lists.",
+        "'ai (copulate)",
+        "Alternative translation of basic anthropomorphic glyph",
+        "Feminine gender marker",
+        "associated with god Rongo or dark moon",
+        "hohonu ika",
+        "beginning",
+        "ika iti",
+        "paragraph break (non-lexical)",
+        "niuhi/pakia",
+        "and nurturing concepts.",
+        "Marks divisions or section starts",
+        "section divider",
+        "Female parent"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "identity_recognition": {
+      "context_type": "identity_recognition",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.56,
+      "representative_glyphs": [
+        "B002"
+      ],
+      "common_meanings": [
+        "identity",
+        "Alternative interpretation focusing on facial aspect",
+        "head, face",
+        "head",
+        "face"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "action": {
+      "context_type": "action",
+      "glyph_count": 40,
+      "total_occurrences": 170,
+      "average_confidence": 0.657,
+      "representative_glyphs": [
+        "B690",
+        "B090",
+        "B280",
+        "B068",
+        "B999",
+        "B003",
+        "B061",
+        "B042",
+        "B016",
+        "B011"
+      ],
+      "common_meanings": [
+        "Combined human-bird figure",
+        "entrance",
+        "associated with god Rongo or dark moon",
+        "hohonu ika",
+        "bird-man",
+        "State of being filled or complete",
+        "fish",
+        "aquatic motion",
+        "constellation",
+        "Marks divisions or section starts",
+        "Complete entity without parts missing",
+        "'ai",
+        "Anthropomorphic female figure representing woman or mother",
+        "'king' (ariki henua) supreme authority",
+        "Updated interpretation"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "perception": {
+      "context_type": "perception",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.64,
+      "representative_glyphs": [
+        "B003"
+      ],
+      "common_meanings": [
+        "Direct anatomical reference",
+        "kite",
+        "mata",
+        "eye",
+        "eye, see, watch"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "awareness": {
+      "context_type": "awareness",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.64,
+      "representative_glyphs": [
+        "B003"
+      ],
+      "common_meanings": [
+        "Direct anatomical reference",
+        "kite",
+        "mata",
+        "eye",
+        "eye, see, watch"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "vision": {
+      "context_type": "vision",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.64,
+      "representative_glyphs": [
+        "B003"
+      ],
+      "common_meanings": [
+        "Direct anatomical reference",
+        "kite",
+        "mata",
+        "eye",
+        "eye, see, watch"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "communication": {
+      "context_type": "communication",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.6,
+      "representative_glyphs": [
+        "B004"
+      ],
+      "common_meanings": [
+        "Horizontal line representing oral cavity",
+        "haha",
+        "language",
+        "kī",
+        "kupu"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "linguistic": {
+      "context_type": "linguistic",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.6,
+      "representative_glyphs": [
+        "B004"
+      ],
+      "common_meanings": [
+        "Horizontal line representing oral cavity",
+        "haha",
+        "language",
+        "kī",
+        "kupu"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "speech": {
+      "context_type": "speech",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.6,
+      "representative_glyphs": [
+        "B004"
+      ],
+      "common_meanings": [
+        "Horizontal line representing oral cavity",
+        "haha",
+        "language",
+        "kī",
+        "kupu"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "object": {
+      "context_type": "object",
+      "glyph_count": 8,
+      "total_occurrences": 34,
+      "average_confidence": 0.573,
+      "representative_glyphs": [
+        "B030",
+        "B750",
+        "B060",
+        "B143",
+        "B015",
+        "B024",
+        "B005",
+        "B070"
+      ],
+      "common_meanings": [
+        "Rakau (tree)",
+        "General implement or instrument",
+        "vessel",
+        "fishhook",
+        "ancient' (tawhito) very old",
+        "'ancient' (tawhito) very old",
+        "reach",
+        "extend",
+        "night before full moon",
+        "Night before full moon",
+        "Method or manner of doing",
+        "canoe",
+        "implement",
+        "General location concept",
+        "'road' (ara rahi) major route"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "physical_extension": {
+      "context_type": "physical_extension",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.52,
+      "representative_glyphs": [
+        "B005"
+      ],
+      "common_meanings": [
+        "arm, reach",
+        "arm",
+        "reach",
+        "extend",
+        "Action derived from arm extension"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "grammatical_plural": {
+      "context_type": "grammatical_plural",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.72,
+      "representative_glyphs": [
+        "B006"
+      ],
+      "common_meanings": [
+        "Multi-functional glyph: anatomical 'hand' (rima)",
+        "Updated interpretation",
+        "Hand glyph used as plural",
+        "Hand glyph used as plural or collective marker",
+        "attaches to nouns to indicate many."
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "quantifier": {
+      "context_type": "quantifier",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.72,
+      "representative_glyphs": [
+        "B006"
+      ],
+      "common_meanings": [
+        "Multi-functional glyph: anatomical 'hand' (rima)",
+        "Updated interpretation",
+        "Hand glyph used as plural",
+        "Hand glyph used as plural or collective marker",
+        "attaches to nouns to indicate many."
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "numerical": {
+      "context_type": "numerical",
+      "glyph_count": 8,
+      "total_occurrences": 37,
+      "average_confidence": 0.633,
+      "representative_glyphs": [
+        "B010",
+        "B040",
+        "B606",
+        "B041",
+        "B280",
+        "B006",
+        "B036",
+        "B064"
+      ],
+      "common_meanings": [
+        "Multi-functional glyph: anatomical 'hand' (rima)",
+        "associated with god Rongo or dark moon",
+        "Movement of water or liquid",
+        "crescent variant",
+        "Crescent-shaped glyph denoting the moon",
+        "Wavy line glyph representing water",
+        "Updated interpretation",
+        "'sea' (tai) marine water",
+        "Hand glyph used as plural",
+        "associated with god Rongo",
+        "appears in genealogies",
+        "crescent variant/day marker",
+        "(fig.) spirits (plural marker with ‘hand’)",
+        "attaches to nouns to indicate many.",
+        "day marker"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "family_structure": {
+      "context_type": "family_structure",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.64,
+      "representative_glyphs": [
+        "B007"
+      ],
+      "common_meanings": [
+        "child, descendant",
+        "Updated interpretation",
+        "Anthropomorphic figure representing child or descendant",
+        "child",
+        "Anthropomorphic figure representing child"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "age_designation": {
+      "context_type": "age_designation",
+      "glyph_count": 3,
+      "total_occurrences": 15,
+      "average_confidence": 0.573,
+      "representative_glyphs": [
+        "B400",
+        "B500",
+        "B007"
+      ],
+      "common_meanings": [
+        "child, descendant",
+        "Updated interpretation",
+        "Anthropomorphic figure representing child or descendant",
+        "Descendants",
+        "Small human figure indicating child",
+        "Youth",
+        "child",
+        "'elder' (koroua) senior member",
+        "'young' (ui) recent birth",
+        "Age",
+        "Small human figure indicating child or offspring",
+        "Advanced in age or time",
+        "Age/ancestry concepts: 'ancestor' (tupuna) forebear",
+        "Anthropomorphic figure representing child",
+        "Advanced in age"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "astronomical": {
+      "context_type": "astronomical",
+      "glyph_count": 29,
+      "total_occurrences": 115,
+      "average_confidence": 0.639,
+      "representative_glyphs": [
+        "B072",
+        "B040",
+        "B143",
+        "B049",
+        "B280",
+        "B061",
+        "B067",
+        "B064",
+        "B007",
+        "B062"
+      ],
+      "common_meanings": [
+        "omen",
+        "associated with god Rongo or dark moon",
+        "Marks divisions or section starts",
+        "constellation",
+        "Complete entity without parts missing",
+        "Updated interpretation",
+        "'sea' (tai) marine water",
+        "night name Otua",
+        "dusk",
+        "night name Hotu",
+        "Fruit glyph signifying first quarter moon.",
+        "full moon (face)",
+        "anthropomorphic figure.",
+        "clause separator",
+        "brightness"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "calendrical": {
+      "context_type": "calendrical",
+      "glyph_count": 18,
+      "total_occurrences": 84,
+      "average_confidence": 0.636,
+      "representative_glyphs": [
+        "B010",
+        "B072",
+        "B047",
+        "B069",
+        "B040",
+        "B012",
+        "B143",
+        "B074",
+        "B008",
+        "B049"
+      ],
+      "common_meanings": [
+        "associated with god Rongo or dark moon",
+        "fish",
+        "aquatic motion",
+        "Complete entity without parts missing",
+        "Updated interpretation",
+        "'sea' (tai) marine water",
+        "dusk",
+        "ika",
+        "night name Hotu",
+        "Fruit glyph signifying first quarter moon.",
+        "'plant' (tiare) general vegetation",
+        "Glyph corresponding to sprout",
+        "Adjectival form related to moon",
+        "pre-full moon night",
+        "Glyph corresponding to sprout or night name Hotu"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "celestial": {
+      "context_type": "celestial",
+      "glyph_count": 3,
+      "total_occurrences": 15,
+      "average_confidence": 0.667,
+      "representative_glyphs": [
+        "B061",
+        "B010",
+        "B008"
+      ],
+      "common_meanings": [
+        "a star.",
+        "Radiating circular glyph for the sun",
+        "Updated interpretation",
+        "--",
+        "celestial dome",
+        "Crescent lunar glyph: 'moon' (māhina) celestial body",
+        "color or quality determinative.",
+        "Crescent-shaped glyph denoting the moon or month",
+        "Celestial dome representation: 'sky' (rangi) during day",
+        "color",
+        "'star' (hetu'u) alternative",
+        "Adjectival form related to moon",
+        "'lunar' adjectival form",
+        "Crescent-shaped glyph denoting the moon",
+        "'fire' (ahi) for heat/light"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "luminous": {
+      "context_type": "luminous",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.72,
+      "representative_glyphs": [
+        "B008"
+      ],
+      "common_meanings": [
+        "a star.",
+        "Radiating circular glyph for the sun",
+        "Updated interpretation",
+        "'star' (hetu'u) alternative",
+        "'fire' (ahi) for heat/light"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "temporal": {
+      "context_type": "temporal",
+      "glyph_count": 7,
+      "total_occurrences": 35,
+      "average_confidence": 0.663,
+      "representative_glyphs": [
+        "B010",
+        "B750",
+        "B143",
+        "B074",
+        "B008",
+        "B061",
+        "B078"
+      ],
+      "common_meanings": [
+        "Rakau (tree)",
+        "indicating diminishing lunar illumination.",
+        "ancient' (tawhito) very old",
+        "'ancient' (tawhito) very old",
+        "Celestial dome representation: 'sky' (rangi) during day",
+        "Maure",
+        "night before full moon",
+        "celestial dome",
+        "Crescent-shaped glyph denoting the moon",
+        "Night before full moon",
+        "a star.",
+        "Radiating circular glyph for the sun",
+        "Updated interpretation",
+        "--",
+        "Maure (waning gibbous)"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "endpoint_marker": {
+      "context_type": "endpoint_marker",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.758,
+      "representative_glyphs": [
+        "B009"
+      ],
+      "common_meanings": [
+        "beach",
+        "Updated interpretation",
+        "Represents sand",
+        "Represents sand or beach",
+        "Anakena"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "navigation": {
+      "context_type": "navigation",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.758,
+      "representative_glyphs": [
+        "B009"
+      ],
+      "common_meanings": [
+        "beach",
+        "Updated interpretation",
+        "Represents sand",
+        "Represents sand or beach",
+        "Anakena"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "geographic": {
+      "context_type": "geographic",
+      "glyph_count": 2,
+      "total_occurrences": 10,
+      "average_confidence": 0.639,
+      "representative_glyphs": [
+        "B009",
+        "B030"
+      ],
+      "common_meanings": [
+        "beach",
+        "Updated interpretation",
+        "dwelling",
+        "denotes a house",
+        "Represents sand",
+        "Rectangular or oval enclosure sign",
+        "General location concept",
+        "Represents sand or beach",
+        "Anakena",
+        "Rectangular"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "lunar_calendar": {
+      "context_type": "lunar_calendar",
+      "glyph_count": 7,
+      "total_occurrences": 35,
+      "average_confidence": 0.714,
+      "representative_glyphs": [
+        "B010",
+        "B069",
+        "B143",
+        "B074",
+        "B280",
+        "B152",
+        "B078"
+      ],
+      "common_meanings": [
+        "comparable to serpents in Mesoamerican day-signs (e.g.",
+        "Rakau (tree)",
+        "indicating diminishing lunar illumination.",
+        "associated with god Rongo or dark moon",
+        "Maure",
+        "night before full moon",
+        "Complete entity without parts missing",
+        "Crescent-shaped glyph denoting the moon",
+        "Night before full moon",
+        "Circular disk with internal markings",
+        "associated with god Rongo",
+        "gecko",
+        "appears in genealogies",
+        "Maure (waning gibbous)",
+        "Chikchan')."
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "totemic": {
+      "context_type": "totemic",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.48,
+      "representative_glyphs": [
+        "B011"
+      ],
+      "common_meanings": [
+        "Large marine creature symbol",
+        "ika iti",
+        "niuhi/pakia",
+        "marine life",
+        "marine predator"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "marine_life": {
+      "context_type": "marine_life",
+      "glyph_count": 6,
+      "total_occurrences": 30,
+      "average_confidence": 0.639,
+      "representative_glyphs": [
+        "B012",
+        "B016",
+        "B011",
+        "B280",
+        "B700",
+        "B068"
+      ],
+      "common_meanings": [
+        "associated with god Rongo or dark moon",
+        "kahi",
+        "hohonu ika",
+        "ika iti",
+        "niuhi/pakia",
+        "fish",
+        "aquatic motion",
+        "marine life",
+        "marine predator",
+        "'victim' (kai) sacrifice target",
+        "marine creature",
+        "Updated interpretation",
+        "fish (verb)",
+        "Large marine creature symbol",
+        "appears with Tangaroa as tuna incarnation."
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "ritual": {
+      "context_type": "ritual",
+      "glyph_count": 21,
+      "total_occurrences": 87,
+      "average_confidence": 0.619,
+      "representative_glyphs": [
+        "B040",
+        "B690",
+        "B044",
+        "B280",
+        "B068",
+        "B013",
+        "B064",
+        "B042",
+        "B016",
+        "B011"
+      ],
+      "common_meanings": [
+        "Combined human-bird figure",
+        "entrance",
+        "associated with god Rongo or dark moon",
+        "hohonu ika",
+        "bird-man",
+        "fish",
+        "staff (ceremonial)",
+        "Symbol for cave",
+        "Updated interpretation",
+        "'sea' (tai) marine water",
+        "night name Otua",
+        "Large marine creature symbol",
+        "deep water life",
+        "(fig.) spirits (plural marker with ‘hand’)",
+        "anthropomorphic figure."
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "marine": {
+      "context_type": "marine",
+      "glyph_count": 19,
+      "total_occurrences": 80,
+      "average_confidence": 0.604,
+      "representative_glyphs": [
+        "B031",
+        "B040",
+        "B044",
+        "B280",
+        "B068",
+        "B024",
+        "B042",
+        "B750",
+        "B016",
+        "B011"
+      ],
+      "common_meanings": [
+        "associated with god Rongo or dark moon",
+        "hohonu ika",
+        "fishhook",
+        "fish",
+        "aquatic motion",
+        "'dangerous' (kino) threat level",
+        "Updated interpretation",
+        "'sea' (tai) marine water",
+        "Large marine creature symbol",
+        "deep water life",
+        "ika",
+        "(rebus) victim",
+        "Specific fish glyph identified as tuna",
+        "Turtle pictograph",
+        "Avian symbolism: 'bird' (manu) general avian"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "mythological": {
+      "context_type": "mythological",
+      "glyph_count": 4,
+      "total_occurrences": 20,
+      "average_confidence": 0.679,
+      "representative_glyphs": [
+        "B700",
+        "B011",
+        "B152",
+        "B068"
+      ],
+      "common_meanings": [
+        "hohonu ika",
+        "ika iti",
+        "niuhi/pakia",
+        "fish",
+        "marine life",
+        "marine predator",
+        "'victim' (kai) sacrifice target",
+        "Complete entity without parts missing",
+        "Updated interpretation",
+        "Circular disk with internal markings",
+        "Large marine creature symbol",
+        "deep water life",
+        "honu",
+        "(rebus) victim",
+        "Turtle pictograph"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "aquatic": {
+      "context_type": "aquatic",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.64,
+      "representative_glyphs": [
+        "B012"
+      ],
+      "common_meanings": [
+        "fish (verb)",
+        "fish",
+        "aquatic motion",
+        "ika",
+        "Fish pictograph"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "creation_mythology": {
+      "context_type": "creation_mythology",
+      "glyph_count": 4,
+      "total_occurrences": 20,
+      "average_confidence": 0.729,
+      "representative_glyphs": [
+        "B600",
+        "B606",
+        "B610",
+        "B012"
+      ],
+      "common_meanings": [
+        "fish",
+        "aquatic motion",
+        "'frigatebird' (tavake) specific species",
+        "Cosmogonic symbolism: 'egg' (hua) reproductive structure",
+        "fish (verb)",
+        "Bird glyph",
+        "ika",
+        "'origin' (mata) source",
+        "(fig.) spirits (plural marker with ‘hand’)",
+        "Egg",
+        "Avian symbolism: 'bird' (manu) general avian",
+        "Oval “egg” glyph representing origin",
+        "Composite of 600 (bird)",
+        "'flock' (puhi manu) group flying together",
+        "Specific seabird species"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "death_ritual": {
+      "context_type": "death_ritual",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.68,
+      "representative_glyphs": [
+        "B013"
+      ],
+      "common_meanings": [
+        "Symbol for cave",
+        "Symbol for cave or burial tomb",
+        "burial place",
+        "cave",
+        "burial tomb"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga"
+      ],
+      "cross_verified": false
+    },
+    "shelter": {
+      "context_type": "shelter",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.68,
+      "representative_glyphs": [
+        "B013"
+      ],
+      "common_meanings": [
+        "Symbol for cave",
+        "Symbol for cave or burial tomb",
+        "burial place",
+        "cave",
+        "burial tomb"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga"
+      ],
+      "cross_verified": false
+    },
+    "burial": {
+      "context_type": "burial",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.68,
+      "representative_glyphs": [
+        "B013"
+      ],
+      "common_meanings": [
+        "Symbol for cave",
+        "Symbol for cave or burial tomb",
+        "burial place",
+        "cave",
+        "burial tomb"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga"
+      ],
+      "cross_verified": false
+    },
+    "divine_incarnation": {
+      "context_type": "divine_incarnation",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.48,
+      "representative_glyphs": [
+        "B016"
+      ],
+      "common_meanings": [
+        "marine creature",
+        "Specific fish glyph identified as tuna",
+        "appears with Tangaroa as tuna incarnation.",
+        "kahi",
+        "General marine life symbol"
+      ],
+      "tablets_attested": [
+        "Santiago Staff"
+      ],
+      "cross_verified": false
+    },
+    "agricultural": {
+      "context_type": "agricultural",
+      "glyph_count": 6,
+      "total_occurrences": 21,
+      "average_confidence": 0.613,
+      "representative_glyphs": [
+        "B021",
+        "B072",
+        "B018",
+        "B020",
+        "B700",
+        "B019"
+      ],
+      "common_meanings": [
+        "plantain",
+        "fish",
+        "'victim' (kai) sacrifice target",
+        "Action derived from plant symbolism",
+        "Updated interpretation",
+        "Hotu (sprout)",
+        "night name Hotu",
+        "(rebus) victim",
+        "Branching glyph representing a tree or plant",
+        "'plant' (tiare) general vegetation",
+        "banana",
+        "Glyph corresponding to sprout",
+        "Glyph corresponding to sprout or night name Hotu",
+        "Fish",
+        "fruit"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "natural": {
+      "context_type": "natural",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.56,
+      "representative_glyphs": [
+        "B020"
+      ],
+      "common_meanings": [
+        "Action derived from plant symbolism",
+        "Branching glyph representing a tree or plant",
+        "'plant' (tiare) general vegetation",
+        "Branching glyph representing a tree",
+        "grow"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "growth": {
+      "context_type": "growth",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.56,
+      "representative_glyphs": [
+        "B020"
+      ],
+      "common_meanings": [
+        "Action derived from plant symbolism",
+        "Branching glyph representing a tree or plant",
+        "'plant' (tiare) general vegetation",
+        "Branching glyph representing a tree",
+        "grow"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "agriculture": {
+      "context_type": "agriculture",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.56,
+      "representative_glyphs": [
+        "B020"
+      ],
+      "common_meanings": [
+        "Action derived from plant symbolism",
+        "Branching glyph representing a tree or plant",
+        "'plant' (tiare) general vegetation",
+        "Branching glyph representing a tree",
+        "grow"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "botanical": {
+      "context_type": "botanical",
+      "glyph_count": 4,
+      "total_occurrences": 20,
+      "average_confidence": 0.66,
+      "representative_glyphs": [
+        "B020",
+        "B074",
+        "B067",
+        "B143"
+      ],
+      "common_meanings": [
+        "Rakau (tree)",
+        "extinct palm",
+        "night before full moon",
+        "Night before full moon",
+        "Action derived from plant symbolism",
+        "cycle (repeat)",
+        "Fruit glyph signifying first quarter moon.",
+        "Branching glyph representing a tree or plant",
+        "Tree-like glyph representing the extinct Easter Island palm",
+        "may also signify cycle",
+        "'plant' (tiare) general vegetation",
+        "cycle",
+        "first quarter moon",
+        "Hua (fruit)",
+        "Hua"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "bird": {
+      "context_type": "bird",
+      "glyph_count": 12,
+      "total_occurrences": 38,
+      "average_confidence": 0.664,
+      "representative_glyphs": [
+        "B047",
+        "B048",
+        "B600",
+        "B040",
+        "B690",
+        "B044",
+        "B022",
+        "B037",
+        "B606",
+        "B046"
+      ],
+      "common_meanings": [
+        "omen",
+        "Glyph 620 - awaiting decipherment",
+        "Combined human-bird figure",
+        "hybrid figure",
+        "star (falling)",
+        "bird-man",
+        "Movement of water or liquid",
+        "'frigatebird' (tavake) specific species",
+        "tangata manu",
+        "Bird glyph representing the frigatebird",
+        "Wavy line glyph representing water",
+        "adornment",
+        "'sea' (tai) marine water",
+        "cycle (month)",
+        "Bird glyph"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "spatial": {
+      "context_type": "spatial",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.52,
+      "representative_glyphs": [
+        "B030"
+      ],
+      "common_meanings": [
+        "dwelling",
+        "Rectangular",
+        "Rectangular or oval enclosure sign",
+        "General location concept",
+        "denotes a house"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "habitation": {
+      "context_type": "habitation",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.52,
+      "representative_glyphs": [
+        "B030"
+      ],
+      "common_meanings": [
+        "dwelling",
+        "Rectangular",
+        "Rectangular or oval enclosure sign",
+        "General location concept",
+        "denotes a house"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "architectural": {
+      "context_type": "architectural",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.52,
+      "representative_glyphs": [
+        "B030"
+      ],
+      "common_meanings": [
+        "dwelling",
+        "Rectangular",
+        "Rectangular or oval enclosure sign",
+        "General location concept",
+        "denotes a house"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "textual_organization": {
+      "context_type": "textual_organization",
+      "glyph_count": 2,
+      "total_occurrences": 10,
+      "average_confidence": 0.68,
+      "representative_glyphs": [
+        "B999",
+        "B032"
+      ],
+      "common_meanings": [
+        "Updated interpretation",
+        "paragraph break (non-lexical)",
+        "Marks divisions or section starts",
+        "section divider",
+        "Marks divisions",
+        "punctuation",
+        "begin",
+        "end marker",
+        "beginning"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "punctuation": {
+      "context_type": "punctuation",
+      "glyph_count": 3,
+      "total_occurrences": 15,
+      "average_confidence": 0.667,
+      "representative_glyphs": [
+        "B999",
+        "B032",
+        "B062"
+      ],
+      "common_meanings": [
+        "clause break",
+        "Updated interpretation",
+        "--",
+        "paragraph break (non-lexical)",
+        "ki",
+        "Marks divisions or section starts",
+        "clause separator",
+        "Marks divisions",
+        "section divider",
+        "punctuation",
+        "begin",
+        "end marker",
+        "clause break, punctuation",
+        "beginning"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "structural": {
+      "context_type": "structural",
+      "glyph_count": 3,
+      "total_occurrences": 15,
+      "average_confidence": 0.667,
+      "representative_glyphs": [
+        "B999",
+        "B032",
+        "B062"
+      ],
+      "common_meanings": [
+        "clause break",
+        "Updated interpretation",
+        "--",
+        "paragraph break (non-lexical)",
+        "ki",
+        "Marks divisions or section starts",
+        "clause separator",
+        "Marks divisions",
+        "section divider",
+        "punctuation",
+        "begin",
+        "end marker",
+        "clause break, punctuation",
+        "beginning"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "general": {
+      "context_type": "general",
+      "glyph_count": 221,
+      "total_occurrences": 223,
+      "average_confidence": 0.749,
+      "representative_glyphs": [
+        "B110",
+        "B890",
+        "B197",
+        "B112",
+        "B163",
+        "B520",
+        "B580",
+        "B151",
+        "B088",
+        "B790"
+      ],
+      "common_meanings": [
+        "Glyph 148 - awaiting decipherment",
+        "Glyph 177 - awaiting decipherment",
+        "Glyph 182 - awaiting decipherment",
+        "Glyph 209 - awaiting decipherment",
+        "Glyph 173 - awaiting decipherment",
+        "Glyph 207 - awaiting decipherment",
+        "Glyph 201 - awaiting decipherment",
+        "Glyph 608 - awaiting decipherment",
+        "Glyph 161 - awaiting decipherment",
+        "Glyph 187 - awaiting decipherment",
+        "Glyph 122 - awaiting decipherment",
+        "Glyph 170 - awaiting decipherment",
+        "Glyph 720 - awaiting decipherment",
+        "Glyph 501 - awaiting decipherment",
+        "Glyph 460 - awaiting decipherment"
+      ],
+      "tablets_attested": [],
+      "cross_verified": false
+    },
+    "fluid": {
+      "context_type": "fluid",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.64,
+      "representative_glyphs": [
+        "B040"
+      ],
+      "common_meanings": [
+        "Wavy line glyph representing water",
+        "'sea' (tai) marine water",
+        "Wavy line glyph representing water or sea",
+        "Movement of water or liquid",
+        "Movement of water"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "natural_elements": {
+      "context_type": "natural_elements",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.64,
+      "representative_glyphs": [
+        "B040"
+      ],
+      "common_meanings": [
+        "Wavy line glyph representing water",
+        "'sea' (tai) marine water",
+        "Wavy line glyph representing water or sea",
+        "Movement of water or liquid",
+        "Movement of water"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "temporal_marker": {
+      "context_type": "temporal_marker",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.64,
+      "representative_glyphs": [
+        "B040"
+      ],
+      "common_meanings": [
+        "Wavy line glyph representing water",
+        "'sea' (tai) marine water",
+        "Wavy line glyph representing water or sea",
+        "Movement of water or liquid",
+        "Movement of water"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "ornithological": {
+      "context_type": "ornithological",
+      "glyph_count": 3,
+      "total_occurrences": 15,
+      "average_confidence": 0.692,
+      "representative_glyphs": [
+        "B600",
+        "B044",
+        "B606"
+      ],
+      "common_meanings": [
+        "Bird glyph representing the frigatebird",
+        "dance",
+        "ceremony",
+        "Bird glyph",
+        "frigatebird",
+        "Avian symbolism: 'bird' (manu) general avian",
+        "6 (hand)",
+        "(fig.) spirit",
+        "Birds (plural)",
+        "'flock' (puhi manu) group flying together",
+        "Composite of 600 (bird)",
+        "(fig.) spirits (plural marker with ‘hand’)",
+        "Specific seabird species",
+        "'frigatebird' (tavake) specific species",
+        "frigate bird"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "clan_totemic": {
+      "context_type": "clan_totemic",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.56,
+      "representative_glyphs": [
+        "B044"
+      ],
+      "common_meanings": [
+        "Bird glyph representing the frigatebird",
+        "dance",
+        "ceremony",
+        "frigatebird",
+        "frigate bird"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "sacred": {
+      "context_type": "sacred",
+      "glyph_count": 2,
+      "total_occurrences": 10,
+      "average_confidence": 0.659,
+      "representative_glyphs": [
+        "B600",
+        "B044"
+      ],
+      "common_meanings": [
+        "Bird glyph representing the frigatebird",
+        "dance",
+        "ceremony",
+        "Bird glyph",
+        "frigatebird",
+        "Avian symbolism: 'bird' (manu) general avian",
+        "(fig.) spirit",
+        "Specific seabird species",
+        "'frigatebird' (tavake) specific species",
+        "frigate bird"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "permanent_structure": {
+      "context_type": "permanent_structure",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.64,
+      "representative_glyphs": [
+        "B050"
+      ],
+      "common_meanings": [
+        "Angular mineral form: 'stone' (maea) individual rock",
+        "Stone or rock symbol",
+        "Alternative stone/mineral reference",
+        "Alternative stone",
+        "'rock' (papa) general mineral. Represents solid earth"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "foundation": {
+      "context_type": "foundation",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.64,
+      "representative_glyphs": [
+        "B050"
+      ],
+      "common_meanings": [
+        "Angular mineral form: 'stone' (maea) individual rock",
+        "Stone or rock symbol",
+        "Alternative stone/mineral reference",
+        "Alternative stone",
+        "'rock' (papa) general mineral. Represents solid earth"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "geological": {
+      "context_type": "geological",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.64,
+      "representative_glyphs": [
+        "B050"
+      ],
+      "common_meanings": [
+        "Angular mineral form: 'stone' (maea) individual rock",
+        "Stone or rock symbol",
+        "Alternative stone/mineral reference",
+        "Alternative stone",
+        "'rock' (papa) general mineral. Represents solid earth"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "methodology": {
+      "context_type": "methodology",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.442,
+      "representative_glyphs": [
+        "B060"
+      ],
+      "common_meanings": [
+        "ara",
+        "'road' (ara rahi) major route",
+        "Linear pathway concepts: 'path' (ara) trail",
+        "Method",
+        "Method or manner of doing"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "procedural": {
+      "context_type": "procedural",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.442,
+      "representative_glyphs": [
+        "B060"
+      ],
+      "common_meanings": [
+        "ara",
+        "'road' (ara rahi) major route",
+        "Linear pathway concepts: 'path' (ara) trail",
+        "Method",
+        "Method or manner of doing"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "travel": {
+      "context_type": "travel",
+      "glyph_count": 2,
+      "total_occurrences": 10,
+      "average_confidence": 0.501,
+      "representative_glyphs": [
+        "B100",
+        "B060"
+      ],
+      "common_meanings": [
+        "ara",
+        "'walk' (kōpeka) pedestrian movement",
+        "'travel' (rere) journey",
+        "'road' (ara rahi) major route",
+        "Locomotion concepts: 'leg' (va'e) anatomical limb",
+        "journey",
+        "Movement from place to place",
+        "Linear pathway concepts: 'path' (ara) trail",
+        "Method",
+        "Method or manner of doing"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "directional": {
+      "context_type": "directional",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.442,
+      "representative_glyphs": [
+        "B060"
+      ],
+      "common_meanings": [
+        "ara",
+        "'road' (ara rahi) major route",
+        "Linear pathway concepts: 'path' (ara) trail",
+        "Method",
+        "Method or manner of doing"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "cosmological": {
+      "context_type": "cosmological",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.56,
+      "representative_glyphs": [
+        "B061"
+      ],
+      "common_meanings": [
+        "--",
+        "color or quality determinative.",
+        "color",
+        "Celestial dome representation: 'sky' (rangi) during day",
+        "celestial dome"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "grammatical": {
+      "context_type": "grammatical",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.64,
+      "representative_glyphs": [
+        "B062"
+      ],
+      "common_meanings": [
+        "clause break",
+        "--",
+        "ki",
+        "clause break, punctuation",
+        "clause separator"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "historical": {
+      "context_type": "historical",
+      "glyph_count": 2,
+      "total_occurrences": 10,
+      "average_confidence": 0.699,
+      "representative_glyphs": [
+        "B700",
+        "B067"
+      ],
+      "common_meanings": [
+        "(rebus) victim",
+        "Updated interpretation",
+        "may also signify cycle",
+        "Tree-like glyph representing the extinct Easter Island palm",
+        "extinct palm",
+        "cycle",
+        "fish",
+        "cycle (repeat)",
+        "'victim' (kai) sacrifice target",
+        "Fish"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "cyclical": {
+      "context_type": "cyclical",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.64,
+      "representative_glyphs": [
+        "B067"
+      ],
+      "common_meanings": [
+        "may also signify cycle",
+        "Tree-like glyph representing the extinct Easter Island palm",
+        "extinct palm",
+        "cycle",
+        "cycle (repeat)"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "environmental": {
+      "context_type": "environmental",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.64,
+      "representative_glyphs": [
+        "B067"
+      ],
+      "common_meanings": [
+        "may also signify cycle",
+        "Tree-like glyph representing the extinct Easter Island palm",
+        "extinct palm",
+        "cycle",
+        "cycle (repeat)"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "divine_association": {
+      "context_type": "divine_association",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.72,
+      "representative_glyphs": [
+        "B068"
+      ],
+      "common_meanings": [
+        "reminiscent of the Chinese character '龜' (turtle).",
+        "Turtle pictograph",
+        "hohonu ika",
+        "deep water life",
+        "honu"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "divine": {
+      "context_type": "divine",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.68,
+      "representative_glyphs": [
+        "B069"
+      ],
+      "common_meanings": [
+        "Depicts a lizard",
+        "comparable to serpents in Mesoamerican day-signs (e.g.",
+        "'Chikchan').",
+        "gecko",
+        "Chikchan')."
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "meteorological": {
+      "context_type": "meteorological",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.68,
+      "representative_glyphs": [
+        "B069"
+      ],
+      "common_meanings": [
+        "Depicts a lizard",
+        "comparable to serpents in Mesoamerican day-signs (e.g.",
+        "'Chikchan').",
+        "gecko",
+        "Chikchan')."
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "reptilian": {
+      "context_type": "reptilian",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.68,
+      "representative_glyphs": [
+        "B069"
+      ],
+      "common_meanings": [
+        "Depicts a lizard",
+        "comparable to serpents in Mesoamerican day-signs (e.g.",
+        "'Chikchan').",
+        "gecko",
+        "Chikchan')."
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "implements": {
+      "context_type": "implements",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.56,
+      "representative_glyphs": [
+        "B070"
+      ],
+      "common_meanings": [
+        "instrument",
+        "'staff' (toko) authority rod",
+        "implement",
+        "General implement or instrument",
+        "General implement"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "tools": {
+      "context_type": "tools",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.56,
+      "representative_glyphs": [
+        "B070"
+      ],
+      "common_meanings": [
+        "instrument",
+        "'staff' (toko) authority rod",
+        "implement",
+        "General implement or instrument",
+        "General implement"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "authority_symbols": {
+      "context_type": "authority_symbols",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.56,
+      "representative_glyphs": [
+        "B070"
+      ],
+      "common_meanings": [
+        "instrument",
+        "'staff' (toko) authority rod",
+        "implement",
+        "General implement or instrument",
+        "General implement"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "fertility": {
+      "context_type": "fertility",
+      "glyph_count": 2,
+      "total_occurrences": 10,
+      "average_confidence": 0.68,
+      "representative_glyphs": [
+        "B090",
+        "B074"
+      ],
+      "common_meanings": [
+        "fruit",
+        "belly",
+        "State of being filled or complete",
+        "belly, pregnant, full",
+        "first quarter moon",
+        "State of being filled",
+        "complete",
+        "Hua",
+        "Hua (fruit)",
+        "Fruit glyph signifying first quarter moon."
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "sexual": {
+      "context_type": "sexual",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.758,
+      "representative_glyphs": [
+        "B076"
+      ],
+      "common_meanings": [
+        "'ai (copulate)",
+        "'ai' or 'fanau'",
+        "'procreate' (fanau) reproductive action",
+        "(genealogical) ‘begat’",
+        "'ai"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "relational": {
+      "context_type": "relational",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.758,
+      "representative_glyphs": [
+        "B076"
+      ],
+      "common_meanings": [
+        "'ai (copulate)",
+        "'ai' or 'fanau'",
+        "'procreate' (fanau) reproductive action",
+        "(genealogical) ‘begat’",
+        "'ai"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "reproductive": {
+      "context_type": "reproductive",
+      "glyph_count": 3,
+      "total_occurrences": 15,
+      "average_confidence": 0.719,
+      "representative_glyphs": [
+        "B090",
+        "B076",
+        "B610"
+      ],
+      "common_meanings": [
+        "belly",
+        "Cosmogonic symbolism: 'egg' (hua) reproductive structure",
+        "Egg",
+        "'ai (copulate)",
+        "State of being filled or complete",
+        "belly, pregnant, full",
+        "Oval “egg” glyph representing origin",
+        "'ai' or 'fanau'",
+        "State of being filled",
+        "'procreate' (fanau) reproductive action",
+        "complete",
+        "'origin' (mata) source",
+        "(genealogical) ‘begat’",
+        "Oval “egg” glyph representing origin or seed",
+        "'ai"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "maternal": {
+      "context_type": "maternal",
+      "glyph_count": 2,
+      "total_occurrences": 10,
+      "average_confidence": 0.62,
+      "representative_glyphs": [
+        "B080",
+        "B300"
+      ],
+      "common_meanings": [
+        "Anthropomorphic female figure representing woman",
+        "Feminine gender marker",
+        "Female designation: 'woman' (vi'e) adult female",
+        "appears in genealogies.",
+        "and nurturing concepts.",
+        "'nurture' (hanau) care function. Represents feminine",
+        "Female parent",
+        "'female' (vi'e) gender marker",
+        "Maternal symbolism: 'breast' (ūū) mammary gland",
+        "Anthropomorphic female figure representing woman or mother"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "gender": {
+      "context_type": "gender",
+      "glyph_count": 2,
+      "total_occurrences": 10,
+      "average_confidence": 0.62,
+      "representative_glyphs": [
+        "B080",
+        "B300"
+      ],
+      "common_meanings": [
+        "Anthropomorphic female figure representing woman",
+        "Feminine gender marker",
+        "Female designation: 'woman' (vi'e) adult female",
+        "appears in genealogies.",
+        "and nurturing concepts.",
+        "'nurture' (hanau) care function. Represents feminine",
+        "Female parent",
+        "'female' (vi'e) gender marker",
+        "Maternal symbolism: 'breast' (ūū) mammary gland",
+        "Anthropomorphic female figure representing woman or mother"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "nurturing": {
+      "context_type": "nurturing",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.64,
+      "representative_glyphs": [
+        "B080"
+      ],
+      "common_meanings": [
+        "Feminine gender marker",
+        "and nurturing concepts.",
+        "'nurture' (hanau) care function. Represents feminine",
+        "'female' (vi'e) gender marker",
+        "Maternal symbolism: 'breast' (ūū) mammary gland"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "completeness": {
+      "context_type": "completeness",
+      "glyph_count": 2,
+      "total_occurrences": 10,
+      "average_confidence": 0.699,
+      "representative_glyphs": [
+        "B090",
+        "B152"
+      ],
+      "common_meanings": [
+        "belly",
+        "Circular disk with internal markings",
+        "belly, pregnant, full",
+        "State of being filled or complete",
+        "State of being filled",
+        "complete",
+        "'Old Woman Lighting the Oven in the Sky'",
+        "Complete entity without parts missing",
+        "'complete' (oti) finished state",
+        "Full moon"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "locomotion": {
+      "context_type": "locomotion",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.56,
+      "representative_glyphs": [
+        "B100"
+      ],
+      "common_meanings": [
+        "'walk' (kōpeka) pedestrian movement",
+        "'travel' (rere) journey",
+        "Locomotion concepts: 'leg' (va'e) anatomical limb",
+        "Movement from place to place",
+        "journey"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "movement": {
+      "context_type": "movement",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.56,
+      "representative_glyphs": [
+        "B100"
+      ],
+      "common_meanings": [
+        "'walk' (kōpeka) pedestrian movement",
+        "'travel' (rere) journey",
+        "Locomotion concepts: 'leg' (va'e) anatomical limb",
+        "Movement from place to place",
+        "journey"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "authority": {
+      "context_type": "authority",
+      "glyph_count": 2,
+      "total_occurrences": 10,
+      "average_confidence": 0.659,
+      "representative_glyphs": [
+        "B200",
+        "B500"
+      ],
+      "common_meanings": [
+        "Updated interpretation",
+        "Chief",
+        "ariki",
+        "'elder' (koroua) senior member",
+        "'ruler' (hakakina) governor",
+        "Age",
+        "Advanced in age or time",
+        "Age/ancestry concepts: 'ancestor' (tupuna) forebear",
+        "Advanced in age",
+        "'king' (ariki henua) supreme authority"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "political": {
+      "context_type": "political",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.758,
+      "representative_glyphs": [
+        "B200"
+      ],
+      "common_meanings": [
+        "Updated interpretation",
+        "Chief",
+        "ariki",
+        "'ruler' (hakakina) governor",
+        "'king' (ariki henua) supreme authority"
+      ],
+      "tablets_attested": [
+        "Aruku Kurenga",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "longevity": {
+      "context_type": "longevity",
+      "glyph_count": 2,
+      "total_occurrences": 10,
+      "average_confidence": 0.659,
+      "representative_glyphs": [
+        "B280",
+        "B750"
+      ],
+      "common_meanings": [
+        "Turtle glyph",
+        "associated with god Rongo or dark moon",
+        "Very old",
+        "associated with god Rongo",
+        "appears in genealogies",
+        "ancient' (tawhito) very old",
+        "'ancient' (tawhito) very old",
+        "Very old or from distant past",
+        "ancient",
+        "appears in genealogies and lunar sequence."
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "social": {
+      "context_type": "social",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.6,
+      "representative_glyphs": [
+        "B300"
+      ],
+      "common_meanings": [
+        "Anthropomorphic female figure representing woman",
+        "Female designation: 'woman' (vi'e) adult female",
+        "appears in genealogies.",
+        "Female parent",
+        "Anthropomorphic female figure representing woman or mother"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "family": {
+      "context_type": "family",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.52,
+      "representative_glyphs": [
+        "B400"
+      ],
+      "common_meanings": [
+        "Small human figure indicating child",
+        "Descendants",
+        "Youth",
+        "'young' (ui) recent birth",
+        "Small human figure indicating child or offspring"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "ancestral": {
+      "context_type": "ancestral",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.56,
+      "representative_glyphs": [
+        "B500"
+      ],
+      "common_meanings": [
+        "'elder' (koroua) senior member",
+        "Age",
+        "Advanced in age or time",
+        "Age/ancestry concepts: 'ancestor' (tupuna) forebear",
+        "Advanced in age"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "bird_man_cult": {
+      "context_type": "bird_man_cult",
+      "glyph_count": 2,
+      "total_occurrences": 10,
+      "average_confidence": 0.612,
+      "representative_glyphs": [
+        "B600",
+        "B690"
+      ],
+      "common_meanings": [
+        "hybrid figure",
+        "Combined human-bird figure",
+        "Bird glyph",
+        "bird-man",
+        "Avian symbolism: 'bird' (manu) general avian",
+        "represents the Bird-Man of Orongo ceremonies.",
+        "(fig.) spirit",
+        "Specific seabird species",
+        "'frigatebird' (tavake) specific species",
+        "tangata manu"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "collective_spirits": {
+      "context_type": "collective_spirits",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.758,
+      "representative_glyphs": [
+        "B606"
+      ],
+      "common_meanings": [
+        "6 (hand)",
+        "Composite of 600 (bird)",
+        "Birds (plural)",
+        "'flock' (puhi manu) group flying together",
+        "(fig.) spirits (plural marker with ‘hand’)"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "plural_construction": {
+      "context_type": "plural_construction",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.758,
+      "representative_glyphs": [
+        "B606"
+      ],
+      "common_meanings": [
+        "6 (hand)",
+        "Composite of 600 (bird)",
+        "Birds (plural)",
+        "'flock' (puhi manu) group flying together",
+        "(fig.) spirits (plural marker with ‘hand’)"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "cosmogonic": {
+      "context_type": "cosmogonic",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.758,
+      "representative_glyphs": [
+        "B610"
+      ],
+      "common_meanings": [
+        "Cosmogonic symbolism: 'egg' (hua) reproductive structure",
+        "Egg",
+        "Oval “egg” glyph representing origin",
+        "'origin' (mata) source",
+        "Oval “egg” glyph representing origin or seed"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "origin": {
+      "context_type": "origin",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.758,
+      "representative_glyphs": [
+        "B610"
+      ],
+      "common_meanings": [
+        "Cosmogonic symbolism: 'egg' (hua) reproductive structure",
+        "Egg",
+        "Oval “egg” glyph representing origin",
+        "'origin' (mata) source",
+        "Oval “egg” glyph representing origin or seed"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "contextual": {
+      "context_type": "contextual",
+      "glyph_count": 1,
+      "total_occurrences": 3,
+      "average_confidence": 0.45,
+      "representative_glyphs": [
+        "B680"
+      ],
+      "common_meanings": [
+        "variable meaning context-dependent",
+        "context-dependent",
+        "variable meaning"
+      ],
+      "tablets_attested": [
+        "Santiago Staff"
+      ],
+      "cross_verified": false
+    },
+    "variable": {
+      "context_type": "variable",
+      "glyph_count": 1,
+      "total_occurrences": 3,
+      "average_confidence": 0.45,
+      "representative_glyphs": [
+        "B680"
+      ],
+      "common_meanings": [
+        "variable meaning context-dependent",
+        "context-dependent",
+        "variable meaning"
+      ],
+      "tablets_attested": [
+        "Santiago Staff"
+      ],
+      "cross_verified": false
+    },
+    "ceremonial": {
+      "context_type": "ceremonial",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.466,
+      "representative_glyphs": [
+        "B690"
+      ],
+      "common_meanings": [
+        "hybrid figure",
+        "Combined human-bird figure",
+        "bird-man",
+        "represents the Bird-Man of Orongo ceremonies.",
+        "tangata manu"
+      ],
+      "tablets_attested": [
+        "Santiago Staff"
+      ],
+      "cross_verified": false
+    },
+    "sacrificial": {
+      "context_type": "sacrificial",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.758,
+      "representative_glyphs": [
+        "B700"
+      ],
+      "common_meanings": [
+        "(rebus) victim",
+        "Updated interpretation",
+        "fish",
+        "'victim' (kai) sacrifice target",
+        "Fish"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "dangerous": {
+      "context_type": "dangerous",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.52,
+      "representative_glyphs": [
+        "B710"
+      ],
+      "common_meanings": [
+        "Fish with fierce teeth",
+        "Aggressive",
+        "danger",
+        "Aggressive or violent in nature",
+        "'dangerous' (kino) threat level"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "aggressive": {
+      "context_type": "aggressive",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.52,
+      "representative_glyphs": [
+        "B710"
+      ],
+      "common_meanings": [
+        "Fish with fierce teeth",
+        "Aggressive",
+        "danger",
+        "Aggressive or violent in nature",
+        "'dangerous' (kino) threat level"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "marine_predator": {
+      "context_type": "marine_predator",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.52,
+      "representative_glyphs": [
+        "B710"
+      ],
+      "common_meanings": [
+        "Fish with fierce teeth",
+        "Aggressive",
+        "danger",
+        "Aggressive or violent in nature",
+        "'dangerous' (kino) threat level"
+      ],
+      "tablets_attested": [
+        "Santiago Staff",
+        "Small Santiago"
+      ],
+      "cross_verified": true
+    },
+    "size_designation": {
+      "context_type": "size_designation",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.52,
+      "representative_glyphs": [
+        "B730"
+      ],
+      "common_meanings": [
+        "large shark",
+        "important catch",
+        "ika nui",
+        "large fish",
+        "great shark"
+      ],
+      "tablets_attested": [
+        "Santiago Staff"
+      ],
+      "cross_verified": false
+    },
+    "marine_resources": {
+      "context_type": "marine_resources",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.52,
+      "representative_glyphs": [
+        "B730"
+      ],
+      "common_meanings": [
+        "large shark",
+        "important catch",
+        "ika nui",
+        "large fish",
+        "great shark"
+      ],
+      "tablets_attested": [
+        "Santiago Staff"
+      ],
+      "cross_verified": false
+    },
+    "marine_reptile": {
+      "context_type": "marine_reptile",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.56,
+      "representative_glyphs": [
+        "B750"
+      ],
+      "common_meanings": [
+        "Very old",
+        "ancient' (tawhito) very old",
+        "'ancient' (tawhito) very old",
+        "Very old or from distant past",
+        "ancient"
+      ],
+      "tablets_attested": [
+        "Mamari",
+        "Santiago Staff"
+      ],
+      "cross_verified": true
+    },
+    "cephalopod": {
+      "context_type": "cephalopod",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.442,
+      "representative_glyphs": [
+        "B800"
+      ],
+      "common_meanings": [
+        "Flexible arm-like appendage",
+        "Octopus or tentacle glyph",
+        "denotes octopus or tentacles.",
+        "eight-armed creature",
+        "denotes octopus"
+      ],
+      "tablets_attested": [
+        "Santiago Staff"
+      ],
+      "cross_verified": false
+    },
+    "grasping": {
+      "context_type": "grasping",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.442,
+      "representative_glyphs": [
+        "B800"
+      ],
+      "common_meanings": [
+        "Flexible arm-like appendage",
+        "Octopus or tentacle glyph",
+        "denotes octopus or tentacles.",
+        "eight-armed creature",
+        "denotes octopus"
+      ],
+      "tablets_attested": [
+        "Santiago Staff"
+      ],
+      "cross_verified": false
+    },
+    "marine_complex": {
+      "context_type": "marine_complex",
+      "glyph_count": 1,
+      "total_occurrences": 5,
+      "average_confidence": 0.442,
+      "representative_glyphs": [
+        "B800"
+      ],
+      "common_meanings": [
+        "Flexible arm-like appendage",
+        "Octopus or tentacle glyph",
+        "denotes octopus or tentacles.",
+        "eight-armed creature",
+        "denotes octopus"
+      ],
+      "tablets_attested": [
+        "Santiago Staff"
+      ],
+      "cross_verified": false
+    }
+  },
+  "ethnographic_frames": {
+    "genealogical_system": {
+      "domain": "Genealogy and Kinship",
+      "description": "Royal and chiefly lineages, succession patterns",
+      "key_concepts": [
+        "ariki (chief/king)",
+        "ariki henua (paramount chief)",
+        "genealogical succession",
+        "parent-child relationships",
+        "generational markers"
+      ],
+      "evidence_sources": [
+        "Santiago Staff (ceremonial genealogy)",
+        "Tablet G (Small Santiago) - royal lineage",
+        "Tablets K, A - parallel genealogies",
+        "PDF Phase 14: Genealogical formulas"
+      ],
+      "script_patterns": [
+        "NAME_A [marker] NAME_B (kinship)",
+        "TITLE + NAME (e.g., Ariki NAME)",
+        "Sequential listing with implied relationships"
+      ],
+      "confidence": "high",
+      "cross_verified": true
+    },
+    "astronomical_calendar": {
+      "domain": "Astronomy and Time-Reckoning",
+      "description": "Lunar cycles, celestial observations, calendar systems",
+      "key_concepts": [
+        "lunar phases (28-30 nights)",
+        "month names",
+        "day/night terminology",
+        "seasonal markers",
+        "celestial bodies (moon, sun, stars)"
+      ],
+      "evidence_sources": [
+        "Mamari Tablet (Text C) - confirmed lunar calendar",
+        "CalendarBank: 32 entries across tablets",
+        "PDF Phase 12: Calendric systems"
+      ],
+      "script_patterns": [
+        "Sequential lunar phase glyphs",
+        "Night/day name sequences",
+        "Temporal markers"
+      ],
+      "confidence": "high",
+      "cross_verified": true
+    },
+    "marine_environment": {
+      "domain": "Marine Life and Ocean Resources",
+      "description": "Fish, sea creatures, maritime activities",
+      "key_concepts": [
+        "fish species",
+        "turtle (honu)",
+        "shark",
+        "octopus",
+        "marine resources",
+        "ocean/sea"
+      ],
+      "evidence_sources": [
+        "SenseBank: 80 marine-context glyphs",
+        "Multiple tablet attestations",
+        "Polynesian cultural context"
+      ],
+      "script_patterns": [
+        "Marine creature glyphs in lists",
+        "Resource enumeration"
+      ],
+      "confidence": "moderate",
+      "cross_verified": true
+    },
+    "avian_symbolism": {
+      "domain": "Birds and Avian Imagery",
+      "description": "Birds as symbols, especially frigatebirds",
+      "key_concepts": [
+        "frigatebird (tavake) - spirit symbolism",
+        "sooty tern",
+        "bird man cult",
+        "flight/wing imagery",
+        "flock/plurality"
+      ],
+      "evidence_sources": [
+        "Multiple bird glyphs in lexicon",
+        "Frigatebird with high confidence (0.95)",
+        "Rapa Nui bird cult ethnography"
+      ],
+      "script_patterns": [
+        "Bird glyphs with plural markers",
+        "Spiritual/symbolic contexts"
+      ],
+      "confidence": "moderate",
+      "cross_verified": true
+    },
+    "ritual_religious": {
+      "domain": "Ritual and Religious Practices",
+      "description": "Sacred knowledge, ceremonial contexts",
+      "key_concepts": [
+        "sacred/holy",
+        "ritual ceremonies",
+        "priests/religious specialists",
+        "gods/deities",
+        "spiritual practices"
+      ],
+      "evidence_sources": [
+        "SenseBank: 87 ritual-context glyphs",
+        "Santiago Staff as ceremonial text",
+        "PDF: Rongorongo as sacred knowledge system"
+      ],
+      "script_patterns": [
+        "Ceremonial formulas",
+        "Sacred name sequences"
+      ],
+      "confidence": "moderate",
+      "cross_verified": true
+    },
+    "social_hierarchy": {
+      "domain": "Social Structure and Rank",
+      "description": "Chiefs, nobles, status markers",
+      "key_concepts": [
+        "ariki (chief)",
+        "nobility/high status",
+        "ranks and titles",
+        "leadership",
+        "social stratification"
+      ],
+      "evidence_sources": [
+        "SenseBank: 69 social hierarchy glyphs",
+        "Royal genealogy tablets",
+        "Chief markers in script"
+      ],
+      "script_patterns": [
+        "Title + Name formula",
+        "Chief glyph (headdress variant)",
+        "Status indicators"
+      ],
+      "confidence": "high",
+      "cross_verified": true
+    }
+  },
+  "cross_domain_patterns": {
+    "genealogy_plus_astronomy": {
+      "description": "Genealogies often include temporal markers",
+      "domains": [
+        "genealogical_system",
+        "astronomical_calendar"
+      ],
+      "evidence": "Some tablets show genealogical sequences with temporal/seasonal markers",
+      "confidence": "moderate",
+      "note": "May indicate birth dates or reign periods"
+    },
+    "marine_plus_genealogy": {
+      "description": "Marine creatures appear in some genealogical contexts",
+      "domains": [
+        "genealogical_system",
+        "marine_environment"
+      ],
+      "evidence": "Turtle glyph (B280) appears in genealogies with 0.95 confidence",
+      "confidence": "moderate",
+      "note": "Possible totemic or ancestral connections"
+    },
+    "birds_plus_ritual": {
+      "description": "Avian imagery in ritual/spiritual contexts",
+      "domains": [
+        "avian_symbolism",
+        "ritual_religious"
+      ],
+      "evidence": "Frigatebird as spirit symbol, bird cult practices",
+      "confidence": "high",
+      "note": "Well-documented in Rapa Nui ethnography"
+    },
+    "hierarchy_plus_genealogy": {
+      "description": "Social hierarchy embedded in genealogical records",
+      "domains": [
+        "genealogical_system",
+        "social_hierarchy"
+      ],
+      "evidence": "Consistent use of chief markers in royal lineages",
+      "confidence": "high",
+      "note": "Genealogies record political authority"
+    }
+  },
+  "confidence_assessment": {
+    "methodology": "Evidence-based, cross-verified, conservative",
+    "principles": [
+      "No forced interpretations",
+      "Natural pattern emergence from data",
+      "Multi-source verification required",
+      "Acknowledge uncertainty where present"
+    ],
+    "confidence_levels": {
+      "high": "Multiple tablets, consistent patterns, ethnographic support",
+      "moderate": "2+ tablets OR strong ethnographic support",
+      "low": "Single source or limited attestation",
+      "speculative": "Marked as hypothesis, needs verification"
+    },
+    "limitations": [
+      "Proto-writing ambiguity - some meanings implicit",
+      "Incomplete corpus - many tablets lost",
+      "Oral tradition gap - script is mnemonic aid",
+      "Cultural context partially reconstructed"
+    ],
+    "validation_criteria": {
+      "cross_tablet": "Same pattern on multiple tablets",
+      "cross_context": "Multiple semantic contexts support meaning",
+      "ethnographic": "Supported by known Rapa Nui culture",
+      "linguistic": "Consistent with Polynesian patterns"
+    }
+  },
+  "summary": {
+    "cultural_contexts_identified": 111,
+    "ethnographic_frames": 6,
+    "cross_domain_patterns": 4,
+    "high_confidence_domains": 3,
+    "cross_verified_contexts": 98
+  }
+}

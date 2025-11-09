@@ -1,0 +1,3212 @@
+{
+  "metadata": {
+    "phase": "14 - Proto-Grammar",
+    "description": "Grammatical structure analysis of Rongorongo script",
+    "methodology": "Based on lexicon analysis, PDF insights, and Polynesian linguistic patterns",
+    "confidence": "moderate - proto-writing nature limits grammatical analysis",
+    "date": "2025-10-28"
+  },
+  "script_nature": {
+    "type": "Proto-writing / Mnemonic device",
+    "characteristics": [
+      "Logographic (not fully phonetic)",
+      "Elliptical style (omits grammatical particles)",
+      "Context-dependent interpretation",
+      "Encodes key concept-words for oral expansion"
+    ],
+    "implication": "Grammar is partially implicit, inferred by knowledgeable reader"
+  },
+  "function_classes": {
+    "nouns": [
+      {
+        "glyph": "B004",
+        "meanings": [
+          "horizontal line representing oral cavity",
+          "haha",
+          "kupu",
+          "kī",
+          "language"
+        ],
+        "primary_meaning": "horizontal line representing oral cavity",
+        "contexts": [
+          "anatomical",
+          "speech",
+          "communication",
+          "linguistic"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B005",
+        "meanings": [
+          "action derived from arm extension",
+          "arm",
+          "arm, reach",
+          "extend",
+          "reach"
+        ],
+        "primary_meaning": "action derived from arm extension",
+        "contexts": [
+          "physical_extension",
+          "action",
+          "anatomical",
+          "object"
+        ],
+        "confidence": 0.65
+      },
+      {
+        "glyph": "B013",
+        "meanings": [
+          "symbol for cave",
+          "symbol for cave or burial tomb",
+          "burial place",
+          "burial tomb",
+          "cave"
+        ],
+        "primary_meaning": "symbol for cave",
+        "contexts": [
+          "burial",
+          "shelter",
+          "death_ritual",
+          "anatomical",
+          "ritual"
+        ],
+        "confidence": 0.85
+      },
+      {
+        "glyph": "B015",
+        "meanings": [
+          "canoe",
+          "vessel"
+        ],
+        "primary_meaning": "canoe",
+        "contexts": [
+          "object"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B018",
+        "meanings": [
+          "fruit",
+          "yield"
+        ],
+        "primary_meaning": "fruit",
+        "contexts": [
+          "astronomical",
+          "agricultural"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B019",
+        "meanings": [
+          "tuber",
+          "yam"
+        ],
+        "primary_meaning": "tuber",
+        "contexts": [
+          "agricultural",
+          "anatomical"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B021",
+        "meanings": [
+          "banana",
+          "plantain"
+        ],
+        "primary_meaning": "banana",
+        "contexts": [
+          "agricultural",
+          "anatomical"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B024",
+        "meanings": [
+          "fishhook",
+          "hook"
+        ],
+        "primary_meaning": "fishhook",
+        "contexts": [
+          "anatomical",
+          "marine",
+          "object"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B031",
+        "meanings": [
+          "earth",
+          "land"
+        ],
+        "primary_meaning": "earth",
+        "contexts": [
+          "anatomical",
+          "marine"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B033",
+        "meanings": [
+          "cook",
+          "fire (flame)"
+        ],
+        "primary_meaning": "cook",
+        "contexts": [
+          "astronomical",
+          "anatomical",
+          "human_classification"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B037",
+        "meanings": [
+          "bird (small)",
+          "land bird"
+        ],
+        "primary_meaning": "bird (small)",
+        "contexts": [
+          "bird"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B045",
+        "meanings": [
+          "dark moon",
+          "moon (new)"
+        ],
+        "primary_meaning": "dark moon",
+        "contexts": [
+          "astronomical"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B046",
+        "meanings": [
+          "bright",
+          "full moon (face)"
+        ],
+        "primary_meaning": "bright",
+        "contexts": [
+          "astronomical",
+          "anatomical",
+          "bird",
+          "human_classification"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B047",
+        "meanings": [
+          "cycle (month)",
+          "month"
+        ],
+        "primary_meaning": "cycle (month)",
+        "contexts": [
+          "astronomical",
+          "anatomical",
+          "bird",
+          "calendrical"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B051",
+        "meanings": [
+          "earthquake",
+          "shake"
+        ],
+        "primary_meaning": "earthquake",
+        "contexts": [
+          "anatomical"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B052",
+        "meanings": [
+          "path",
+          "way"
+        ],
+        "primary_meaning": "path",
+        "contexts": [
+          "anatomical"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B072",
+        "meanings": [
+          "glyph corresponding to sprout",
+          "glyph corresponding to sprout or night name hotu",
+          "hotu (sprout)",
+          "appears near dark moon period.",
+          "night name hotu"
+        ],
+        "primary_meaning": "glyph corresponding to sprout",
+        "contexts": [
+          "astronomical",
+          "agricultural",
+          "anatomical",
+          "calendrical"
+        ],
+        "confidence": 0.5
+      },
+      {
+        "glyph": "B620",
+        "meanings": [
+          "glyph 620 - awaiting decipherment"
+        ],
+        "primary_meaning": "glyph 620 - awaiting decipherment",
+        "contexts": [
+          "anatomical",
+          "bird"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B710",
+        "meanings": [
+          "'dangerous' (kino) threat level",
+          "aggressive",
+          "aggressive or violent in nature",
+          "fish with fierce teeth",
+          "danger"
+        ],
+        "primary_meaning": "'dangerous' (kino) threat level",
+        "contexts": [
+          "aggressive",
+          "marine_predator",
+          "marine",
+          "dangerous"
+        ],
+        "confidence": 0.65
+      },
+      {
+        "glyph": "B800",
+        "meanings": [
+          "flexible arm-like appendage",
+          "octopus or tentacle glyph",
+          "denotes octopus",
+          "denotes octopus or tentacles.",
+          "eight-armed creature"
+        ],
+        "primary_meaning": "flexible arm-like appendage",
+        "contexts": [
+          "marine_complex",
+          "anatomical",
+          "marine",
+          "cephalopod",
+          "grasping"
+        ],
+        "confidence": 0.55
+      }
+    ],
+    "verbs": [
+      {
+        "glyph": "B003",
+        "meanings": [
+          "direct anatomical reference",
+          "eye",
+          "eye, see, watch",
+          "kite",
+          "mata"
+        ],
+        "primary_meaning": "direct anatomical reference",
+        "contexts": [
+          "vision",
+          "anatomical",
+          "perception",
+          "awareness",
+          "action"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B006",
+        "meanings": [
+          "hand glyph used as plural",
+          "hand glyph used as plural or collective marker",
+          "multi-functional glyph: anatomical 'hand' (rima)",
+          "updated interpretation",
+          "attaches to nouns to indicate many."
+        ],
+        "primary_meaning": "hand glyph used as plural",
+        "contexts": [
+          "quantifier",
+          "anatomical",
+          "grammatical_plural",
+          "social_hierarchy",
+          "numerical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B008",
+        "meanings": [
+          "'fire' (ahi) for heat/light",
+          "'star' (hetu'u) alternative",
+          "radiating circular glyph for the sun",
+          "updated interpretation",
+          "a star."
+        ],
+        "primary_meaning": "'fire' (ahi) for heat/light",
+        "contexts": [
+          "temporal",
+          "astronomical",
+          "anatomical",
+          "calendrical",
+          "social_hierarchy",
+          "celestial",
+          "luminous",
+          "action"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B009",
+        "meanings": [
+          "anakena",
+          "represents sand",
+          "represents sand or beach",
+          "updated interpretation",
+          "beach"
+        ],
+        "primary_meaning": "anakena",
+        "contexts": [
+          "navigation",
+          "anatomical",
+          "social_hierarchy",
+          "endpoint_marker",
+          "geographic",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B010",
+        "meanings": [
+          "'lunar' adjectival form",
+          "adjectival form related to moon",
+          "crescent lunar glyph: 'moon' (māhina) celestial body",
+          "crescent-shaped glyph denoting the moon",
+          "crescent-shaped glyph denoting the moon or month"
+        ],
+        "primary_meaning": "'lunar' adjectival form",
+        "contexts": [
+          "temporal",
+          "astronomical",
+          "anatomical",
+          "calendrical",
+          "numerical",
+          "celestial",
+          "lunar_calendar",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B011",
+        "meanings": [
+          "large marine creature symbol",
+          "ika iti",
+          "marine life",
+          "marine predator",
+          "niuhi/pakia"
+        ],
+        "primary_meaning": "large marine creature symbol",
+        "contexts": [
+          "totemic",
+          "anatomical",
+          "marine",
+          "mythological",
+          "ritual",
+          "action",
+          "genealogical",
+          "marine_life"
+        ],
+        "confidence": 0.6
+      },
+      {
+        "glyph": "B012",
+        "meanings": [
+          "fish pictograph",
+          "aquatic motion",
+          "fish",
+          "fish (verb)",
+          "ika"
+        ],
+        "primary_meaning": "fish pictograph",
+        "contexts": [
+          "aquatic",
+          "creation_mythology",
+          "anatomical",
+          "marine",
+          "calendrical",
+          "action",
+          "marine_life"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B014",
+        "meanings": [
+          "entrance",
+          "gate"
+        ],
+        "primary_meaning": "entrance",
+        "contexts": [
+          "ritual",
+          "action"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B016",
+        "meanings": [
+          "general marine life symbol",
+          "specific fish glyph identified as tuna",
+          "appears with tangaroa as tuna incarnation.",
+          "kahi",
+          "marine creature"
+        ],
+        "primary_meaning": "general marine life symbol",
+        "contexts": [
+          "anatomical",
+          "marine",
+          "ritual",
+          "action",
+          "divine_incarnation",
+          "marine_life"
+        ],
+        "confidence": 0.6
+      },
+      {
+        "glyph": "B017",
+        "meanings": [
+          "constellation",
+          "star cluster"
+        ],
+        "primary_meaning": "constellation",
+        "contexts": [
+          "astronomical",
+          "action"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B022",
+        "meanings": [
+          "birdman",
+          "human-bird"
+        ],
+        "primary_meaning": "birdman",
+        "contexts": [
+          "ritual",
+          "bird",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B023",
+        "meanings": [
+          "egg (small)",
+          "seed"
+        ],
+        "primary_meaning": "egg (small)",
+        "contexts": [
+          "action"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B026",
+        "meanings": [
+          "ear ornament",
+          "pendant"
+        ],
+        "primary_meaning": "ear ornament",
+        "contexts": [
+          "anatomical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B028",
+        "meanings": [
+          "beat",
+          "drum"
+        ],
+        "primary_meaning": "beat",
+        "contexts": [
+          "action"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B029",
+        "meanings": [
+          "conch shell",
+          "trumpet"
+        ],
+        "primary_meaning": "conch shell",
+        "contexts": [
+          "ritual",
+          "marine",
+          "action"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B032",
+        "meanings": [
+          "marks divisions",
+          "marks divisions or section starts",
+          "updated interpretation",
+          "begin",
+          "beginning"
+        ],
+        "primary_meaning": "marks divisions",
+        "contexts": [
+          "textual_organization",
+          "structural",
+          "anatomical",
+          "action",
+          "social_hierarchy",
+          "genealogical",
+          "astronomical",
+          "punctuation"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B038",
+        "meanings": [
+          "adornment",
+          "feather"
+        ],
+        "primary_meaning": "adornment",
+        "contexts": [
+          "anatomical",
+          "social_hierarchy",
+          "bird",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B042",
+        "meanings": [
+          "octopus (alt.)",
+          "tentacles"
+        ],
+        "primary_meaning": "octopus (alt.)",
+        "contexts": [
+          "ritual",
+          "anatomical",
+          "marine",
+          "action"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B043",
+        "meanings": [
+          "hammerhead?",
+          "shark (alt.)"
+        ],
+        "primary_meaning": "hammerhead?",
+        "contexts": [
+          "anatomical",
+          "marine",
+          "action"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B060",
+        "meanings": [
+          "'road' (ara rahi) major route",
+          "linear pathway concepts: 'path' (ara) trail",
+          "method",
+          "method or manner of doing",
+          "ara"
+        ],
+        "primary_meaning": "'road' (ara rahi) major route",
+        "contexts": [
+          "human_classification",
+          "directional",
+          "anatomical",
+          "action",
+          "object",
+          "travel",
+          "methodology",
+          "procedural"
+        ],
+        "confidence": 0.55
+      },
+      {
+        "glyph": "B061",
+        "meanings": [
+          "--",
+          "celestial dome representation: 'sky' (rangi) during day",
+          "celestial dome",
+          "color",
+          "color or quality determinative."
+        ],
+        "primary_meaning": "--",
+        "contexts": [
+          "cosmological",
+          "temporal",
+          "astronomical",
+          "anatomical",
+          "calendrical",
+          "celestial",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "glyph": "B062",
+        "meanings": [
+          "--",
+          "clause break",
+          "clause break, punctuation",
+          "clause separator",
+          "ki"
+        ],
+        "primary_meaning": "--",
+        "contexts": [
+          "structural",
+          "anatomical",
+          "action",
+          "grammatical",
+          "astronomical",
+          "punctuation"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B068",
+        "meanings": [
+          "turtle pictograph",
+          "deep water life",
+          "hohonu ika",
+          "honu",
+          "reminiscent of the chinese character '龜' (turtle)."
+        ],
+        "primary_meaning": "turtle pictograph",
+        "contexts": [
+          "divine_association",
+          "marine",
+          "anatomical",
+          "mythological",
+          "ritual",
+          "action",
+          "genealogical",
+          "marine_life"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B069",
+        "meanings": [
+          "'chikchan').",
+          "chikchan').",
+          "depicts a lizard",
+          "comparable to serpents in mesoamerican day-signs (e.g.",
+          "gecko"
+        ],
+        "primary_meaning": "'chikchan').",
+        "contexts": [
+          "calendrical",
+          "divine",
+          "ritual",
+          "meteorological",
+          "reptilian",
+          "astronomical",
+          "lunar_calendar",
+          "action"
+        ],
+        "confidence": 0.85
+      },
+      {
+        "glyph": "B073",
+        "meanings": [
+          "glyph representing a deity",
+          "glyph representing a deity or night name otua",
+          "otua (deity figure)",
+          "anthropomorphic figure.",
+          "night name otua"
+        ],
+        "primary_meaning": "glyph representing a deity",
+        "contexts": [
+          "astronomical",
+          "ritual",
+          "action"
+        ],
+        "confidence": 0.5
+      },
+      {
+        "glyph": "B074",
+        "meanings": [
+          "fruit glyph signifying first quarter moon.",
+          "hua",
+          "hua (fruit)",
+          "first quarter moon",
+          "fruit"
+        ],
+        "primary_meaning": "fruit glyph signifying first quarter moon.",
+        "contexts": [
+          "temporal",
+          "astronomical",
+          "fertility",
+          "calendrical",
+          "botanical",
+          "lunar_calendar",
+          "action"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B076",
+        "meanings": [
+          "'ai",
+          "'ai (copulate)",
+          "'ai' or 'fanau'",
+          "'procreate' (fanau) reproductive action",
+          "(genealogical) ‘begat’"
+        ],
+        "primary_meaning": "'ai",
+        "contexts": [
+          "reproductive",
+          "human_classification",
+          "anatomical",
+          "relational",
+          "social_hierarchy",
+          "genealogical",
+          "sexual",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B090",
+        "meanings": [
+          "state of being filled",
+          "state of being filled or complete",
+          "belly",
+          "belly, pregnant, full",
+          "complete"
+        ],
+        "primary_meaning": "state of being filled",
+        "contexts": [
+          "anatomical",
+          "fertility",
+          "completeness",
+          "reproductive",
+          "action"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B152",
+        "meanings": [
+          "'old woman lighting the oven in the sky'",
+          "'complete' (oti) finished state",
+          "circular disk with internal markings",
+          "complete entity without parts missing",
+          "full moon"
+        ],
+        "primary_meaning": "'old woman lighting the oven in the sky'",
+        "contexts": [
+          "calendrical",
+          "mythological",
+          "astronomical",
+          "lunar_calendar",
+          "completeness",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B200",
+        "meanings": [
+          "'king' (ariki henua) supreme authority",
+          "'ruler' (hakakina) governor",
+          "chief",
+          "updated interpretation",
+          "ariki"
+        ],
+        "primary_meaning": "'king' (ariki henua) supreme authority",
+        "contexts": [
+          "authority",
+          "anatomical",
+          "political",
+          "social_hierarchy",
+          "genealogical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B280",
+        "meanings": [
+          "turtle glyph",
+          "appears in genealogies",
+          "appears in genealogies and lunar sequence.",
+          "associated with god rongo",
+          "associated with god rongo or dark moon"
+        ],
+        "primary_meaning": "turtle glyph",
+        "contexts": [
+          "anatomical",
+          "marine",
+          "calendrical",
+          "action",
+          "ritual",
+          "genealogical",
+          "numerical",
+          "astronomical",
+          "lunar_calendar",
+          "longevity",
+          "human_classification",
+          "marine_life"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B300",
+        "meanings": [
+          "anthropomorphic female figure representing woman",
+          "anthropomorphic female figure representing woman or mother",
+          "female designation: 'woman' (vi'e) adult female",
+          "female parent",
+          "appears in genealogies."
+        ],
+        "primary_meaning": "anthropomorphic female figure representing woman",
+        "contexts": [
+          "social",
+          "maternal",
+          "anatomical",
+          "gender",
+          "genealogical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B600",
+        "meanings": [
+          "'frigatebird' (tavake) specific species",
+          "(fig.) spirit",
+          "avian symbolism: 'bird' (manu) general avian",
+          "bird glyph",
+          "specific seabird species"
+        ],
+        "primary_meaning": "'frigatebird' (tavake) specific species",
+        "contexts": [
+          "ornithological",
+          "bird_man_cult",
+          "creation_mythology",
+          "marine",
+          "sacred",
+          "ritual",
+          "bird",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B606",
+        "meanings": [
+          "'flock' (puhi manu) group flying together",
+          "(fig.) spirits (plural marker with ‘hand’)",
+          "6 (hand)",
+          "birds (plural)",
+          "composite of 600 (bird)"
+        ],
+        "primary_meaning": "'flock' (puhi manu) group flying together",
+        "contexts": [
+          "ornithological",
+          "collective_spirits",
+          "creation_mythology",
+          "anatomical",
+          "ritual",
+          "social_hierarchy",
+          "numerical",
+          "plural_construction",
+          "bird",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B610",
+        "meanings": [
+          "'origin' (mata) source",
+          "cosmogonic symbolism: 'egg' (hua) reproductive structure",
+          "egg",
+          "oval “egg” glyph representing origin",
+          "oval “egg” glyph representing origin or seed"
+        ],
+        "primary_meaning": "'origin' (mata) source",
+        "contexts": [
+          "cosmogonic",
+          "creation_mythology",
+          "anatomical",
+          "astronomical",
+          "origin",
+          "reproductive",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B690",
+        "meanings": [
+          "combined human-bird figure",
+          "bird-man",
+          "hybrid figure",
+          "represents the bird-man of orongo ceremonies.",
+          "tangata manu"
+        ],
+        "primary_meaning": "combined human-bird figure",
+        "contexts": [
+          "bird_man_cult",
+          "ritual",
+          "action",
+          "bird",
+          "human_classification",
+          "ceremonial"
+        ],
+        "confidence": 0.58
+      },
+      {
+        "glyph": "B700",
+        "meanings": [
+          "'victim' (kai) sacrifice target",
+          "(rebus) victim",
+          "fish",
+          "updated interpretation",
+          "fish"
+        ],
+        "primary_meaning": "'victim' (kai) sacrifice target",
+        "contexts": [
+          "sacrificial",
+          "anatomical",
+          "marine",
+          "mythological",
+          "agricultural",
+          "marine_life",
+          "ritual",
+          "social_hierarchy",
+          "historical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B730",
+        "meanings": [
+          "great shark",
+          "ika nui",
+          "important catch",
+          "large fish",
+          "large shark"
+        ],
+        "primary_meaning": "great shark",
+        "contexts": [
+          "marine_resources",
+          "anatomical",
+          "marine",
+          "size_designation",
+          "ritual",
+          "genealogical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.65
+      },
+      {
+        "glyph": "B999",
+        "meanings": [
+          "updated interpretation",
+          "end marker",
+          "paragraph break (non-lexical)",
+          "punctuation",
+          "section divider"
+        ],
+        "primary_meaning": "updated interpretation",
+        "contexts": [
+          "textual_organization",
+          "structural",
+          "action",
+          "social_hierarchy",
+          "genealogical",
+          "punctuation"
+        ],
+        "confidence": 0.9
+      }
+    ],
+    "particles": [
+      {
+        "glyph": "B001",
+        "meanings": [
+          "alternative translation of basic anthropomorphic glyph",
+          "basic human figure representing a person",
+          "basic human figure representing a person or ancestor",
+          "ancestor",
+          "appears in genealogical lists."
+        ],
+        "primary_meaning": "alternative translation of basic anthropomorphic glyph",
+        "contexts": [
+          "anatomical",
+          "social_hierarchy",
+          "genealogical",
+          "human_classification"
+        ],
+        "confidence": 0.85
+      },
+      {
+        "glyph": "B002",
+        "meanings": [
+          "alternative interpretation focusing on facial aspect",
+          "face",
+          "head",
+          "head, face",
+          "identity"
+        ],
+        "primary_meaning": "alternative interpretation focusing on facial aspect",
+        "contexts": [
+          "anatomical",
+          "identity_recognition",
+          "social_hierarchy"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "glyph": "B006",
+        "meanings": [
+          "hand glyph used as plural",
+          "hand glyph used as plural or collective marker",
+          "multi-functional glyph: anatomical 'hand' (rima)",
+          "updated interpretation",
+          "attaches to nouns to indicate many."
+        ],
+        "primary_meaning": "hand glyph used as plural",
+        "contexts": [
+          "quantifier",
+          "anatomical",
+          "grammatical_plural",
+          "social_hierarchy",
+          "numerical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B007",
+        "meanings": [
+          "anthropomorphic figure representing child",
+          "anthropomorphic figure representing child or descendant",
+          "updated interpretation",
+          "child",
+          "child, descendant"
+        ],
+        "primary_meaning": "anthropomorphic figure representing child",
+        "contexts": [
+          "family_structure",
+          "anatomical",
+          "social_hierarchy",
+          "genealogical",
+          "astronomical",
+          "human_classification",
+          "age_designation"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B008",
+        "meanings": [
+          "'fire' (ahi) for heat/light",
+          "'star' (hetu'u) alternative",
+          "radiating circular glyph for the sun",
+          "updated interpretation",
+          "a star."
+        ],
+        "primary_meaning": "'fire' (ahi) for heat/light",
+        "contexts": [
+          "temporal",
+          "astronomical",
+          "anatomical",
+          "calendrical",
+          "social_hierarchy",
+          "celestial",
+          "luminous",
+          "action"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B009",
+        "meanings": [
+          "anakena",
+          "represents sand",
+          "represents sand or beach",
+          "updated interpretation",
+          "beach"
+        ],
+        "primary_meaning": "anakena",
+        "contexts": [
+          "navigation",
+          "anatomical",
+          "social_hierarchy",
+          "endpoint_marker",
+          "geographic",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B010",
+        "meanings": [
+          "'lunar' adjectival form",
+          "adjectival form related to moon",
+          "crescent lunar glyph: 'moon' (māhina) celestial body",
+          "crescent-shaped glyph denoting the moon",
+          "crescent-shaped glyph denoting the moon or month"
+        ],
+        "primary_meaning": "'lunar' adjectival form",
+        "contexts": [
+          "temporal",
+          "astronomical",
+          "anatomical",
+          "calendrical",
+          "numerical",
+          "celestial",
+          "lunar_calendar",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B012",
+        "meanings": [
+          "fish pictograph",
+          "aquatic motion",
+          "fish",
+          "fish (verb)",
+          "ika"
+        ],
+        "primary_meaning": "fish pictograph",
+        "contexts": [
+          "aquatic",
+          "creation_mythology",
+          "anatomical",
+          "marine",
+          "calendrical",
+          "action",
+          "marine_life"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B016",
+        "meanings": [
+          "general marine life symbol",
+          "specific fish glyph identified as tuna",
+          "appears with tangaroa as tuna incarnation.",
+          "kahi",
+          "marine creature"
+        ],
+        "primary_meaning": "general marine life symbol",
+        "contexts": [
+          "anatomical",
+          "marine",
+          "ritual",
+          "action",
+          "divine_incarnation",
+          "marine_life"
+        ],
+        "confidence": 0.6
+      },
+      {
+        "glyph": "B029",
+        "meanings": [
+          "conch shell",
+          "trumpet"
+        ],
+        "primary_meaning": "conch shell",
+        "contexts": [
+          "ritual",
+          "marine",
+          "action"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B030",
+        "meanings": [
+          "general location concept",
+          "rectangular",
+          "rectangular or oval enclosure sign",
+          "denotes a house",
+          "dwelling"
+        ],
+        "primary_meaning": "general location concept",
+        "contexts": [
+          "architectural",
+          "habitation",
+          "object",
+          "geographic",
+          "spatial"
+        ],
+        "confidence": 0.65
+      },
+      {
+        "glyph": "B032",
+        "meanings": [
+          "marks divisions",
+          "marks divisions or section starts",
+          "updated interpretation",
+          "begin",
+          "beginning"
+        ],
+        "primary_meaning": "marks divisions",
+        "contexts": [
+          "textual_organization",
+          "structural",
+          "anatomical",
+          "action",
+          "social_hierarchy",
+          "genealogical",
+          "astronomical",
+          "punctuation"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B040",
+        "meanings": [
+          "'sea' (tai) marine water",
+          "movement of water",
+          "movement of water or liquid",
+          "wavy line glyph representing water",
+          "wavy line glyph representing water or sea"
+        ],
+        "primary_meaning": "'sea' (tai) marine water",
+        "contexts": [
+          "temporal_marker",
+          "marine",
+          "calendrical",
+          "ritual",
+          "numerical",
+          "fluid",
+          "astronomical",
+          "natural_elements",
+          "bird"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B041",
+        "meanings": [
+          "variant shape not used in night count",
+          "crescent variant",
+          "crescent variant/day marker",
+          "day marker",
+          "other time unit."
+        ],
+        "primary_meaning": "variant shape not used in night count",
+        "contexts": [
+          "anatomical",
+          "marine",
+          "calendrical",
+          "numerical",
+          "astronomical"
+        ],
+        "confidence": 0.5
+      },
+      {
+        "glyph": "B044",
+        "meanings": [
+          "bird glyph representing the frigatebird",
+          "ceremony",
+          "dance",
+          "frigate bird",
+          "frigatebird"
+        ],
+        "primary_meaning": "bird glyph representing the frigatebird",
+        "contexts": [
+          "ornithological",
+          "marine",
+          "sacred",
+          "clan_totemic",
+          "ritual",
+          "social_hierarchy",
+          "bird"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "glyph": "B048",
+        "meanings": [
+          "omen",
+          "star (falling)"
+        ],
+        "primary_meaning": "omen",
+        "contexts": [
+          "astronomical",
+          "anatomical",
+          "bird"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B049",
+        "meanings": [
+          "dusk",
+          "sun (setting)"
+        ],
+        "primary_meaning": "dusk",
+        "contexts": [
+          "astronomical",
+          "calendrical"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B053",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B054",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B055",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B056",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B057",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B058",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B059",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B061",
+        "meanings": [
+          "--",
+          "celestial dome representation: 'sky' (rangi) during day",
+          "celestial dome",
+          "color",
+          "color or quality determinative."
+        ],
+        "primary_meaning": "--",
+        "contexts": [
+          "cosmological",
+          "temporal",
+          "astronomical",
+          "anatomical",
+          "calendrical",
+          "celestial",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "glyph": "B062",
+        "meanings": [
+          "--",
+          "clause break",
+          "clause break, punctuation",
+          "clause separator",
+          "ki"
+        ],
+        "primary_meaning": "--",
+        "contexts": [
+          "structural",
+          "anatomical",
+          "action",
+          "grammatical",
+          "astronomical",
+          "punctuation"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B063",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B064",
+        "meanings": [
+          "color",
+          "color or quality determinative",
+          "attaches to deity glyphs.",
+          "bright marker",
+          "brightness"
+        ],
+        "primary_meaning": "color",
+        "contexts": [
+          "astronomical",
+          "ritual",
+          "numerical",
+          "human_classification"
+        ],
+        "confidence": 0.5
+      },
+      {
+        "glyph": "B065",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B066",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B067",
+        "meanings": [
+          "tree-like glyph representing the extinct easter island palm",
+          "cycle",
+          "cycle (repeat)",
+          "extinct palm",
+          "may also signify cycle"
+        ],
+        "primary_meaning": "tree-like glyph representing the extinct easter island palm",
+        "contexts": [
+          "cyclical",
+          "environmental",
+          "astronomical",
+          "calendrical",
+          "botanical",
+          "historical"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B068",
+        "meanings": [
+          "turtle pictograph",
+          "deep water life",
+          "hohonu ika",
+          "honu",
+          "reminiscent of the chinese character '龜' (turtle)."
+        ],
+        "primary_meaning": "turtle pictograph",
+        "contexts": [
+          "divine_association",
+          "marine",
+          "anatomical",
+          "mythological",
+          "ritual",
+          "action",
+          "genealogical",
+          "marine_life"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B069",
+        "meanings": [
+          "'chikchan').",
+          "chikchan').",
+          "depicts a lizard",
+          "comparable to serpents in mesoamerican day-signs (e.g.",
+          "gecko"
+        ],
+        "primary_meaning": "'chikchan').",
+        "contexts": [
+          "calendrical",
+          "divine",
+          "ritual",
+          "meteorological",
+          "reptilian",
+          "astronomical",
+          "lunar_calendar",
+          "action"
+        ],
+        "confidence": 0.85
+      },
+      {
+        "glyph": "B070",
+        "meanings": [
+          "'staff' (toko) authority rod",
+          "general implement",
+          "general implement or instrument",
+          "implement",
+          "instrument"
+        ],
+        "primary_meaning": "'staff' (toko) authority rod",
+        "contexts": [
+          "tools",
+          "anatomical",
+          "implements",
+          "object",
+          "authority_symbols"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "glyph": "B071",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B074",
+        "meanings": [
+          "fruit glyph signifying first quarter moon.",
+          "hua",
+          "hua (fruit)",
+          "first quarter moon",
+          "fruit"
+        ],
+        "primary_meaning": "fruit glyph signifying first quarter moon.",
+        "contexts": [
+          "temporal",
+          "astronomical",
+          "fertility",
+          "calendrical",
+          "botanical",
+          "lunar_calendar",
+          "action"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B075",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B076",
+        "meanings": [
+          "'ai",
+          "'ai (copulate)",
+          "'ai' or 'fanau'",
+          "'procreate' (fanau) reproductive action",
+          "(genealogical) ‘begat’"
+        ],
+        "primary_meaning": "'ai",
+        "contexts": [
+          "reproductive",
+          "human_classification",
+          "anatomical",
+          "relational",
+          "social_hierarchy",
+          "genealogical",
+          "sexual",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B077",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B078",
+        "meanings": [
+          "maure",
+          "maure (waning gibbous)",
+          "night after full moon",
+          "indicating diminishing lunar illumination.",
+          "maure"
+        ],
+        "primary_meaning": "maure",
+        "contexts": [
+          "temporal",
+          "anatomical",
+          "calendrical",
+          "astronomical",
+          "lunar_calendar"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B079",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B080",
+        "meanings": [
+          "'female' (vi'e) gender marker",
+          "'nurture' (hanau) care function. represents feminine",
+          "feminine gender marker",
+          "maternal symbolism: 'breast' (ūū) mammary gland",
+          "and nurturing concepts."
+        ],
+        "primary_meaning": "'female' (vi'e) gender marker",
+        "contexts": [
+          "nurturing",
+          "maternal",
+          "anatomical",
+          "gender",
+          "genealogical"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B081",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B082",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B083",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B084",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B085",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B086",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B087",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B088",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B089",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B091",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B092",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B093",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B094",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B095",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B096",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B097",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B098",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B099",
+        "meanings": [
+          "(variant sign)"
+        ],
+        "primary_meaning": "(variant sign)",
+        "contexts": [
+          "general"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B100",
+        "meanings": [
+          "'travel' (rere) journey",
+          "'walk' (kōpeka) pedestrian movement",
+          "locomotion concepts: 'leg' (va'e) anatomical limb",
+          "movement from place to place",
+          "journey"
+        ],
+        "primary_meaning": "'travel' (rere) journey",
+        "contexts": [
+          "anatomical",
+          "travel",
+          "movement",
+          "locomotion"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "glyph": "B143",
+        "meanings": [
+          "night before full moon",
+          "rakau",
+          "rakau (tree)",
+          "night before full moon",
+          "pre-full moon night"
+        ],
+        "primary_meaning": "night before full moon",
+        "contexts": [
+          "temporal",
+          "astronomical",
+          "calendrical",
+          "object",
+          "botanical",
+          "lunar_calendar"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B152",
+        "meanings": [
+          "'old woman lighting the oven in the sky'",
+          "'complete' (oti) finished state",
+          "circular disk with internal markings",
+          "complete entity without parts missing",
+          "full moon"
+        ],
+        "primary_meaning": "'old woman lighting the oven in the sky'",
+        "contexts": [
+          "calendrical",
+          "mythological",
+          "astronomical",
+          "lunar_calendar",
+          "completeness",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B200",
+        "meanings": [
+          "'king' (ariki henua) supreme authority",
+          "'ruler' (hakakina) governor",
+          "chief",
+          "updated interpretation",
+          "ariki"
+        ],
+        "primary_meaning": "'king' (ariki henua) supreme authority",
+        "contexts": [
+          "authority",
+          "anatomical",
+          "political",
+          "social_hierarchy",
+          "genealogical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B211",
+        "meanings": [
+          "no decipherment"
+        ],
+        "primary_meaning": "no decipherment",
+        "contexts": [
+          "anatomical"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B263",
+        "meanings": [
+          "no decipherment"
+        ],
+        "primary_meaning": "no decipherment",
+        "contexts": [
+          "anatomical"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B280",
+        "meanings": [
+          "turtle glyph",
+          "appears in genealogies",
+          "appears in genealogies and lunar sequence.",
+          "associated with god rongo",
+          "associated with god rongo or dark moon"
+        ],
+        "primary_meaning": "turtle glyph",
+        "contexts": [
+          "anatomical",
+          "marine",
+          "calendrical",
+          "action",
+          "ritual",
+          "genealogical",
+          "numerical",
+          "astronomical",
+          "lunar_calendar",
+          "longevity",
+          "human_classification",
+          "marine_life"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B300",
+        "meanings": [
+          "anthropomorphic female figure representing woman",
+          "anthropomorphic female figure representing woman or mother",
+          "female designation: 'woman' (vi'e) adult female",
+          "female parent",
+          "appears in genealogies."
+        ],
+        "primary_meaning": "anthropomorphic female figure representing woman",
+        "contexts": [
+          "social",
+          "maternal",
+          "anatomical",
+          "gender",
+          "genealogical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B326",
+        "meanings": [
+          "no decipherment"
+        ],
+        "primary_meaning": "no decipherment",
+        "contexts": [
+          "anatomical"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B400",
+        "meanings": [
+          "'young' (ui) recent birth",
+          "descendants",
+          "small human figure indicating child",
+          "small human figure indicating child or offspring",
+          "youth"
+        ],
+        "primary_meaning": "'young' (ui) recent birth",
+        "contexts": [
+          "genealogical",
+          "family",
+          "human_classification",
+          "age_designation"
+        ],
+        "confidence": 0.65
+      },
+      {
+        "glyph": "B600",
+        "meanings": [
+          "'frigatebird' (tavake) specific species",
+          "(fig.) spirit",
+          "avian symbolism: 'bird' (manu) general avian",
+          "bird glyph",
+          "specific seabird species"
+        ],
+        "primary_meaning": "'frigatebird' (tavake) specific species",
+        "contexts": [
+          "ornithological",
+          "bird_man_cult",
+          "creation_mythology",
+          "marine",
+          "sacred",
+          "ritual",
+          "bird",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B606",
+        "meanings": [
+          "'flock' (puhi manu) group flying together",
+          "(fig.) spirits (plural marker with ‘hand’)",
+          "6 (hand)",
+          "birds (plural)",
+          "composite of 600 (bird)"
+        ],
+        "primary_meaning": "'flock' (puhi manu) group flying together",
+        "contexts": [
+          "ornithological",
+          "collective_spirits",
+          "creation_mythology",
+          "anatomical",
+          "ritual",
+          "social_hierarchy",
+          "numerical",
+          "plural_construction",
+          "bird",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B610",
+        "meanings": [
+          "'origin' (mata) source",
+          "cosmogonic symbolism: 'egg' (hua) reproductive structure",
+          "egg",
+          "oval “egg” glyph representing origin",
+          "oval “egg” glyph representing origin or seed"
+        ],
+        "primary_meaning": "'origin' (mata) source",
+        "contexts": [
+          "cosmogonic",
+          "creation_mythology",
+          "anatomical",
+          "astronomical",
+          "origin",
+          "reproductive",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B700",
+        "meanings": [
+          "'victim' (kai) sacrifice target",
+          "(rebus) victim",
+          "fish",
+          "updated interpretation",
+          "fish"
+        ],
+        "primary_meaning": "'victim' (kai) sacrifice target",
+        "contexts": [
+          "sacrificial",
+          "anatomical",
+          "marine",
+          "mythological",
+          "agricultural",
+          "marine_life",
+          "ritual",
+          "social_hierarchy",
+          "historical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B730",
+        "meanings": [
+          "great shark",
+          "ika nui",
+          "important catch",
+          "large fish",
+          "large shark"
+        ],
+        "primary_meaning": "great shark",
+        "contexts": [
+          "marine_resources",
+          "anatomical",
+          "marine",
+          "size_designation",
+          "ritual",
+          "genealogical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.65
+      },
+      {
+        "glyph": "B999",
+        "meanings": [
+          "updated interpretation",
+          "end marker",
+          "paragraph break (non-lexical)",
+          "punctuation",
+          "section divider"
+        ],
+        "primary_meaning": "updated interpretation",
+        "contexts": [
+          "textual_organization",
+          "structural",
+          "action",
+          "social_hierarchy",
+          "genealogical",
+          "punctuation"
+        ],
+        "confidence": 0.9
+      }
+    ],
+    "determiners": [],
+    "conjunctions": [],
+    "numerals": [
+      {
+        "glyph": "B006",
+        "meanings": [
+          "hand glyph used as plural",
+          "hand glyph used as plural or collective marker",
+          "multi-functional glyph: anatomical 'hand' (rima)",
+          "updated interpretation",
+          "attaches to nouns to indicate many."
+        ],
+        "primary_meaning": "hand glyph used as plural",
+        "contexts": [
+          "quantifier",
+          "anatomical",
+          "grammatical_plural",
+          "social_hierarchy",
+          "numerical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B009",
+        "meanings": [
+          "anakena",
+          "represents sand",
+          "represents sand or beach",
+          "updated interpretation",
+          "beach"
+        ],
+        "primary_meaning": "anakena",
+        "contexts": [
+          "navigation",
+          "anatomical",
+          "social_hierarchy",
+          "endpoint_marker",
+          "geographic",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B010",
+        "meanings": [
+          "'lunar' adjectival form",
+          "adjectival form related to moon",
+          "crescent lunar glyph: 'moon' (māhina) celestial body",
+          "crescent-shaped glyph denoting the moon",
+          "crescent-shaped glyph denoting the moon or month"
+        ],
+        "primary_meaning": "'lunar' adjectival form",
+        "contexts": [
+          "temporal",
+          "astronomical",
+          "anatomical",
+          "calendrical",
+          "numerical",
+          "celestial",
+          "lunar_calendar",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B028",
+        "meanings": [
+          "beat",
+          "drum"
+        ],
+        "primary_meaning": "beat",
+        "contexts": [
+          "action"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B036",
+        "meanings": [
+          "venus",
+          "star (evening)"
+        ],
+        "primary_meaning": "venus",
+        "contexts": [
+          "astronomical",
+          "numerical"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B040",
+        "meanings": [
+          "'sea' (tai) marine water",
+          "movement of water",
+          "movement of water or liquid",
+          "wavy line glyph representing water",
+          "wavy line glyph representing water or sea"
+        ],
+        "primary_meaning": "'sea' (tai) marine water",
+        "contexts": [
+          "temporal_marker",
+          "marine",
+          "calendrical",
+          "ritual",
+          "numerical",
+          "fluid",
+          "astronomical",
+          "natural_elements",
+          "bird"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B041",
+        "meanings": [
+          "variant shape not used in night count",
+          "crescent variant",
+          "crescent variant/day marker",
+          "day marker",
+          "other time unit."
+        ],
+        "primary_meaning": "variant shape not used in night count",
+        "contexts": [
+          "anatomical",
+          "marine",
+          "calendrical",
+          "numerical",
+          "astronomical"
+        ],
+        "confidence": 0.5
+      },
+      {
+        "glyph": "B050",
+        "meanings": [
+          "'rock' (papa) general mineral. represents solid earth",
+          "alternative stone",
+          "alternative stone/mineral reference",
+          "angular mineral form: 'stone' (maea) individual rock",
+          "stone or rock symbol"
+        ],
+        "primary_meaning": "'rock' (papa) general mineral. represents solid earth",
+        "contexts": [
+          "geological",
+          "anatomical",
+          "permanent_structure",
+          "foundation",
+          "human_classification"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B064",
+        "meanings": [
+          "color",
+          "color or quality determinative",
+          "attaches to deity glyphs.",
+          "bright marker",
+          "brightness"
+        ],
+        "primary_meaning": "color",
+        "contexts": [
+          "astronomical",
+          "ritual",
+          "numerical",
+          "human_classification"
+        ],
+        "confidence": 0.5
+      },
+      {
+        "glyph": "B068",
+        "meanings": [
+          "turtle pictograph",
+          "deep water life",
+          "hohonu ika",
+          "honu",
+          "reminiscent of the chinese character '龜' (turtle)."
+        ],
+        "primary_meaning": "turtle pictograph",
+        "contexts": [
+          "divine_association",
+          "marine",
+          "anatomical",
+          "mythological",
+          "ritual",
+          "action",
+          "genealogical",
+          "marine_life"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B280",
+        "meanings": [
+          "turtle glyph",
+          "appears in genealogies",
+          "appears in genealogies and lunar sequence.",
+          "associated with god rongo",
+          "associated with god rongo or dark moon"
+        ],
+        "primary_meaning": "turtle glyph",
+        "contexts": [
+          "anatomical",
+          "marine",
+          "calendrical",
+          "action",
+          "ritual",
+          "genealogical",
+          "numerical",
+          "astronomical",
+          "lunar_calendar",
+          "longevity",
+          "human_classification",
+          "marine_life"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B606",
+        "meanings": [
+          "'flock' (puhi manu) group flying together",
+          "(fig.) spirits (plural marker with ‘hand’)",
+          "6 (hand)",
+          "birds (plural)",
+          "composite of 600 (bird)"
+        ],
+        "primary_meaning": "'flock' (puhi manu) group flying together",
+        "contexts": [
+          "ornithological",
+          "collective_spirits",
+          "creation_mythology",
+          "anatomical",
+          "ritual",
+          "social_hierarchy",
+          "numerical",
+          "plural_construction",
+          "bird",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B750",
+        "meanings": [
+          "'ancient' (tawhito) very old",
+          "very old",
+          "very old or from distant past",
+          "ancient",
+          "ancient' (tawhito) very old"
+        ],
+        "primary_meaning": "'ancient' (tawhito) very old",
+        "contexts": [
+          "temporal",
+          "marine_reptile",
+          "marine",
+          "object",
+          "longevity"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "glyph": "B999",
+        "meanings": [
+          "updated interpretation",
+          "end marker",
+          "paragraph break (non-lexical)",
+          "punctuation",
+          "section divider"
+        ],
+        "primary_meaning": "updated interpretation",
+        "contexts": [
+          "textual_organization",
+          "structural",
+          "action",
+          "social_hierarchy",
+          "genealogical",
+          "punctuation"
+        ],
+        "confidence": 0.9
+      }
+    ],
+    "proper_names": [
+      {
+        "glyph": "B001",
+        "meanings": [
+          "alternative translation of basic anthropomorphic glyph",
+          "basic human figure representing a person",
+          "basic human figure representing a person or ancestor",
+          "ancestor",
+          "appears in genealogical lists."
+        ],
+        "primary_meaning": "alternative translation of basic anthropomorphic glyph",
+        "contexts": [
+          "anatomical",
+          "social_hierarchy",
+          "genealogical",
+          "human_classification"
+        ],
+        "confidence": 0.85
+      },
+      {
+        "glyph": "B007",
+        "meanings": [
+          "anthropomorphic figure representing child",
+          "anthropomorphic figure representing child or descendant",
+          "updated interpretation",
+          "child",
+          "child, descendant"
+        ],
+        "primary_meaning": "anthropomorphic figure representing child",
+        "contexts": [
+          "family_structure",
+          "anatomical",
+          "social_hierarchy",
+          "genealogical",
+          "astronomical",
+          "human_classification",
+          "age_designation"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B032",
+        "meanings": [
+          "marks divisions",
+          "marks divisions or section starts",
+          "updated interpretation",
+          "begin",
+          "beginning"
+        ],
+        "primary_meaning": "marks divisions",
+        "contexts": [
+          "textual_organization",
+          "structural",
+          "anatomical",
+          "action",
+          "social_hierarchy",
+          "genealogical",
+          "astronomical",
+          "punctuation"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B076",
+        "meanings": [
+          "'ai",
+          "'ai (copulate)",
+          "'ai' or 'fanau'",
+          "'procreate' (fanau) reproductive action",
+          "(genealogical) ‘begat’"
+        ],
+        "primary_meaning": "'ai",
+        "contexts": [
+          "reproductive",
+          "human_classification",
+          "anatomical",
+          "relational",
+          "social_hierarchy",
+          "genealogical",
+          "sexual",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B200",
+        "meanings": [
+          "'king' (ariki henua) supreme authority",
+          "'ruler' (hakakina) governor",
+          "chief",
+          "updated interpretation",
+          "ariki"
+        ],
+        "primary_meaning": "'king' (ariki henua) supreme authority",
+        "contexts": [
+          "authority",
+          "anatomical",
+          "political",
+          "social_hierarchy",
+          "genealogical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B300",
+        "meanings": [
+          "anthropomorphic female figure representing woman",
+          "anthropomorphic female figure representing woman or mother",
+          "female designation: 'woman' (vi'e) adult female",
+          "female parent",
+          "appears in genealogies."
+        ],
+        "primary_meaning": "anthropomorphic female figure representing woman",
+        "contexts": [
+          "social",
+          "maternal",
+          "anatomical",
+          "gender",
+          "genealogical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B400",
+        "meanings": [
+          "'young' (ui) recent birth",
+          "descendants",
+          "small human figure indicating child",
+          "small human figure indicating child or offspring",
+          "youth"
+        ],
+        "primary_meaning": "'young' (ui) recent birth",
+        "contexts": [
+          "genealogical",
+          "family",
+          "human_classification",
+          "age_designation"
+        ],
+        "confidence": 0.65
+      },
+      {
+        "glyph": "B500",
+        "meanings": [
+          "'elder' (koroua) senior member",
+          "advanced in age",
+          "advanced in age or time",
+          "age",
+          "age/ancestry concepts: 'ancestor' (tupuna) forebear"
+        ],
+        "primary_meaning": "'elder' (koroua) senior member",
+        "contexts": [
+          "ancestral",
+          "authority",
+          "anatomical",
+          "calendrical",
+          "genealogical",
+          "human_classification",
+          "age_designation"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "glyph": "B730",
+        "meanings": [
+          "great shark",
+          "ika nui",
+          "important catch",
+          "large fish",
+          "large shark"
+        ],
+        "primary_meaning": "great shark",
+        "contexts": [
+          "marine_resources",
+          "anatomical",
+          "marine",
+          "size_designation",
+          "ritual",
+          "genealogical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.65
+      },
+      {
+        "glyph": "B999",
+        "meanings": [
+          "updated interpretation",
+          "end marker",
+          "paragraph break (non-lexical)",
+          "punctuation",
+          "section divider"
+        ],
+        "primary_meaning": "updated interpretation",
+        "contexts": [
+          "textual_organization",
+          "structural",
+          "action",
+          "social_hierarchy",
+          "genealogical",
+          "punctuation"
+        ],
+        "confidence": 0.9
+      }
+    ],
+    "kinship_markers": [
+      {
+        "glyph": "B001",
+        "meanings": [
+          "alternative translation of basic anthropomorphic glyph",
+          "basic human figure representing a person",
+          "basic human figure representing a person or ancestor",
+          "ancestor",
+          "appears in genealogical lists."
+        ],
+        "primary_meaning": "alternative translation of basic anthropomorphic glyph",
+        "contexts": [
+          "anatomical",
+          "social_hierarchy",
+          "genealogical",
+          "human_classification"
+        ],
+        "confidence": 0.85
+      },
+      {
+        "glyph": "B007",
+        "meanings": [
+          "anthropomorphic figure representing child",
+          "anthropomorphic figure representing child or descendant",
+          "updated interpretation",
+          "child",
+          "child, descendant"
+        ],
+        "primary_meaning": "anthropomorphic figure representing child",
+        "contexts": [
+          "family_structure",
+          "anatomical",
+          "social_hierarchy",
+          "genealogical",
+          "astronomical",
+          "human_classification",
+          "age_designation"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B020",
+        "meanings": [
+          "'plant' (tiare) general vegetation",
+          "action derived from plant symbolism",
+          "branching glyph representing a tree",
+          "branching glyph representing a tree or plant",
+          "grow"
+        ],
+        "primary_meaning": "'plant' (tiare) general vegetation",
+        "contexts": [
+          "growth",
+          "calendrical",
+          "agricultural",
+          "agriculture",
+          "genealogical",
+          "botanical",
+          "natural"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "glyph": "B026",
+        "meanings": [
+          "ear ornament",
+          "pendant"
+        ],
+        "primary_meaning": "ear ornament",
+        "contexts": [
+          "anatomical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B027",
+        "meanings": [
+          "mark",
+          "tattoo"
+        ],
+        "primary_meaning": "mark",
+        "contexts": [
+          "ritual",
+          "anatomical",
+          "human_classification"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B035",
+        "meanings": [
+          "venus",
+          "star (morning)"
+        ],
+        "primary_meaning": "venus",
+        "contexts": [
+          "astronomical",
+          "human_classification"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B061",
+        "meanings": [
+          "--",
+          "celestial dome representation: 'sky' (rangi) during day",
+          "celestial dome",
+          "color",
+          "color or quality determinative."
+        ],
+        "primary_meaning": "--",
+        "contexts": [
+          "cosmological",
+          "temporal",
+          "astronomical",
+          "anatomical",
+          "calendrical",
+          "celestial",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "glyph": "B076",
+        "meanings": [
+          "'ai",
+          "'ai (copulate)",
+          "'ai' or 'fanau'",
+          "'procreate' (fanau) reproductive action",
+          "(genealogical) ‘begat’"
+        ],
+        "primary_meaning": "'ai",
+        "contexts": [
+          "reproductive",
+          "human_classification",
+          "anatomical",
+          "relational",
+          "social_hierarchy",
+          "genealogical",
+          "sexual",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B080",
+        "meanings": [
+          "'female' (vi'e) gender marker",
+          "'nurture' (hanau) care function. represents feminine",
+          "feminine gender marker",
+          "maternal symbolism: 'breast' (ūū) mammary gland",
+          "and nurturing concepts."
+        ],
+        "primary_meaning": "'female' (vi'e) gender marker",
+        "contexts": [
+          "nurturing",
+          "maternal",
+          "anatomical",
+          "gender",
+          "genealogical"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B200",
+        "meanings": [
+          "'king' (ariki henua) supreme authority",
+          "'ruler' (hakakina) governor",
+          "chief",
+          "updated interpretation",
+          "ariki"
+        ],
+        "primary_meaning": "'king' (ariki henua) supreme authority",
+        "contexts": [
+          "authority",
+          "anatomical",
+          "political",
+          "social_hierarchy",
+          "genealogical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B300",
+        "meanings": [
+          "anthropomorphic female figure representing woman",
+          "anthropomorphic female figure representing woman or mother",
+          "female designation: 'woman' (vi'e) adult female",
+          "female parent",
+          "appears in genealogies."
+        ],
+        "primary_meaning": "anthropomorphic female figure representing woman",
+        "contexts": [
+          "social",
+          "maternal",
+          "anatomical",
+          "gender",
+          "genealogical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B400",
+        "meanings": [
+          "'young' (ui) recent birth",
+          "descendants",
+          "small human figure indicating child",
+          "small human figure indicating child or offspring",
+          "youth"
+        ],
+        "primary_meaning": "'young' (ui) recent birth",
+        "contexts": [
+          "genealogical",
+          "family",
+          "human_classification",
+          "age_designation"
+        ],
+        "confidence": 0.65
+      },
+      {
+        "glyph": "B500",
+        "meanings": [
+          "'elder' (koroua) senior member",
+          "advanced in age",
+          "advanced in age or time",
+          "age",
+          "age/ancestry concepts: 'ancestor' (tupuna) forebear"
+        ],
+        "primary_meaning": "'elder' (koroua) senior member",
+        "contexts": [
+          "ancestral",
+          "authority",
+          "anatomical",
+          "calendrical",
+          "genealogical",
+          "human_classification",
+          "age_designation"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "glyph": "B730",
+        "meanings": [
+          "great shark",
+          "ika nui",
+          "important catch",
+          "large fish",
+          "large shark"
+        ],
+        "primary_meaning": "great shark",
+        "contexts": [
+          "marine_resources",
+          "anatomical",
+          "marine",
+          "size_designation",
+          "ritual",
+          "genealogical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.65
+      }
+    ],
+    "affixes": [
+      {
+        "glyph": "B006",
+        "meanings": [
+          "hand glyph used as plural",
+          "hand glyph used as plural or collective marker",
+          "multi-functional glyph: anatomical 'hand' (rima)",
+          "updated interpretation",
+          "attaches to nouns to indicate many."
+        ],
+        "primary_meaning": "hand glyph used as plural",
+        "contexts": [
+          "quantifier",
+          "anatomical",
+          "grammatical_plural",
+          "social_hierarchy",
+          "numerical",
+          "human_classification",
+          "action"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  "grammatical_patterns": {
+    "genealogical_formula": {
+      "description": "Genealogical succession pattern",
+      "structure": "NAME_A [kinship_marker] NAME_B",
+      "examples": [
+        "Person A (glyph 76 = procreation marker) Person B",
+        "Ariki [chief glyph] NAME",
+        "NAME_1 NAME_2 (implicit 'son of' relationship)"
+      ],
+      "notes": "Older texts use explicit kinship markers (glyph 76), later texts use juxtaposition",
+      "evidence": "Santiago Staff, Tablet G (Small Santiago)"
+    },
+    "title_formula": {
+      "description": "Title + personal name pattern",
+      "structure": "TITLE NAME",
+      "examples": [
+        "Ariki henua [paramount chief] NAME",
+        "Ariki [chief] NAME"
+      ],
+      "notes": "Chief glyph (variant human figure with headdress) precedes name",
+      "evidence": "Tablets K (London), A (Tahua), G"
+    },
+    "procreation_formula": {
+      "description": "Explicit procreation relationship",
+      "structure": "NAME_1 PROCREATION_MARKER NAME_2 [produce] NAME_3",
+      "examples": [
+        "X (glyph 76) Y produce Z"
+      ],
+      "notes": "Glyph 76 = phallic symbol indicating procreation, literally 'mated with'",
+      "evidence": "Santiago Staff (ceremonial text)"
+    },
+    "sequential_listing": {
+      "description": "Simple name succession without explicit markers",
+      "structure": "NAME_1 NAME_2 NAME_3 ...",
+      "examples": [
+        "Sequential list of rulers/ancestors"
+      ],
+      "notes": "Later, streamlined genealogies omit explicit kinship markers",
+      "evidence": "Tablet G (later version)"
+    },
+    "juxtaposition_pattern": {
+      "description": "Implied relationship through adjacency",
+      "structure": "GLYPH_A GLYPH_B",
+      "examples": [
+        "A of B (possession)",
+        "A [implicitly connected to] B"
+      ],
+      "notes": "Elliptical style omits grammatical particles",
+      "evidence": "Multiple tablets"
+    }
+  },
+  "word_order": {
+    "basic_order": {
+      "type": "Variable (SVO/VSO tendencies)",
+      "description": "Rongorongo follows Polynesian patterns with flexible word order",
+      "evidence": "Elliptical style suggests context-dependent ordering",
+      "note": "Proto-writing nature means strict word order less critical than in fully phonetic scripts"
+    },
+    "genealogical_sequences": {
+      "type": "Linear succession",
+      "pattern": "ANCESTOR → DESCENDANT or PARENT → CHILD",
+      "description": "Names listed in generational order, top to bottom or left to right",
+      "markers": [
+        "Glyph 76 (procreation) between names",
+        "Section dividers between generations",
+        "Juxtaposition implies 'son of' relationship"
+      ]
+    },
+    "title_name_order": {
+      "type": "Modifier-Head",
+      "pattern": "TITLE + NAME",
+      "description": "Title/epithet precedes personal name",
+      "example": "Ariki [chief] + NAME"
+    },
+    "noun_phrases": {
+      "type": "Head-initial or Head-final",
+      "description": "Polynesian languages vary; Rapa Nui tends head-initial",
+      "note": "More data needed for confirmation in rongorongo"
+    }
+  },
+  "particles_and_affixes": {
+    "plural_marker": {
+      "glyph": "B006 (hand glyph)",
+      "function": "Plural or collective marker",
+      "usage": "Added to nouns to indicate plurality",
+      "confidence": 0.9,
+      "evidence": "Frequent co-occurrence with group nouns"
+    },
+    "procreation_marker": {
+      "glyph": "B076",
+      "function": "Kinship/procreation particle",
+      "usage": "Connects parent to offspring in genealogies",
+      "meaning": "'mated with' or 'produced'",
+      "confidence": 0.95,
+      "evidence": "Santiago Staff, explicit in ceremonial texts",
+      "note": "Often omitted in later/abbreviated genealogies"
+    },
+    "section_divider": {
+      "function": "Textual organization",
+      "usage": "Separates sections or generations",
+      "confidence": 0.85,
+      "evidence": "Tablets G, K, A show consistent divider use"
+    },
+    "chief_marker": {
+      "function": "Title indicator",
+      "description": "Special variant of human figure with headdress",
+      "usage": "Indicates 'ariki' (chief/king) title",
+      "confidence": 0.9,
+      "evidence": "Appears before names in royal genealogies"
+    }
+  },
+  "phonotactic_constraints": {
+    "note": "See analysis/constraints.json for Polynesian phonotactic rules",
+    "relevance": "Applies to oral realization, not script structure"
+  },
+  "key_findings": {
+    "genealogical_formulas": "Multiple patterns identified, including explicit procreation markers and implicit juxtaposition",
+    "title_patterns": "Consistent TITLE + NAME ordering in royal genealogies",
+    "evolution": "Script shows evolution from explicit markers (older texts) to streamlined juxtaposition (later texts)",
+    "parallel_texts": "Same genealogical sequences appear across multiple tablets, suggesting standardized formulas"
+  },
+  "limitations": {
+    "incomplete_corpus": "Many grammatical details must be inferred from limited texts",
+    "proto_writing_ambiguity": "Not a full writing system; some grammar exists only in oral recitation",
+    "variant_readings": "Multiple interpretations possible for complex passages"
+  },
+  "next_steps": [
+    "Phase 15: Cross-validate patterns across tablets",
+    "Phase 16: Integrate cultural context for disambiguation",
+    "Phase 17: Apply patterns to generate sense-weighted readings"
+  ]
+}

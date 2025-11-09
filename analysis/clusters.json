@@ -1,0 +1,404 @@
+{
+  "cluster_1": {
+    "id": 1,
+    "label": "genealogical",
+    "members": [
+      {
+        "glyph": "B001",
+        "confidence": 0.85
+      },
+      {
+        "glyph": "B076",
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B200",
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B400",
+        "confidence": 0.65
+      },
+      {
+        "glyph": "B500",
+        "confidence": 0.7
+      },
+      {
+        "glyph": "B999",
+        "confidence": 0.9
+      }
+    ],
+    "size": 6,
+    "modularity": 0.71,
+    "stability": 0.73,
+    "description": "Glyphs co-occurring in genealogical contexts"
+  },
+  "cluster_2": {
+    "id": 2,
+    "label": "human_classification",
+    "members": [
+      {
+        "glyph": "B001",
+        "confidence": 0.85
+      },
+      {
+        "glyph": "B007",
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B050",
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B060",
+        "confidence": 0.55
+      },
+      {
+        "glyph": "B152",
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B200",
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B300",
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B600",
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B606",
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B690",
+        "confidence": 0.5
+      }
+    ],
+    "size": 10,
+    "modularity": 0.75,
+    "stability": 0.75,
+    "description": "Glyphs co-occurring in human_classification contexts"
+  },
+  "cluster_3": {
+    "id": 3,
+    "label": "anatomical",
+    "members": [
+      {
+        "glyph": "B002",
+        "confidence": 0.7
+      },
+      {
+        "glyph": "B003",
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B005",
+        "confidence": 0.65
+      },
+      {
+        "glyph": "B006",
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B010",
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B100",
+        "confidence": 0.7
+      },
+      {
+        "glyph": "B606",
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B800",
+        "confidence": 0.55
+      }
+    ],
+    "size": 8,
+    "modularity": 0.73,
+    "stability": 0.74,
+    "description": "Glyphs co-occurring in anatomical contexts"
+  },
+  "cluster_4": {
+    "id": 4,
+    "label": "general",
+    "members": [
+      {
+        "glyph": "B004",
+        "confidence": 0.75
+      },
+      {
+        "glyph": "B009",
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B013",
+        "confidence": 0.5
+      },
+      {
+        "glyph": "B030",
+        "confidence": 0.65
+      },
+      {
+        "glyph": "B062",
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B064",
+        "confidence": 0.5
+      },
+      {
+        "glyph": "B070",
+        "confidence": 0.7
+      },
+      {
+        "glyph": "B080",
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B090",
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B610",
+        "confidence": 0.95
+      }
+    ],
+    "size": 10,
+    "modularity": 0.75,
+    "stability": 0.75,
+    "description": "Glyphs co-occurring in general contexts"
+  },
+  "cluster_5": {
+    "id": 5,
+    "label": "astronomical",
+    "members": [
+      {
+        "glyph": "B008",
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B010",
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B032",
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B040",
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B041",
+        "confidence": 0.5
+      },
+      {
+        "glyph": "B061",
+        "confidence": 0.7
+      },
+      {
+        "glyph": "B067",
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B072",
+        "confidence": 0.5
+      },
+      {
+        "glyph": "B073",
+        "confidence": 0.5
+      },
+      {
+        "glyph": "B074",
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B078",
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B143",
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B152",
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B280",
+        "confidence": 0.95
+      }
+    ],
+    "size": 14,
+    "modularity": 0.79,
+    "stability": 0.77,
+    "description": "Glyphs co-occurring in astronomical contexts"
+  },
+  "cluster_6": {
+    "id": 6,
+    "label": "calendrical",
+    "members": [
+      {
+        "glyph": "B010",
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B040",
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B041",
+        "confidence": 0.5
+      },
+      {
+        "glyph": "B061",
+        "confidence": 0.7
+      },
+      {
+        "glyph": "B067",
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B074",
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B078",
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B143",
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B152",
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B280",
+        "confidence": 0.95
+      }
+    ],
+    "size": 10,
+    "modularity": 0.75,
+    "stability": 0.75,
+    "description": "Glyphs co-occurring in calendrical contexts"
+  },
+  "cluster_7": {
+    "id": 7,
+    "label": "marine",
+    "members": [
+      {
+        "glyph": "B011",
+        "confidence": 0.6
+      },
+      {
+        "glyph": "B012",
+        "confidence": 0.55
+      },
+      {
+        "glyph": "B016",
+        "confidence": 0.5
+      },
+      {
+        "glyph": "B040",
+        "confidence": 0.8
+      },
+      {
+        "glyph": "B068",
+        "confidence": 0.6
+      },
+      {
+        "glyph": "B280",
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B700",
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B710",
+        "confidence": 0.65
+      },
+      {
+        "glyph": "B730",
+        "confidence": 0.65
+      },
+      {
+        "glyph": "B750",
+        "confidence": 0.7
+      },
+      {
+        "glyph": "B800",
+        "confidence": 0.55
+      }
+    ],
+    "size": 11,
+    "modularity": 0.76,
+    "stability": 0.76,
+    "description": "Glyphs co-occurring in marine contexts"
+  },
+  "cluster_8": {
+    "id": 8,
+    "label": "ritual",
+    "members": [
+      {
+        "glyph": "B044",
+        "confidence": 0.5
+      },
+      {
+        "glyph": "B069",
+        "confidence": 0.85
+      },
+      {
+        "glyph": "B600",
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B700",
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B730",
+        "confidence": 0.65
+      }
+    ],
+    "size": 5,
+    "modularity": 0.7,
+    "stability": 0.72,
+    "description": "Glyphs co-occurring in ritual contexts"
+  },
+  "cluster_9": {
+    "id": 9,
+    "label": "bird",
+    "members": [
+      {
+        "glyph": "B044",
+        "confidence": 0.5
+      },
+      {
+        "glyph": "B600",
+        "confidence": 0.9
+      },
+      {
+        "glyph": "B606",
+        "confidence": 0.95
+      },
+      {
+        "glyph": "B690",
+        "confidence": 0.5
+      }
+    ],
+    "size": 4,
+    "modularity": 0.69,
+    "stability": 0.72,
+    "description": "Glyphs co-occurring in bird contexts"
+  }
+}

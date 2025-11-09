@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "phase": 7,
+    "title": "Segmentation (Words/Phrases) without Spaces",
+    "created": "2025-10-30T07:03:02.869567",
+    "methodology": "Conservative boundary identification with confidence scores",
+    "updated": "2025-10-30T07:03:02.869576"
+  },
+  "segmentation_principles": [
+    "Section dividers clearly mark major boundaries",
+    "Genealogical formulas form discrete units",
+    "Glyph 76 (procreation marker) signals phrase boundaries",
+    "Title markers (B200) indicate entity boundaries",
+    "Calendar units have systematic segmentation",
+    "Juxtaposition patterns suggest minimal explicit segmentation",
+    "Elliptical style: fewer boundaries than in fully phonetic writing"
+  ],
+  "boundary_markers": [
+    {
+      "boundary_id": "BM001",
+      "type": "section_divider",
+      "function": "Separates generations/sections in genealogies",
+      "glyph_marker": "visual-divider",
+      "confidence": 0.95,
+      "frequency": "high",
+      "context": "genealogical",
+      "examples": 3,
+      "notes": "Clear visual separator, no ambiguity"
+    },
+    {
+      "boundary_id": "BM002",
+      "type": "explicit_formula",
+      "function": "NAME + MARKER + NAME creates natural boundary",
+      "glyph_marker": "B076",
+      "confidence": 0.85,
+      "frequency": "moderate",
+      "context": "genealogical",
+      "examples": 8,
+      "notes": "Glyph B076 (procreation) signals phrase boundary"
+    },
+    {
+      "boundary_id": "BM003",
+      "type": "semantic_shift",
+      "function": "Context change implies boundary",
+      "glyph_marker": "context-dependent",
+      "confidence": 0.6,
+      "frequency": "context_dependent",
+      "context": "mixed",
+      "examples": 12,
+      "notes": "Inferred from semantic analysis, less certain"
+    },
+    {
+      "boundary_id": "BM004",
+      "type": "title_marker",
+      "function": "Royal title signals start of new entity",
+      "glyph_marker": "B200",
+      "confidence": 0.8,
+      "frequency": "moderate",
+      "context": "social_hierarchy",
+      "examples": 6,
+      "notes": "B200 (king/ariki) marks entity boundary"
+    },
+    {
+      "boundary_id": "BM005",
+      "type": "calendar_unit",
+      "function": "Lunar phase markers segment calendar",
+      "glyph_marker": "B152-series",
+      "confidence": 0.9,
+      "frequency": "calendar_specific",
+      "context": "astronomical",
+      "examples": 29,
+      "notes": "Clear segmentation in Mamari calendar"
+    },
+    {
+      "boundary_id": "BM006",
+      "type": "list_item",
+      "function": "Bird catalog item separators",
+      "glyph_marker": "B600-series",
+      "confidence": 0.75,
+      "frequency": "low",
+      "context": "enumeration",
+      "examples": 1,
+      "notes": "Systematic enumeration pattern"
+    }
+  ],
+  "segmentation_challenges": [
+    "Proto-writing nature: not fully phonetic",
+    "Elliptical encoding: boundaries often implied not marked",
+    "Script evolution: early texts more explicit than later",
+    "Reader knowledge required: oral tradition fills gaps",
+    "Context-dependent interpretation needed"
+  ],
+  "word_equivalent_units": {
+    "description": "Concept-word units rather than phonetic words",
+    "average_length": "1-3 glyphs per unit",
+    "formula_units": "Genealogical formulas = 3-5 glyph units",
+    "calendar_units": "Single glyph = day unit in Mamari",
+    "title_units": "Title + name = 2 glyph unit",
+    "confidence": 0.7
+  },
+  "constraint_integration": {
+    "phonotactic_constraints": {
+      "cv_bias": "Applied to validate segment phonology",
+      "no_clusters": "Helps identify likely segment boundaries",
+      "vowel_endings": "Confirms segment completeness"
+    },
+    "cultural_constraints": {
+      "genealogical_patterns": "Validates family unit segmentation",
+      "calendar_structure": "Confirms day/phase boundaries",
+      "kinship_terms": "Identifies relationship segments"
+    },
+    "structural_constraints": {
+      "ligature_boundaries": "Ligatures form atomic units",
+      "formula_patterns": "Recurring formulas segment together",
+      "context_shifts": "Major context changes signal boundaries"
+    }
+  },
+  "statistics": {
+    "total_boundary_types": 6,
+    "high_confidence_boundaries": 4,
+    "context_dependent_boundaries": 1,
+    "total_examples_documented": 59
+  }
+}
