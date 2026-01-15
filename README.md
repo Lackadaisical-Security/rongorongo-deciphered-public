@@ -388,4 +388,4 @@ Violations will result in immediate legal action and public disclosure.
 
 ---
 
-*"We opt for meaning first; full translation emerges where culture + structure + context converge."*
+*"We are not affiliated with ANY known researchers, We would most certainly let you know."*
