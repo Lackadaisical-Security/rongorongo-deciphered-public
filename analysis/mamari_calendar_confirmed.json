@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "phase": 21,
+    "title": "Mamari Calendar — Confirmed Glyph-to-Night Mappings",
+    "date": "2026-03-08",
+    "tablet": "C (Mamari)",
+    "lines": "C6-C8",
+    "methodology": "Only entries confirmed by master lexicon + calendarbank with stated confidence and tablet attestation",
+    "sources": [
+      "banks/calendarbank.json",
+      "rongorongo_lexicon_MASTER_MERGE_2025-09-25_cleaned_notes.json",
+      "banks/sensebank.json",
+      "Barthel 1958",
+      "Guy 1990/1998",
+      "Horley 2011"
+    ]
+  },
+  "confirmed_high": [
+    {
+      "glyph": "B010",
+      "meaning": "moon / month (crescent)",
+      "rapanui": ["mahina", "marama"],
+      "confidence": 0.90,
+      "occurrence_count": 78,
+      "tablets": ["Mamari", "Santiago Staff"],
+      "calendar_role": "General moon marker recurring throughout calendar sequence",
+      "evidence": "Calendarbank + lexicon agreement; Barthel 1958; Guy 1998"
+    },
+    {
+      "glyph": "B074",
+      "meaning": "Hua (fruit) / first-quarter moon",
+      "rapanui": ["hua"],
+      "confidence": 0.90,
+      "occurrence_count": 15,
+      "tablets": ["Mamari"],
+      "calendar_role": "Night Hua — first quarter moon, approximately night 8",
+      "evidence": "Guy 1998; calendarbank; fruit shape consistent with first-quarter metaphor; position in sequence"
+    },
+    {
+      "glyph": "B143",
+      "meaning": "Rakau (tree / wood) — night before full moon",
+      "rapanui": ["rakau"],
+      "confidence": 0.90,
+      "occurrence_count": 11,
+      "tablets": ["Mamari"],
+      "calendar_role": "Night(s) Rakau — penultimate pre-full-moon night(s), approximately nights 11-12",
+      "evidence": "Barthel 1958; calendarbank; tree shape; positional evidence immediately before B152"
+    },
+    {
+      "glyph": "B152",
+      "meaning": "Omotohi — 'Old Woman Lighting the Oven in the Sky' / full moon",
+      "rapanui": ["omotohi", "motohi", "mahina"],
+      "confidence": 0.95,
+      "occurrence_count": 16,
+      "tablets": ["Mamari"],
+      "calendar_role": "Night 15 — FULL MOON. Structural anchor for entire calendar sequence.",
+      "evidence": "Barthel 1958; scholarly consensus; central position in sequence; iconographic match (circular disc with interior figure); highest-confidence glyph identification in entire corpus"
+    },
+    {
+      "glyph": "B078",
+      "meaning": "Maure / waning gibbous — first night after full moon",
+      "rapanui": ["maure"],
+      "confidence": 0.80,
+      "occurrence_count": 8,
+      "tablets": ["Mamari"],
+      "calendar_role": "Night Maure — first waning night, approximately night 16",
+      "evidence": "Guy 1998; calendarbank; position immediately following B152 in sequence"
+    },
+    {
+      "glyph": "B280",
+      "meaning": "Turtle (honu) — dark moon phase",
+      "rapanui": ["honu", "Mutu"],
+      "confidence": 0.95,
+      "occurrence_count": 10,
+      "tablets": ["Mamari"],
+      "calendar_role": "Dark moon / new-moon approach, approximately nights 26-28",
+      "evidence": "Metoro reading ('honu'); Barthel 1958; calendarbank (dark moon association); position at end of calendar section"
+    }
+  ],
+  "moderate_confidence": [
+    {
+      "glyph": "B067",
+      "meaning": "Extinct Easter Island palm (Paschalococos) / cycle / Rongo",
+      "rapanui": ["niu", "Rongo", "Paschalococos"],
+      "confidence": 0.80,
+      "occurrence_count": 29,
+      "tablets": ["Mamari", "Santiago Staff"],
+      "calendar_role": "Possibly marks 'Rongo' waning-half phase — the god Rongo is associated with the moon and agriculture",
+      "caveat": "Cycle meaning plausible but night-specific assignment unconfirmed"
+    },
+    {
+      "glyph": "B069",
+      "meaning": "Lizard (moko) / rain god Hiro",
+      "rapanui": ["moko"],
+      "confidence": 0.85,
+      "occurrence_count": 33,
+      "tablets": ["Mamari", "Santiago Staff"],
+      "calendar_role": "Possibly night 'Ohiro' (the Hiro night, ~night 14) — Hiro = rain god with lizard association",
+      "caveat": "Night-specific assignment is positional inference; not directly confirmed"
+    },
+    {
+      "glyph": "B045",
+      "meaning": "Dark moon / new moon",
+      "rapanui": ["mahana poiri", "mutu"],
+      "confidence": 0.75,
+      "occurrence_count": 1,
+      "tablets": [],
+      "calendar_role": "New moon / dark moon phase",
+      "caveat": "Only 1 occurrence in lexicon; no tablet attestation listed; needs more evidence"
+    },
+    {
+      "glyph": "B072",
+      "meaning": "Sprout / night name Hotu",
+      "rapanui": ["hotu"],
+      "confidence": 0.50,
+      "occurrence_count": 2,
+      "tablets": [],
+      "calendar_role": "Night Ohotu (sprouting, near dark moon) — candidate only",
+      "caveat": "Low confidence; only 2 occurrences; no tablet attestation"
+    },
+    {
+      "glyph": "B073",
+      "meaning": "Deity figure / night name Otua",
+      "rapanui": ["atua"],
+      "confidence": 0.50,
+      "occurrence_count": 2,
+      "tablets": [],
+      "calendar_role": "Night Atua (~night 4) — candidate only",
+      "caveat": "Low confidence; only 2 occurrences; no tablet attestation"
+    }
+  ],
+  "unconfirmed_claims": [
+    {
+      "claim": "Glyph 40 = night-count tally / Kokore marker",
+      "problem": "Lexicon: G40 = wavy line = water/sea (vai/tai), conf 0.80. Visual form (wavy line) contradicts 'small vertical stroke' description. Kokore mechanism not confirmed in lexicon data."
+    },
+    {
+      "claim": "Glyph 385 = intercalary night markers",
+      "problem": "Lexicon: G385 = confidence 0.0, no meaning, 0 occurrences. Cannot be used."
+    }
+  ],
+  "orientation_coding": {
+    "confirmed": true,
+    "description": "Glyphs drawn upright in waxing phase, inverted after full moon (night 15 B152). Documented by Barthel 1958. Visually observable in tablet images.",
+    "specific_glyphs_affected": "Not individually confirable at current image resolution — documented in published literature"
+  },
+  "statistics": {
+    "total_nights_in_cycle": 30,
+    "nights_confirmed_high": 6,
+    "nights_moderate": 5,
+    "nights_unidentified": "~19 remaining"
+  }
+}
